@@ -1,0 +1,44 @@
+DROP TABLE "Crash_Locations";
+DROP TABLE "airbnbs";
+
+CREATE TABLE "airbnbs" (
+    "neighbourhood" VARCHAR(66)   NOT NULL,
+    "latitude" INT   NOT NULL,
+    "longitude" INT   NOT NULL,
+    "room_type" VARCHAR(66)   NOT NULL,
+    "price" money   NOT NULL,
+     )
+);
+
+CREATE TABLE "Crash_Locations" (
+    "number" int   NOT NULL,
+    "accident_year" int   NOT NULL,
+    "collision_date" varchar(30)   NOT NULL,
+    "collision_time" int   NOT NULL,
+    "Day_of_week" int   NOT NULL,
+    "longitude" int   NOT NULL,
+    "latitude" int   NOT NULL,
+    CONSTRAINT "pk_Crash_Locations" PRIMARY KEY (
+        "number"
+     )
+);
+
+ALTER TABLE "airbnbs"
+ADD CONSTRAINT "unique_airbnbs_id_longitude_latitude" UNIQUE ("longitude", "latitude");
+
+
+CREATE INDEX "idx_airbnbs_neighbourhood"
+ON "airbnbs" ("neighbourhood");
+
+UPDATE "Crash_Locations"
+SET "collision_date" = '1742-01-01'::DATE;
+
+ALTER TABLE "airbnbs"
+ALTER COLUMN "latitude" TYPE NUMERIC(10, 6);
+ALTER TABLE "airbnbs"
+ALTER COLUMN "longitude" TYPE NUMERIC(10, 6);
+
+ALTER TABLE "Crash_Locations"
+ALTER COLUMN "longitude" TYPE NUMERIC(10, 6);
+ALTER TABLE "Crash_Locations"
+ALTER COLUMN "latitude" TYPE NUMERIC(10, 6); 
