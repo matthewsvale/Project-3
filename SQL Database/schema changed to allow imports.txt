@@ -37,8 +37,20 @@ ALTER TABLE "airbnbs"
 ALTER COLUMN "latitude" TYPE NUMERIC(10, 6);
 ALTER TABLE "airbnbs"
 ALTER COLUMN "longitude" TYPE NUMERIC(10, 6);
+ALTER TABLE "airbnbs"
+ALTER COLUMN "price" TYPE NUMERIC(10, 2);
 
 ALTER TABLE "Crash_Locations"
 ALTER COLUMN "longitude" TYPE NUMERIC(10, 6);
 ALTER TABLE "Crash_Locations"
 ALTER COLUMN "latitude" TYPE NUMERIC(10, 6); 
+
+
+SELECT * FROM airbnbs
+SELECT * FROM "Crash_Locations"
+
+
+
+SELECT column_name, data_type
+FROM information_schema.columns
+WHERE table_name = 'airbnbs' AND data_type = 'numeric';
