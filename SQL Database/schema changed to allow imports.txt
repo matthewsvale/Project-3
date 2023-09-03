@@ -2,11 +2,14 @@ DROP TABLE "Crash_Locations";
 DROP TABLE "airbnbs";
 
 CREATE TABLE "airbnbs" (
+    "id" int   NOT NULL,
     "neighbourhood" VARCHAR(66)   NOT NULL,
     "latitude" INT   NOT NULL,
     "longitude" INT   NOT NULL,
     "room_type" VARCHAR(66)   NOT NULL,
     "price" money   NOT NULL,
+    CONSTRAINT "pk_airbnbs" PRIMARY KEY (
+        "id"
      )
 );
 
@@ -24,11 +27,8 @@ CREATE TABLE "Crash_Locations" (
 );
 
 ALTER TABLE "airbnbs"
-ADD CONSTRAINT "unique_airbnbs_id_longitude_latitude" UNIQUE ("longitude", "latitude");
+ADD CONSTRAINT "unique_airbnbs_id_longitude_latitude" UNIQUE ("id", "longitude", "latitude");
 
-
-CREATE INDEX "idx_airbnbs_neighbourhood"
-ON "airbnbs" ("neighbourhood");
 
 UPDATE "Crash_Locations"
 SET "collision_date" = '1742-01-01'::DATE;
