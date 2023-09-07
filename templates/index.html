@@ -6,11 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>San Diego Safety Trip</title>
+  <!-- Include Plotly.js library -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
     crossorigin="" />
+
+  <!-- Leaflet.markercluster CSS -->
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
 
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
@@ -20,11 +26,148 @@
 
   <!-- The div that holds our map -->
   <div id="map"></div>
+  <!-- Div for Bar Chart -->
+  <div id="bar-chart">
+    <label for="column-select">Select Column:</label>
+    <select id="column-select">
+      <option value="ADAMS_NORTH">ADAMS_NORTH</option>
+      <option value="ALLIED_GARDENS">ALLIED_GARDENS</option>
+      <option value="ALTA_VISTA">ALTA_VISTA</option>
+      <option value="AZALEA_HOLLYWOOD_PARK">AZALEA_HOLLYWOOD_PARK</option>
+      <option value="BALBOA_PARK">BALBOA_PARK</option>
+      <option value="BARRIO_LOGAN">BARRIO_LOGAN</option>
+      <option value="BAY_HO">BAY_HO</option>
+      <option value="BAY_PARK">BAY_PARK</option>
+      <option value="BAY_TERRACES">BAY_TERRACES</option>
+      <option value="BIRDLAND">BIRDLAND</option>
+      <option value="BLACK_MOUNTAIN_RANCH">BLACK_MOUNTAIN_RANCH</option>
+      <option value="BORDER">BORDER</option>
+      <option value="BROADWAY_HEIGHTS">BROADWAY_HEIGHTS</option>
+      <option value="BURLINGAME">BURLINGAME</option>
+      <option value="CARMEL_MOUNTAIN">CARMEL_MOUNTAIN</option>
+      <option value="CARMEL_VALLEY">CARMEL_VALLEY</option>
+      <option value="CASTLE">CASTLE</option>
+      <option value="CHEROKEE_POINT">CHEROKEE_POINT</option>
+      <option value="CHOLLAS_CREEK">CHOLLAS_CREEK</option>
+      <option value="CHOLLAS_VIEW">CHOLLAS_VIEW</option>
+      <option value="CLAIREMONT_MESA_EAST">CLAIREMONT_MESA_EAST</option>
+      <option value="CLAIREMONT_MESA_WEST">CLAIREMONT_MESA_WEST</option>
+      <option value="COLINA_DEL_SOL">COLINA_DEL_SOL</option>
+      <option value="COLLEGE_AREA_EAST">COLLEGE_AREA_EAST</option>
+      <option value="COLLEGE_AREA_WEST">COLLEGE_AREA_WEST</option>
+      <option value="CORE_COLUMBIA">CORE_COLUMBIA</option>
+      <option value="CORRIDOR">CORRIDOR</option>
+      <option value="CORTEZ">CORTEZ</option>
+      <option value="DEL_CERRO">DEL_CERRO</option>
+      <option value="DEL_MAR_HEIGHTS">DEL_MAR_HEIGHTS</option>
+      <option value="EAST_VILLAGE">EAST_VILLAGE</option>
+      <option value="EGGER_HIGHLANDS">EGGER_HIGHLANDS</option>
+      <option value="EL_CERRITO">EL_CERRITO</option>
+      <option value="EMERALD_HILLS">EMERALD_HILLS</option>
+      <option value="ENCANTO">ENCANTO</option>
+      <option value="FAIRMOUNT_PARK">FAIRMOUNT_PARK</option>
+      <option value="FAIRMOUNT_VILLAGE">FAIRMOUNT_VILLAGE</option>
+      <option value="FOX_CANYON">FOX_CANYON</option>
+      <option value="GASLAMP">GASLAMP</option>
+      <option value="GOLDEN_HILL">GOLDEN_HILL</option>
+      <option value="GRANT_HILL">GRANT_HILL</option>
+      <option value="GRANTVILLE">GRANTVILLE</option>
+      <option value="HARBORVIEW">HARBORVIEW</option>
+      <option value="HILLCREST">HILLCREST</option>
+      <option value="HORTON_PLAZA">HORTON_PLAZA</option>
+      <option value="ISLENAIR">ISLENAIR</option>
+      <option value="JAMACHA_LOMITA">JAMACHA_LOMITA</option>
+      <option value="KEARNY_MESA">KEARNY_MESA</option>
+      <option value="KENSINGTON">KENSINGTON</option>
+      <option value="LA_JOLLA">LA_JOLLA</option>
+      <option value="LA_PLAYA">LA_PLAYA</option>
+      <option value="LAKE_MURRAY">LAKE_MURRAY</option>
+      <option value="LINCOLN_PARK">LINCOLN_PARK</option>
+      <option value="LINDA_VISTA">LINDA_VISTA</option>
+      <option value="LITTLE_ITALY">LITTLE_ITALY</option>
+      <option value="LOGAN_HEIGHTS">LOGAN_HEIGHTS</option>
+      <option value="LOMA_PORTAL">LOMA_PORTAL</option>
+      <option value="MARINA">MARINA</option>
+      <option value="MIDTOWN">MIDTOWN</option>
+      <option value="MIDWAY_DISTRICT">MIDWAY_DISTRICT</option>
+      <option value="MIRA_MESA">MIRA_MESA</option>
+      <option value="MIRAMAR">MIRAMAR</option>
+      <option value="MIRAMAR_RANCH_NORTH">MIRAMAR_RANCH_NORTH</option>
+      <option value="MISSION_BAY_PARK">MISSION_BAY_PARK</option>
+      <option value="MISSION_BEACH">MISSION_BEACH</option>
+      <option value="MISSION_HILLS">MISSION_HILLS</option>
+      <option value="MISSION_VALLEY_EAST">MISSION_VALLEY_EAST</option>
+      <option value="MISSION_VALLEY_WEST">MISSION_VALLEY_WEST</option>
+      <option value="MORENA">MORENA</option>
+      <option value="MOUNTAIN_VIEW">MOUNTAIN_VIEW</option>
+      <option value="MT_HOPE">MT_HOPE</option>
+      <option value="NESTOR">NESTOR</option>
+      <option value="NORMAL_HEIGHTS">NORMAL_HEIGHTS</option>
+      <option value="NORTH_CITY">NORTH_CITY</option>
+      <option value="NORTH_CLAIREMONT">NORTH_CLAIREMONT</option>
+      <option value="NORTH_PARK">NORTH_PARK</option>
+      <option value="OAK_PARK">OAK_PARK</option>
+      <option value="OCEAN_BEACH">OCEAN_BEACH</option>
+      <option value="OCEAN_CREST">OCEAN_CREST</option>
+      <option value="OLD_TOWN">OLD_TOWN</option>
+      <option value="OTAY_MESA">OTAY_MESA</option>
+      <option value="OTAY_MESA_WEST">OTAY_MESA_WEST</option>
+      <option value="PACIFIC_BEACH">PACIFIC_BEACH</option>
+      <option value="PALM_CITY">PALM_CITY</option>
+      <option value="PARADISE_HILLS">PARADISE_HILLS</option>
+      <option value="PARK_WEST">PARK_WEST</option>
+      <option value="PETCO_PARK">PETCO_PARK</option>
+      <option value="POINT_LOMA_HEIGHTS">POINT_LOMA_HEIGHTS</option>
+      <option value="QUALCOMM">QUALCOMM</option>
+      <option value="RANCHO_BERNARDO">RANCHO_BERNARDO</option>
+      <option value="RANCHO_ENCANTADA">RANCHO_ENCANTADA</option>
+      <option value="RANCHO_PENASQUITOS">RANCHO_PENASQUITOS</option>
+      <option value="REDWOOD_VILLAGE_ROLANDO_PARK">REDWOOD_VILLAGE_ROLANDO_PARK</option>
+      <option value="RIDGEVIEW_WEBSTER">RIDGEVIEW_WEBSTER</option>
+      <option value="ROLANDO">ROLANDO</option>
+      <option value="ROSEVILLE_FLEET_RIDGE">ROSEVILLE_FLEET_RIDGE</option>
+      <option value="SABRE_SPRINGS">SABRE_SPRINGS</option>
+      <option value="SAN_CARLOS">SAN_CARLOS</option>
+      <option value="SAN_PASQUAL">SAN_PASQUAL</option>
+      <option value="SAN_YSIDRO">SAN_YSIDRO</option>
+      <option value="SCRIPPS_RANCH">SCRIPPS_RANCH</option>
+      <option value="SERRA_MESA">SERRA_MESA</option>
+      <option value="SHELLTOWN">SHELLTOWN</option>
+      <option value="SHERMAN_HEIGHTS">SHERMAN_HEIGHTS</option>
+      <option value="SKYLINE">SKYLINE</option>
+      <option value="SORRENTO_VALLEY">SORRENTO_VALLEY</option>
+      <option value="SOUTH_PARK">SOUTH_PARK</option>
+      <option value="SOUTHCREST">SOUTHCREST</option>
+      <option value="STOCKTON">STOCKTON</option>
+      <option value="SUNSET_CLIFFS">SUNSET_CLIFFS</option>
+      <option value="SWAN_CANYON">SWAN_CANYON</option>
+      <option value="TALMADGE">TALMADGE</option>
+      <option value="TERALTA_EAST">TERALTA_EAST</option>
+      <option value="TERALTA_WEST">TERALTA_WEST</option>
+      <option value="TIERRASANTA">TIERRASANTA</option>
+      <option value="TIJUANA_RIVER_VALLEY">TIJUANA_RIVER_VALLEY</option>
+      <option value="TORREY_HIGHLANDS">TORREY_HIGHLANDS</option>
+      <option value="TORREY_PINES">TORREY_PINES</option>
+      <option value="TORREY_PRESERVE">TORREY_PRESERVE</option>
+      <option value="UNIVERSITY_CITY">UNIVERSITY_CITY</option>
+      <option value="UNIVERSITY_HEIGHTS">UNIVERSITY_HEIGHTS</option>
+      <option value="VALENCIA_PARK">VALENCIA_PARK</option>
+      <option value="WOODED_AREA">WOODED_AREA</option>
+      <option value="Total">Total</option>
+
+
+      
+    </select>
+  </div>
+  <!-- Div for Pie Chart -->
+  <div id="pie-chart"></div>
 
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""></script>
+  <!-- Leaflet.markercluster JavaScript -->
+  <script src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
   <!-- D3 JavaScript -->
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <!-- Our JavaScript -->

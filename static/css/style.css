@@ -6,3 +6,12 @@ body {
   height: 90%;
   width: 100vw;
   }
+
+  /* Add styles for #bar-chart */
+#bar-chart {
+  width: 80%; /* Adjust to your preferred width */
+  height: 400px; /* Adjust to your preferred height */
+  margin: 20px auto; /* Center the chart horizontally with top/bottom margins */
+  background-color: #f0f0f0; /* Set background color */
+  /* Add more styling as needed */
+}
