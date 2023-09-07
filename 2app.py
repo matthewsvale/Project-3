@@ -1,8 +1,10 @@
 from flask import Flask, render_template, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import Column, Integer, String, Float
+import plotly
 
 db = SQLAlchemy()
+
 
 class Airbnb(db.Model):
     __tablename__ = 'airbnbs'
@@ -144,6 +146,16 @@ class Crime(db.Model):
     Total = db.Column(db.Integer)
     
 
+class Crash_Locations(db.Model):
+    __tablename__ = 'Crash_Locations'
+    number = db.Column(db.Integer, primary_key=True)
+    accident_year = db.Column(db.Integer)
+    collision_date = db.Column(db.String(255))
+    collision_time  = db.Column(db.Integer)
+    Day_of_week = db.Column(db.Integer)
+    longitude = db.Column(db.Integer)
+    latitude = db.Column(db.Integer) 
+
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://mypostgres:postgres@localhost:5432/vacation_safety_db'
@@ -203,6 +215,17 @@ def crime_data():
     except Exception as e:
         return jsonify({'error': str(e)}), 400
 
+@app.route('/car_crash')
+def crash_data():
+    try:
+        pie_data = Crash_Locations.query.all()
+
+        data_list = [{'number': data.number, 'accident_year': data.accident_year, 'collision_date': data.collision_date, 'collision_time': data.collision_time, 
+                      'Day_of_week': data.Day_of_week, 'longitude': data.longitude, 'latitude': data.latitude} for data in pie_data]
+        
+        return jsonify(data_list)
+    except Exception as e:
+        return jsonify({'error': str(e)}), 400
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

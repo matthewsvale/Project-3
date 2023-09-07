@@ -7,6 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 const apiEndpoint = '/airbnb';
 
+
 function fetchDataAndCreateMarkers() {
   fetch(apiEndpoint)
     .then((response) => response.json())
@@ -64,3 +65,43 @@ function fetchCrimeDataAndCreateBarChart(selectedColumn) {
     });
 }
 
+const pieColumn = 'Day_of_week'
+
+function fetchPieDataCreatePieChart() {
+  
+  const piechartEndpoint = '/car_crash';
+
+  fetch(piechartEndpoint)
+    .then((response) => response.json())
+    .then((data) => {
+      
+      const valueCounts = [0, 0, 0, 0, 0, 0, 0];
+      data.forEach((item) => {
+        const value = item.Day_of_week;
+        if (value >= 1 && value <= 7) {
+          valueCounts[value -1]++
+        }
+      });
+
+      const labels = ['1: Monday', '2: Tuesday', '3: Wednesday', '4: Thursday', '5: Friday', '6: Saturday', '7: Sunday'];
+      
+      const values = valueCounts
+
+      const pieData = [{
+        labels: labels,
+        values: values,
+        type: 'pie',
+      }];
+
+      const layout = {
+        title: 'Pie Chart'
+      }
+
+      Plotly.newPlot('pie-chart', pieData, layout);
+    })
+    .catch((error) => {
+      console.error('Error fetching pie chart data:', error);
+    });
+}
+
+fetchPieDataCreatePieChart();
