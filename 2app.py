@@ -1,3 +1,4 @@
+# These are here to import the libraries we will use
 from flask import Flask, render_template, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import Column, Integer, String, Float
@@ -5,7 +6,7 @@ import plotly
 
 db = SQLAlchemy()
 
-
+# Defines the airbnbs table from the database
 class Airbnb(db.Model):
     __tablename__ = 'airbnbs'
     id = db.Column(db.Integer, primary_key=True)
@@ -15,6 +16,7 @@ class Airbnb(db.Model):
     room_type = db.Column(db.String(255))
     price = db.Column(db.Numeric)
 
+# Defines the crime_data table from the database
 class Crime(db.Model):
     __tablename__ = 'crime_data'
     SORT_ORDER = db.Column(db.Integer, primary_key=True)
@@ -145,7 +147,7 @@ class Crime(db.Model):
     WOODED_AREA = db.Column(db.Integer)
     Total = db.Column(db.Integer)
     
-
+# Defines the Crash_Locations table from the database
 class Crash_Locations(db.Model):
     __tablename__ = 'Crash_Locations'
     number = db.Column(db.Integer, primary_key=True)
@@ -157,6 +159,7 @@ class Crash_Locations(db.Model):
     latitude = db.Column(db.Integer) 
 
 
+# Intitializes the Flask app and then we connect to the Postgres SQL Database
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://mypostgres:postgres@localhost:5432/vacation_safety_db'
 db.init_app(app)
@@ -166,13 +169,15 @@ db.init_app(app)
 def index():
     return render_template('index.html')
 
-
+# Defines a route to get the airbnb data
 @app.route('/airbnb')
 def airbnb_data():
 
     try:
+        # Query data from the airbnb table in the database
         airbnb_data = Airbnb.query.all()
 
+        # Puts the data into a list of dictionaries
         results = [{'neighbourhood': data.neighbourhood, 'latitude': data.latitude, 'longitude': data.longitude, 'room_type': data.room_type, 'price': data.price} for data in airbnb_data]
         print(results)
     
@@ -180,10 +185,14 @@ def airbnb_data():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
     
+# Defines a route to get the crime data
 @app.route('/crime')
 def crime_data():
     try:
+        # Query data from the crime_data table in the database
         crime_data = Crime.query.all()
+
+        # Puts the data into a list of dictionaries
         data_list = [{'SORT_ORDER': data.SORT_ORDER, 'Crime': data.Crime, 'ADAMS_NORTH': data.ADAMS_NORTH, 'ALLIED_GARDENS': data.ALLIED_GARDENS, 'ALTA_VISTA': data.ALTA_VISTA, 
                       'AZALEA_HOLLYWOOD_PARK': data.AZALEA_HOLLYWOOD_PARK, 'BALBOA_PARK': data.BALBOA_PARK, 'BARRIO_LOGAN': data.BARRIO_LOGAN, 'BAY_HO': data.BAY_HO, 'BAY_PARK': data.BAY_PARK, 
                       'BAY_TERRACES': data.BAY_TERRACES, 'BIRDLAND': data.BIRDLAND, 'BLACK_MOUNTAIN_RANCH': data.BLACK_MOUNTAIN_RANCH, 'BORDER': data.BORDER, 'BROADWAY_HEIGHTS': data.BROADWAY_HEIGHTS, 
@@ -215,17 +224,21 @@ def crime_data():
     except Exception as e:
         return jsonify({'error': str(e)}), 400
 
+# Define a route to get the car crash data
 @app.route('/car_crash')
 def crash_data():
     try:
+        # Query data from the Car_Locations table in the database
         pie_data = Crash_Locations.query.all()
 
+        # Puts the data into a list of dictionaries
         data_list = [{'number': data.number, 'accident_year': data.accident_year, 'collision_date': data.collision_date, 'collision_time': data.collision_time, 
                       'Day_of_week': data.Day_of_week, 'longitude': data.longitude, 'latitude': data.latitude} for data in pie_data]
         
         return jsonify(data_list)
     except Exception as e:
         return jsonify({'error': str(e)}), 400
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
