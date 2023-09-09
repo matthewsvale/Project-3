@@ -1,5 +1,4 @@
 id,neighbourhood,latitude,longitude,room_type,price
-1,North Hills,32.75522,-117.12873,Entire home/apt,349
 2,Pacific Beach,32.80751,-117.2576,Entire home/apt,286
 3,La Jolla,32.81301,-117.26856,Entire home/apt,196
 4,Pacific Beach,32.80583,-117.24244,Entire home/apt,99
@@ -19,7 +18,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 30,Linda Vista,32.79579,-117.17383,Entire home/apt,102
 31,Old Town,32.75259,-117.17599,Entire home/apt,179
 32,Loma Portal,32.75031,-117.23056,Entire home/apt,105
-33,North Hills,32.74925,-117.13299,Entire home/apt,97
 34,West University Heights,32.75906,-117.14445,Entire home/apt,259
 35,Midtown,32.73464,-117.16452,Entire home/apt,121
 36,Cortez Hill,32.72237,-117.1652,Entire home/apt,200
@@ -31,7 +29,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 43,Midtown,32.74359,-117.17584,Entire home/apt,89
 44,Ocean Beach,32.75103,-117.24745,Entire home/apt,149
 45,Midtown,32.74271,-117.1773,Entire home/apt,115
-46,North Hills,32.74966,-117.14462,Entire home/apt,107
 47,Clairemont Mesa,32.80279,-117.18976,Entire home/apt,126
 52,La Jolla,32.82787,-117.27975,Entire home/apt,1300
 53,Balboa Park,32.72065,-117.13006,Entire home/apt,82
@@ -63,17 +60,14 @@ id,neighbourhood,latitude,longitude,room_type,price
 84,Pacific Beach,32.79429,-117.24269,Entire home/apt,149
 85,Linda Vista,32.79647,-117.17435,Entire home/apt,110
 86,Old Town,32.75668,-117.17011,Entire home/apt,363
-87,North Hills,32.74532,-117.13882,Entire home/apt,167
 88,La Jolla,32.84279,-117.27129,Entire home/apt,251
 89,Mission Bay,32.78944,-117.23501,Entire home/apt,550
 90,Pacific Beach,32.80769,-117.24242,Entire home/apt,249
-91,North Hills,32.7505,-117.14171,Entire home/apt,232
 92,East Village,32.70918,-117.15443,Entire home/apt,179
 93,Mission Bay,32.75994,-117.2489,Entire home/apt,335
 94,Cortez Hill,32.72077,-117.16204,Entire home/apt,140
 96,Grantville,32.78608,-117.10822,Entire home/apt,160
 97,Pacific Beach,32.80691,-117.25604,Entire home/apt,258
-98,North Hills,32.74474,-117.13012,Entire home/apt,141
 99,Mission Bay,32.76817,-117.24933,Entire home/apt,350
 100,South Park,32.72521,-117.1274,Entire home/apt,119
 101,Grantville,32.78346,-117.10798,Entire home/apt,145
@@ -107,15 +101,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 132,Pacific Beach,32.80629,-117.24603,Entire home/apt,349
 133,La Jolla,32.82882,-117.27689,Entire home/apt,120
 134,Pacific Beach,32.80781,-117.24965,Entire home/apt,635
-135,North Hills,32.75169,-117.13169,Entire home/apt,296
 137,Balboa Park,32.72254,-117.12924,Entire home/apt,129
 138,Mission Bay,32.76117,-117.24918,Entire home/apt,355
 139,Mission Bay,32.76047,-117.24995,Entire home/apt,530
 140,Mission Bay,32.76104,-117.2495,Entire home/apt,950
-141,North Hills,32.74577,-117.13193,Entire home/apt,136
 142,Balboa Park,32.71847,-117.14397,Entire home/apt,87
-143,North Hills,32.74355,-117.13709,Entire home/apt,264
-144,North Hills,32.74672,-117.12161,Entire home/apt,130
 147,Loma Portal,32.74079,-117.23962,Entire home/apt,129
 148,Ocean Beach,32.75296,-117.24718,Entire home/apt,159
 149,Bay Park,32.78337,-117.19911,Entire home/apt,794
@@ -137,8 +127,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 172,Little Italy,32.72021,-117.16694,Entire home/apt,127
 173,Rancho Penasquitos,32.94723,-117.1143,Entire home/apt,145
 174,Pacific Beach,32.79729,-117.25606,Entire home/apt,148
-175,North Hills,32.74532,-117.13865,Entire home/apt,159
-177,North Hills,32.74447,-117.13937,Entire home/apt,142
 178,Bay Park,32.78725,-117.19874,Entire home/apt,225
 179,Ocean Beach,32.75159,-117.25048,Entire home/apt,350
 180,Park West,32.73006,-117.163,Entire home/apt,153
@@ -154,7 +142,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 190,Midtown,32.74461,-117.17871,Entire home/apt,900
 191,North Clairemont,32.83825,-117.19443,Entire home/apt,355
 193,Mission Bay,32.76264,-117.25021,Entire home/apt,363
-194,North Hills,32.73098,-117.12606,Entire home/apt,120
 195,La Jolla,32.82229,-117.2676,Entire home/apt,202
 196,Grant Hill,32.71139,-117.14231,Entire home/apt,99
 197,East Village,32.71076,-117.1549,Entire home/apt,149
@@ -175,24 +162,17 @@ id,neighbourhood,latitude,longitude,room_type,price
 213,Mission Bay,32.76416,-117.2515,Entire home/apt,125
 214,Mission Bay,32.76416,-117.2515,Entire home/apt,135
 215,Grant Hill,32.71276,-117.14387,Entire home/apt,110
-216,North Hills,32.74027,-117.12716,Entire home/apt,179
-217,North Hills,32.74043,-117.12706,Entire home/apt,149
-218,North Hills,32.74054,-117.1274,Entire home/apt,159
-219,North Hills,32.74086,-117.12829,Entire home/apt,285
-220,North Hills,32.74051,-117.12782,Entire home/apt,189
 221,Ocean Beach,32.75133,-117.24466,Entire home/apt,258
 222,Loma Portal,32.75008,-117.24284,Entire home/apt,212
 225,Old Town,32.75649,-117.18874,Entire home/apt,349
 226,Ocean Beach,32.74056,-117.25191,Entire home/apt,179
 227,Mission Bay,32.7677,-117.25116,Entire home/apt,269
 228,Mission Bay,32.78522,-117.25389,Entire home/apt,419
-230,North Hills,32.73898,-117.12886,Entire home/apt,228
 231,Ocean Beach,32.73481,-117.24957,Entire home/apt,712
 233,Pacific Beach,32.80175,-117.25532,Entire home/apt,203
 234,Mission Bay,32.78052,-117.25318,Entire home/apt,753
 235,East Village,32.70879,-117.15637,Entire home/apt,155
 236,Midtown,32.7451,-117.15332,Entire home/apt,432
-237,North Hills,32.75618,-117.13058,Entire home/apt,89
 238,La Jolla,32.8093,-117.25843,Entire home/apt,199
 239,Mission Bay,32.78574,-117.25386,Entire home/apt,476
 241,University City,32.86645,-117.20333,Entire home/apt,245
@@ -209,14 +189,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 256,Moreno Mission,32.76622,-117.18934,Entire home/apt,185
 257,Loma Portal,32.74974,-117.2416,Entire home/apt,78
 258,Park West,32.72905,-117.1613,Entire home/apt,202
-259,North Hills,32.74719,-117.13262,Entire home/apt,165
 261,Mission Bay,32.77819,-117.2532,Entire home/apt,144
 262,Mission Bay,32.78766,-117.25299,Entire home/apt,1496
 263,Normal Heights,32.765,-117.11758,Entire home/apt,288
 264,Mission Bay,32.77813,-117.2532,Entire home/apt,725
 265,Mission Bay,32.76582,-117.25129,Entire home/apt,389
 266,Mission Bay,32.76335,-117.25159,Entire home/apt,375
-267,North Hills,32.76512,-117.13188,Entire home/apt,126
 268,Mission Bay,32.76636,-117.25105,Entire home/apt,243
 269,Loma Portal,32.74362,-117.2359,Entire home/apt,372
 270,Mission Bay,32.58179,-117.03184,Entire home/apt,575
@@ -240,7 +218,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 291,Mission Bay,32.78391,-117.25155,Entire home/apt,553
 292,Balboa Park,32.71705,-117.14244,Entire home/apt,112
 293,Pacific Beach,32.80893,-117.25787,Entire home/apt,262
-294,North Hills,32.75301,-117.14232,Entire home/apt,190
 295,Ocean Beach,32.75057,-117.25004,Entire home/apt,228
 296,Mission Bay,32.78664,-117.23984,Entire home/apt,1272
 297,Little Italy,32.72281,-117.1677,Entire home/apt,220
@@ -251,13 +228,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 303,Mission Bay,32.7748,-117.2524,Entire home/apt,718
 304,Mission Bay,32.76312,-117.25095,Entire home/apt,278
 305,Talmadge,32.76339,-117.09284,Entire home/apt,369
-306,North Hills,32.73772,-117.13299,Entire home/apt,85
-307,North Hills,32.73884,-117.1271,Entire home/apt,135
 308,Pacific Beach,32.79674,-117.23085,Entire home/apt,581
 309,Gaslamp Quarter,32.70904,-117.16071,Entire home/apt,135
 311,Mission Bay,32.7676,-117.25137,Entire home/apt,276
 313,East Village,32.70948,-117.15443,Entire home/apt,115
-314,North Hills,32.74547,-117.13853,Entire home/apt,81
 315,Old Town,32.75295,-117.17132,Entire home/apt,178
 316,Mission Bay,32.76181,-117.24737,Entire home/apt,229
 317,El Cerritos,32.7585,-117.06831,Entire home/apt,97
@@ -274,7 +248,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 329,Serra Mesa,32.79449,-117.12947,Entire home/apt,103
 330,Mission Bay,32.78291,-117.25227,Entire home/apt,179
 331,Loma Portal,32.75284,-117.22798,Entire home/apt,125
-332,North Hills,32.75693,-117.12949,Entire home/apt,190
 333,Rancho Bernadino,33.0215,-117.06887,Entire home/apt,181
 334,Mission Bay,32.78546,-117.25332,Entire home/apt,275
 336,Talmadge,32.76207,-117.09376,Entire home/apt,201
@@ -286,18 +259,14 @@ id,neighbourhood,latitude,longitude,room_type,price
 343,East Village,32.71014,-117.15819,Entire home/apt,179
 344,Mission Bay,32.77305,-117.2504,Entire home/apt,662
 345,Clairemont Mesa,32.82321,-117.17928,Entire home/apt,250
-348,North Hills,32.74969,-117.12928,Entire home/apt,147
 351,Midtown,32.73365,-117.1722,Entire home/apt,395
 352,Mission Bay,32.7773,-117.2526,Entire home/apt,318
 353,La Jolla,32.839,-117.27586,Entire home/apt,336
 354,La Jolla,32.839,-117.27586,Entire home/apt,350
-356,North Hills,32.75012,-117.13219,Entire home/apt,100
 357,La Jolla,32.81923,-117.27313,Entire home/apt,1149
 358,La Jolla,32.8341,-117.27647,Entire home/apt,440
 359,Del Mar Heights,32.93634,-117.24355,Entire home/apt,170
 360,Old Town,32.74905,-117.19281,Entire home/apt,272
-361,North Hills,32.74348,-117.13309,Entire home/apt,118
-362,North Hills,32.73545,-117.12164,Entire home/apt,603
 363,Loma Portal,32.75129,-117.2294,Entire home/apt,103
 364,Pacific Beach,32.8083,-117.25785,Entire home/apt,286
 365,Grant Hill,32.71022,-117.14506,Entire home/apt,239
@@ -321,9 +290,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 389,Ocean Beach,32.73864,-117.24686,Entire home/apt,117
 390,Loma Portal,32.74646,-117.24525,Entire home/apt,259
 393,East Village,32.72394,-117.15519,Entire home/apt,139
-394,North Hills,32.74444,-117.14608,Entire home/apt,141
 396,Pacific Beach,32.81126,-117.22671,Entire home/apt,325
-397,North Hills,32.76476,-117.13555,Entire home/apt,79
 398,Balboa Park,32.71568,-117.14438,Entire home/apt,196
 399,Midtown,32.73903,-117.16246,Entire home/apt,546
 400,Midtown,32.73903,-117.16246,Entire home/apt,279
@@ -332,12 +299,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 403,Mission Bay,32.78078,-117.25209,Entire home/apt,247
 404,Mission Bay,32.7867,-117.25256,Entire home/apt,1079
 405,Midtown,32.73217,-117.16296,Entire home/apt,130
-406,North Hills,32.73703,-117.11812,Entire home/apt,279
 408,Linda Vista,32.7748,-117.16742,Entire home/apt,263
 409,Mission Bay,32.7854,-117.25246,Entire home/apt,753
 410,Midtown,32.73551,-117.17244,Entire home/apt,641
-411,North Hills,32.73905,-117.12545,Entire home/apt,199
-412,North Hills,32.74311,-117.12855,Entire home/apt,105
 414,Carmel Valley,32.93905,-117.19643,Entire home/apt,3500
 415,Old Town,32.74491,-117.18296,Entire home/apt,449
 416,Grant Hill,32.71094,-117.14412,Entire home/apt,169
@@ -357,7 +321,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 436,Ocean Beach,32.73441,-117.24075,Entire home/apt,199
 437,East Village,32.71839,-117.15325,Entire home/apt,435
 438,West University Heights,32.76281,-117.15794,Entire home/apt,368
-439,North Hills,32.74428,-117.14548,Entire home/apt,105
 440,Grant Hill,32.70778,-117.13837,Entire home/apt,219
 441,Ocean Beach,32.73701,-117.25523,Entire home/apt,250
 442,West University Heights,32.75768,-117.153,Entire home/apt,105
@@ -375,14 +338,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 456,Gaslamp Quarter,32.70861,-117.16021,Entire home/apt,143
 459,Kearny Mesa,32.81907,-117.15863,Entire home/apt,87
 461,Normal Heights,32.7614,-117.11293,Entire home/apt,137
-462,North Hills,32.74144,-117.12295,Entire home/apt,138
 463,Mission Bay,32.76155,-117.25192,Entire home/apt,471
-464,North Hills,32.74527,-117.14634,Entire home/apt,500
 466,Pacific Beach,32.79715,-117.25606,Entire home/apt,125
 467,Mission Bay,32.79372,-117.23447,Entire home/apt,171
 468,Mission Bay,32.77685,-117.25248,Entire home/apt,820
 469,La Jolla,32.8299,-117.28017,Entire home/apt,500
-470,North Hills,32.7511,-117.12744,Entire home/apt,125
 471,La Jolla,32.82797,-117.28027,Entire home/apt,240
 472,Loma Portal,32.74798,-117.21741,Entire home/apt,600
 473,Pacific Beach,32.79593,-117.24536,Entire home/apt,633
@@ -406,7 +366,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 494,Loma Portal,32.74919,-117.24132,Entire home/apt,207
 495,Mission Bay,32.77804,-117.25176,Entire home/apt,664
 496,University City,32.8535,-117.2035,Entire home/apt,99
-498,North Hills,32.73818,-117.12917,Entire home/apt,248
 499,Ocean Beach,32.7395,-117.2501,Entire home/apt,231
 500,South Park,32.72327,-117.12778,Entire home/apt,414
 502,Midtown,32.74295,-117.17659,Entire home/apt,126
@@ -434,7 +393,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 528,Mission Bay,32.78074,-117.25219,Entire home/apt,189
 529,Pacific Beach,32.80477,-117.25122,Entire home/apt,215
 530,South Park,32.72888,-117.1261,Entire home/apt,211
-531,North Hills,32.75167,-117.14029,Entire home/apt,145
 532,Grant Hill,32.71151,-117.1425,Entire home/apt,99
 533,Normal Heights,32.75829,-117.12219,Entire home/apt,95
 536,Pacific Beach,32.79615,-117.24751,Entire home/apt,314
@@ -457,7 +415,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 557,Ocean Beach,32.73638,-117.25066,Entire home/apt,214
 559,Old Town,32.7519,-117.16985,Entire home/apt,90
 560,Clairemont Mesa,32.81442,-117.18729,Entire home/apt,899
-561,North Hills,32.744,-117.12757,Entire home/apt,123
 562,Pacific Beach,32.81117,-117.2285,Entire home/apt,178
 563,La Jolla,32.8576,-117.25558,Entire home/apt,2091
 567,La Jolla Village,32.86057,-117.23478,Entire home/apt,123
@@ -474,10 +431,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 586,Pacific Beach,32.793,-117.24564,Entire home/apt,777
 587,Loma Portal,32.75333,-117.22887,Entire home/apt,185
 588,College Area,32.77148,-117.04829,Entire home/apt,90
-589,North Hills,32.7459,-117.14566,Entire home/apt,73
 591,Ocean Beach,32.75044,-117.25094,Entire home/apt,181
 592,Bay Park,32.782,-117.18747,Entire home/apt,875
-596,North Hills,32.75388,-117.13599,Entire home/apt,239
 598,Cortez Hill,32.72214,-117.15844,Entire home/apt,224
 599,Mission Bay,32.78274,-117.25113,Entire home/apt,598
 600,Cortez Hill,32.72145,-117.15908,Entire home/apt,117
@@ -485,11 +440,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 606,Mission Bay,32.76248,-117.251,Entire home/apt,338
 607,Mission Valley,32.77327,-117.1479,Entire home/apt,160
 608,Park West,32.72733,-117.16317,Entire home/apt,222
-609,North Hills,32.74856,-117.13092,Entire home/apt,235
 610,Pacific Beach,32.80099,-117.25904,Entire home/apt,829
 611,La Jolla,32.85429,-117.25567,Entire home/apt,300
 612,Mission Bay,32.76073,-117.25069,Entire home/apt,600
-614,North Hills,32.76631,-117.13747,Entire home/apt,1600
 615,East Village,32.70956,-117.15458,Entire home/apt,349
 616,Old Town,32.75247,-117.17128,Entire home/apt,121
 617,Roseville,32.72648,-117.23536,Entire home/apt,192
@@ -505,7 +458,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 628,Mission Bay,32.78052,-117.25318,Entire home/apt,747
 629,Mission Bay,32.78962,-117.25465,Entire home/apt,246
 630,Mission Bay,32.78953,-117.25466,Entire home/apt,713
-632,North Hills,32.73958,-117.13229,Entire home/apt,95
 633,Pacific Beach,32.79872,-117.2313,Entire home/apt,171
 634,Sky Line,32.70533,-117.04369,Entire home/apt,65
 635,Mission Bay,32.78955,-117.23486,Entire home/apt,152
@@ -513,7 +465,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 637,Ocean Beach,32.7504,-117.25068,Entire home/apt,159
 638,College Area,32.76796,-117.06403,Entire home/apt,425
 639,Roseville,32.73039,-117.23127,Entire home/apt,707
-641,North Hills,32.74904,-117.14483,Entire home/apt,121
 642,Pacific Beach,32.80421,-117.24799,Entire home/apt,207
 643,Loma Portal,32.74052,-117.24358,Entire home/apt,879
 644,Pacific Beach,32.80758,-117.25709,Entire home/apt,273
@@ -527,9 +478,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 654,Mission Bay,32.78639,-117.2543,Entire home/apt,249
 657,Pacific Beach,32.8153,-117.23236,Entire home/apt,770
 658,Ocean Beach,32.75005,-117.25113,Entire home/apt,457
-659,North Hills,32.74078,-117.12479,Entire home/apt,224
 660,Pacific Beach,32.80007,-117.25218,Entire home/apt,163
-662,North Hills,32.7437,-117.1196,Entire home/apt,59
 663,Pacific Beach,32.80116,-117.25369,Entire home/apt,200
 665,Balboa Park,32.7257,-117.13211,Entire home/apt,110
 666,Ocean Beach,32.73802,-117.25367,Entire home/apt,214
@@ -578,13 +527,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 722,West University Heights,32.75806,-117.14358,Entire home/apt,113
 723,Linda Vista,32.78913,-117.1745,Entire home/apt,150
 724,Old Town,32.74758,-117.18669,Entire home/apt,448
-726,North Hills,32.73562,-117.12749,Entire home/apt,125
 727,Pacific Beach,32.80784,-117.25246,Entire home/apt,400
 729,Pacific Beach,32.80526,-117.23357,Entire home/apt,269
 730,Mission Bay,32.7804,-117.2523,Entire home/apt,338
-731,North Hills,32.73689,-117.12453,Entire home/apt,339
 732,Core,32.71517,-117.15596,Entire home/apt,103
-733,North Hills,32.75582,-117.13432,Entire home/apt,354
 734,La Jolla,32.81345,-117.26736,Entire home/apt,346
 735,Mission Bay,32.78954,-117.25329,Entire home/apt,314
 736,Old Town,32.75582,-117.18162,Entire home/apt,90
@@ -609,11 +555,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 761,Pacific Beach,32.80157,-117.2581,Entire home/apt,720
 762,Pacific Beach,32.80226,-117.25491,Entire home/apt,120
 763,Mission Bay,32.78378,-117.25386,Entire home/apt,689
-764,North Hills,32.7488,-117.12902,Entire home/apt,159
 765,Ocean Beach,32.7509,-117.25182,Entire home/apt,103
 766,Mission Bay,32.78484,-117.25343,Entire home/apt,2500
 767,Pacific Beach,32.79703,-117.25524,Entire home/apt,414
-768,North Hills,32.73486,-117.11777,Entire home/apt,321
 769,La Jolla,32.81674,-117.26359,Entire home/apt,160
 770,Pacific Beach,32.80584,-117.25706,Entire home/apt,95
 772,Mission Bay,32.76203,-117.25185,Entire home/apt,885
@@ -641,14 +585,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 798,Del Mar Heights,32.94735,-117.24469,Entire home/apt,214
 799,Gaslamp Quarter,32.70973,-117.16057,Entire home/apt,110
 800,East Village,32.71109,-117.15599,Entire home/apt,2000
-801,North Hills,32.76509,-117.13021,Entire home/apt,89
 802,Linda Vista,32.77625,-117.16458,Entire home/apt,317
 803,Rancho Penasquitos,32.96956,-117.16235,Entire home/apt,64
 805,Mission Bay,32.78629,-117.25384,Entire home/apt,580
 806,Paradise Hills,32.67953,-117.04456,Entire home/apt,274
 807,Mission Bay,32.78936,-117.25406,Entire home/apt,457
 809,Mission Bay,32.76333,-117.25224,Entire home/apt,175
-811,North Hills,32.74916,-117.1354,Entire home/apt,99
 812,Mount Hope,32.71205,-117.10607,Entire home/apt,100
 813,Old Town,32.75322,-117.16495,Entire home/apt,652
 814,Mission Bay,32.76183,-117.25181,Entire home/apt,640
@@ -666,8 +608,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 832,Pacific Beach,32.79195,-117.25366,Entire home/apt,1506
 833,Cortez Hill,32.7223,-117.16362,Entire home/apt,100
 834,Little Italy,32.72493,-117.16838,Entire home/apt,128
-835,North Hills,32.74105,-117.12152,Entire home/apt,59
-836,North Hills,32.74973,-117.14488,Entire home/apt,116
 837,Normal Heights,32.76503,-117.12068,Entire home/apt,112
 839,Mission Bay,32.77607,-117.25297,Entire home/apt,1513
 840,Mission Bay,32.79171,-117.23401,Entire home/apt,224
@@ -678,7 +618,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 847,Little Italy,32.72219,-117.16893,Entire home/apt,172
 850,Pacific Beach,32.7925,-117.25431,Entire home/apt,282
 851,Pacific Beach,32.79831,-117.2487,Entire home/apt,399
-853,North Hills,32.73851,-117.12243,Entire home/apt,190
 855,Pacific Beach,32.818,-117.23022,Entire home/apt,145
 856,Serra Mesa,32.78029,-117.13471,Entire home/apt,140
 857,Mission Bay,32.78225,-117.25344,Entire home/apt,357
@@ -692,11 +631,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 870,Pacific Beach,32.80562,-117.24131,Entire home/apt,128
 871,Park West,32.73017,-117.16262,Entire home/apt,141
 873,Bay Park,32.78829,-117.19942,Entire home/apt,225
-874,North Hills,32.74602,-117.1289,Entire home/apt,103
 876,Mission Bay,32.78488,-117.25156,Entire home/apt,665
 877,Pacific Beach,32.79899,-117.24962,Entire home/apt,361
 878,Gateway,32.72588,-117.10677,Entire home/apt,236
-879,North Hills,32.74643,-117.12797,Entire home/apt,126
 880,Loma Portal,32.74976,-117.23971,Entire home/apt,262
 882,Mission Bay,32.7849,-117.25229,Entire home/apt,1650
 883,Ocean Beach,32.75037,-117.2498,Entire home/apt,206
@@ -728,13 +665,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 918,Mission Bay,32.7836,-117.25363,Entire home/apt,518
 919,Mission Bay,32.7815,-117.25194,Entire home/apt,343
 920,Mission Bay,32.78319,-117.25179,Entire home/apt,426
-921,North Hills,32.74291,-117.1325,Entire home/apt,135
 922,Carmel Valley,32.94853,-117.22946,Entire home/apt,225
 923,La Jolla,32.83436,-117.27492,Entire home/apt,292
 926,East Village,32.71394,-117.1554,Entire home/apt,368
 928,Grant Hill,32.70768,-117.14083,Entire home/apt,135
-929,North Hills,32.7433,-117.13576,Entire home/apt,94
-930,North Hills,32.74342,-117.13382,Entire home/apt,97
 931,Balboa Park,32.716,-117.14641,Entire home/apt,166
 932,Balboa Park,32.71604,-117.14574,Entire home/apt,225
 933,Columbia,32.72003,-117.16758,Entire home/apt,221
@@ -763,7 +697,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 957,La Jolla,32.84778,-117.27637,Entire home/apt,247
 959,Talmadge,32.76741,-117.09249,Entire home/apt,693
 961,Mission Bay,32.79085,-117.23932,Entire home/apt,253
-962,North Hills,32.74925,-117.13206,Entire home/apt,96
 963,Pacific Beach,32.80358,-117.25636,Entire home/apt,363
 964,Pacific Beach,32.79387,-117.2513,Entire home/apt,562
 965,Moreno Mission,32.76882,-117.19333,Entire home/apt,140
@@ -811,7 +744,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1018,Mission Bay,32.7643,-117.25234,Entire home/apt,438
 1019,Mission Bay,32.78197,-117.252,Entire home/apt,536
 1020,City Heights East,32.74335,-117.09811,Entire home/apt,96
-1021,North Hills,32.7586,-117.13265,Entire home/apt,339
 1023,Balboa Park,32.72202,-117.13032,Entire home/apt,222
 1024,Park West,32.72993,-117.16431,Entire home/apt,272
 1027,Old Town,32.74511,-117.18283,Entire home/apt,299
@@ -872,7 +804,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1095,Core,32.71711,-117.15627,Entire home/apt,130
 1096,Mission Bay,32.77947,-117.25241,Entire home/apt,196
 1097,South Park,32.7269,-117.12924,Entire home/apt,132
-1098,North Hills,32.74546,-117.13027,Entire home/apt,234
 1099,Mission Bay,32.76051,-117.2507,Entire home/apt,1129
 1100,Balboa Park,32.71451,-117.13527,Entire home/apt,112
 1101,Mission Bay,32.7841,-117.25205,Entire home/apt,231
@@ -891,7 +822,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1117,Midtown,32.73852,-117.1599,Entire home/apt,297
 1118,Mission Bay,32.77284,-117.25279,Entire home/apt,1129
 1119,Mission Bay,32.78843,-117.25262,Entire home/apt,568
-1120,North Hills,32.7346,-117.13185,Entire home/apt,158
 1121,La Jolla,32.84612,-117.26783,Entire home/apt,207
 1122,South Park,32.71694,-117.12347,Entire home/apt,143
 1123,Bay Park,32.79791,-117.20956,Entire home/apt,343
@@ -907,13 +837,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 1133,Ocean Beach,32.75001,-117.25154,Entire home/apt,340
 1134,Mission Bay,32.77968,-117.25266,Entire home/apt,385
 1135,Pacific Beach,32.79401,-117.24277,Entire home/apt,314
-1136,North Hills,32.74549,-117.1305,Entire home/apt,158
 1137,Mission Bay,32.7772,-117.25291,Entire home/apt,128
 1138,West University Heights,32.75421,-117.15093,Entire home/apt,375
 1139,La Jolla,32.83041,-117.27972,Entire home/apt,766
 1140,Ocean Beach,32.75058,-117.24361,Entire home/apt,144
 1141,Mission Bay,32.77371,-117.2523,Entire home/apt,220
-1142,North Hills,32.74892,-117.13936,Entire home/apt,309
 1143,La Jolla,32.81103,-117.25192,Entire home/apt,256
 1144,La Jolla,32.83618,-117.27233,Entire home/apt,250
 1147,Old Town,32.75514,-117.16981,Entire home/apt,320
@@ -929,11 +857,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 1160,Core,32.71815,-117.15803,Entire home/apt,122
 1161,Balboa Park,32.71729,-117.13018,Entire home/apt,221
 1162,Park West,32.72498,-117.16092,Entire home/apt,121
-1163,North Hills,32.73346,-117.13187,Entire home/apt,118
 1165,Mission Bay,32.78494,-117.25301,Entire home/apt,321
 1166,Pacific Beach,32.80171,-117.22971,Entire home/apt,192
 1167,Cortez Hill,32.72293,-117.15668,Entire home/apt,94
-1171,North Hills,32.7476,-117.13555,Entire home/apt,300
 1172,Ocean Beach,32.74219,-117.25074,Entire home/apt,238
 1173,La Jolla,32.83899,-117.27336,Entire home/apt,200
 1174,Ocean Beach,32.75185,-117.25084,Entire home/apt,189
@@ -955,7 +881,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1195,Old Town,32.75334,-117.16115,Entire home/apt,315
 1196,Mission Bay,32.78436,-117.25376,Entire home/apt,790
 1197,Mission Bay,32.78436,-117.25376,Entire home/apt,2719
-1198,North Hills,32.74191,-117.12773,Entire home/apt,140
 1200,Pacific Beach,32.80493,-117.24735,Entire home/apt,193
 1201,Ocean Beach,32.74869,-117.24679,Entire home/apt,195
 1202,Ocean Beach,32.7505,-117.25024,Entire home/apt,580
@@ -1008,8 +933,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1257,Ocean Beach,32.74901,-117.24868,Entire home/apt,263
 1258,Mission Bay,32.76234,-117.25024,Entire home/apt,423
 1259,Gaslamp Quarter,32.71321,-117.16091,Entire home/apt,211
-1260,North Hills,32.73897,-117.11839,Entire home/apt,80
-1261,North Hills,32.75147,-117.12456,Entire home/apt,90
 1263,Mission Bay,32.77475,-117.25305,Entire home/apt,263
 1264,South Park,32.71663,-117.12399,Entire home/apt,128
 1265,South Park,32.71664,-117.12351,Entire home/apt,137
@@ -1045,9 +968,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 1301,Mission Bay,32.78366,-117.25238,Entire home/apt,327
 1302,Mission Bay,32.76835,-117.2531,Entire home/apt,628
 1303,Ocean Beach,32.75001,-117.25182,Entire home/apt,141
-1304,North Hills,32.73477,-117.1315,Entire home/apt,456
 1305,Wooded Area,32.72515,-117.25578,Entire home/apt,264
-1306,North Hills,32.74241,-117.12525,Entire home/apt,105
 1307,Pacific Beach,32.79861,-117.25615,Entire home/apt,540
 1309,South Park,32.72565,-117.12664,Entire home/apt,135
 1310,Pacific Beach,32.80575,-117.25821,Entire home/apt,196
@@ -1067,7 +988,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1329,Ocean Beach,32.75239,-117.24926,Entire home/apt,105
 1330,Balboa Park,32.71374,-117.13547,Entire home/apt,120
 1331,Balboa Park,32.71813,-117.14261,Entire home/apt,150
-1333,North Hills,32.76277,-117.12901,Entire home/apt,125
 1334,Midtown,32.74325,-117.15023,Entire home/apt,166
 1335,Balboa Park,32.71635,-117.14453,Entire home/apt,608
 1338,Columbia,32.71987,-117.16808,Entire home/apt,167
@@ -1083,9 +1003,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 1352,Serra Mesa,32.80027,-117.14166,Entire home/apt,654
 1353,Mission Bay,32.76617,-117.25145,Entire home/apt,483
 1355,Grant Hill,32.71368,-117.12393,Entire home/apt,1239
-1356,North Hills,32.73369,-117.12664,Entire home/apt,299
 1357,Clairemont Mesa,32.80577,-117.17415,Entire home/apt,136
-1358,North Hills,32.73911,-117.13248,Entire home/apt,239
 1359,East Village,32.70972,-117.15419,Entire home/apt,89
 1361,Bay Park,32.78278,-117.20703,Entire home/apt,112
 1362,Mission Bay,32.76162,-117.25112,Entire home/apt,336
@@ -1114,7 +1032,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1391,Core,32.71509,-117.15468,Entire home/apt,100
 1395,Mission Bay,32.77152,-117.25133,Entire home/apt,550
 1396,Mission Bay,32.76661,-117.25046,Entire home/apt,749
-1397,North Hills,32.74552,-117.1302,Entire home/apt,169
 1398,Midtown,32.73747,-117.16073,Entire home/apt,273
 1399,Mission Bay,32.78917,-117.25298,Entire home/apt,344
 1400,Bay Park,32.79063,-117.2048,Entire home/apt,200
@@ -1127,7 +1044,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1410,Pacific Beach,32.80375,-117.23988,Entire home/apt,400
 1411,Pacific Beach,32.8033,-117.25137,Entire home/apt,350
 1412,Ocean Beach,32.75083,-117.25033,Entire home/apt,502
-1413,North Hills,32.74174,-117.11776,Entire home/apt,117
 1414,Normal Heights,32.75846,-117.11887,Entire home/apt,211
 1416,College Area,32.7673,-117.06521,Entire home/apt,89
 1417,Mission Bay,32.7839,-117.25334,Entire home/apt,275
@@ -1169,7 +1085,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1461,Mission Bay,32.7616,-117.25111,Entire home/apt,524
 1462,Mission Bay,32.78777,-117.25365,Entire home/apt,323
 1463,Northwest,32.64307,-117.09612,Entire home/apt,1071
-1464,North Hills,32.7453,-117.12338,Entire home/apt,159
 1465,Little Italy,32.7249,-117.16884,Entire home/apt,398
 1466,Midtown,32.7414,-117.14898,Entire home/apt,98
 1467,Pacific Beach,32.8159,-117.23349,Entire home/apt,2400
@@ -1194,11 +1109,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 1488,East Village,32.71766,-117.15336,Entire home/apt,83
 1489,Mission Bay,32.76704,-117.25214,Entire home/apt,571
 1490,Mission Bay,32.7671,-117.25211,Entire home/apt,2430
-1491,North Hills,32.7384,-117.12651,Entire home/apt,195
 1492,Ocean Beach,32.75043,-117.24429,Entire home/apt,124
 1493,Ocean Beach,32.74901,-117.24505,Entire home/apt,154
 1494,Mission Bay,32.77789,-117.25279,Entire home/apt,1354
-1495,North Hills,32.76689,-117.13058,Entire home/apt,383
 1496,La Jolla,32.81451,-117.24816,Entire home/apt,464
 1497,Moreno Mission,32.77285,-117.20243,Entire home/apt,110
 1499,Balboa Park,32.71656,-117.13965,Entire home/apt,516
@@ -1229,7 +1142,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1528,Mission Bay,32.78348,-117.25198,Entire home/apt,506
 1529,Rancho Penasquitos,32.95063,-117.1213,Entire home/apt,332
 1530,Mission Bay,32.76136,-117.24959,Entire home/apt,144
-1531,North Hills,32.74769,-117.14208,Entire home/apt,202
 1532,Mission Bay,32.76593,-117.25015,Entire home/apt,679
 1533,Loma Portal,32.74569,-117.23772,Entire home/apt,282
 1534,Old Town,32.74696,-117.18894,Entire home/apt,1342
@@ -1253,7 +1165,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1554,Pacific Beach,32.79252,-117.25346,Entire home/apt,350
 1555,Roseville,32.72101,-117.23478,Entire home/apt,198
 1556,Carmel Mountain,32.98064,-117.0706,Entire home/apt,194
-1557,North Hills,32.7393,-117.11908,Entire home/apt,112
 1558,Bay Park,32.77594,-117.20209,Entire home/apt,167
 1561,Normal Heights,32.76409,-117.11679,Entire home/apt,331
 1562,Pacific Beach,32.79839,-117.23755,Entire home/apt,437
@@ -1271,7 +1182,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1574,Pacific Beach,32.80995,-117.23023,Entire home/apt,443
 1575,Pacific Beach,32.81652,-117.23434,Entire home/apt,1114
 1576,College Area,32.76117,-117.07947,Entire home/apt,148
-1577,North Hills,32.73636,-117.12869,Entire home/apt,117
 1578,College Area,32.76514,-117.08144,Entire home/apt,250
 1579,Mission Bay,32.76611,-117.25029,Entire home/apt,374
 1580,Scripps Ranch,32.9224,-117.10056,Entire home/apt,797
@@ -1283,9 +1193,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 1588,East Village,32.71291,-117.15495,Entire home/apt,100
 1589,Pacific Beach,32.79295,-117.24648,Entire home/apt,190
 1591,Grantville,32.79218,-117.08969,Entire home/apt,94
-1592,North Hills,32.74222,-117.14425,Entire home/apt,223
 1594,Grantville,32.78218,-117.108,Entire home/apt,199
-1595,North Hills,32.74673,-117.13822,Entire home/apt,184
 1596,Mission Bay,32.78219,-117.25168,Entire home/apt,362
 1597,College Area,32.76637,-117.08194,Entire home/apt,49
 1598,Pacific Beach,32.80381,-117.23968,Entire home/apt,542
@@ -1293,7 +1201,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1601,Mission Bay,32.58283,-117.04498,Entire home/apt,91
 1602,Ocean Beach,32.75277,-117.24862,Entire home/apt,411
 1603,Little Italy,32.7208,-117.16907,Entire home/apt,151
-1604,North Hills,32.72986,-117.11621,Entire home/apt,443
 1605,Mission Bay,32.77251,-117.25186,Entire home/apt,489
 1606,Loma Portal,32.74679,-117.23866,Entire home/apt,299
 1607,University City,32.86667,-117.21317,Entire home/apt,148
@@ -1309,7 +1216,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1617,Mission Bay,32.78403,-117.2515,Entire home/apt,956
 1618,University City,32.85778,-117.22722,Entire home/apt,265
 1619,Mission Bay,32.7748,-117.2524,Entire home/apt,1329
-1621,North Hills,32.74201,-117.12892,Entire home/apt,211
 1622,Serra Mesa,32.78527,-117.13171,Entire home/apt,175
 1624,La Jolla,32.84983,-117.25769,Entire home/apt,1250
 1625,Midtown,32.74712,-117.16317,Entire home/apt,188
@@ -1338,17 +1244,14 @@ id,neighbourhood,latitude,longitude,room_type,price
 1650,East Village,32.7138,-117.15828,Entire home/apt,151
 1651,Mission Bay,32.77902,-117.25311,Entire home/apt,791
 1652,College Area,32.76319,-117.07746,Entire home/apt,136
-1653,North Hills,32.74236,-117.13747,Entire home/apt,164
 1654,Kensington,32.77032,-117.10501,Entire home/apt,91
 1655,Mission Bay,32.78904,-117.25458,Entire home/apt,453
 1657,Mission Bay,32.7733,-117.25034,Entire home/apt,1500
 1658,Mission Bay,32.78118,-117.25137,Entire home/apt,1839
 1659,Ocean Beach,32.75308,-117.24833,Entire home/apt,400
 1660,Loma Portal,32.74902,-117.24049,Entire home/apt,159
-1661,North Hills,32.74969,-117.12929,Entire home/apt,150
 1662,Mission Bay,32.77305,-117.2504,Entire home/apt,1018
 1663,Wooded Area,32.71939,-117.23646,Entire home/apt,679
-1664,North Hills,32.76263,-117.13122,Entire home/apt,132
 1665,Mission Bay,32.77635,-117.25141,Entire home/apt,259
 1666,City Heights West,32.75486,-117.12415,Entire home/apt,99
 1667,South Park,32.71735,-117.12408,Entire home/apt,188
@@ -1363,7 +1266,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1678,Pacific Beach,32.80539,-117.23416,Entire home/apt,145
 1679,Carmel Valley,32.94924,-117.21475,Entire home/apt,400
 1680,Old Town,32.75261,-117.16297,Entire home/apt,195
-1681,North Hills,32.76491,-117.1368,Entire home/apt,335
 1682,Pacific Beach,32.80093,-117.24911,Entire home/apt,317
 1683,Pacific Beach,32.79865,-117.25723,Entire home/apt,261
 1684,Carmel Valley,32.95297,-117.22117,Entire home/apt,562
@@ -1398,7 +1300,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1718,Old Town,32.75131,-117.16285,Entire home/apt,589
 1719,La Jolla,32.82934,-117.2559,Entire home/apt,1921
 1720,Marina,32.71113,-117.16585,Entire home/apt,121
-1721,North Hills,32.76403,-117.1368,Entire home/apt,313
 1722,Mission Bay,32.79037,-117.24204,Entire home/apt,851
 1723,Normal Heights,32.76119,-117.11606,Entire home/apt,171
 1724,Mission Bay,32.75995,-117.24883,Entire home/apt,165
@@ -1438,11 +1339,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 1763,Ocean Beach,32.74819,-117.25225,Entire home/apt,334
 1764,Ocean Beach,32.74819,-117.25225,Entire home/apt,228
 1765,Midtown,32.74999,-117.15114,Entire home/apt,119
-1766,North Hills,32.73878,-117.11657,Entire home/apt,186
 1767,Balboa Park,32.71873,-117.1359,Entire home/apt,350
 1769,Ocean Beach,32.73963,-117.24647,Entire home/apt,266
 1770,Balboa Park,32.7413,-117.14936,Entire home/apt,237
-1771,North Hills,32.73176,-117.12785,Entire home/apt,116
 1773,Mission Bay,32.78984,-117.23781,Entire home/apt,174
 1776,Pacific Beach,32.80344,-117.25299,Entire home/apt,290
 1777,Balboa Park,32.71754,-117.13767,Entire home/apt,99
@@ -1453,8 +1352,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1782,Midtown,32.73356,-117.16645,Entire home/apt,773
 1783,Old Town,32.75121,-117.17255,Entire home/apt,205
 1784,Mission Bay,32.77273,-117.25209,Entire home/apt,641
-1785,North Hills,32.74317,-117.12827,Entire home/apt,146
-1786,North Hills,32.76441,-117.13014,Entire home/apt,234
 1787,Talmadge,32.76277,-117.09006,Entire home/apt,147
 1788,Linda Vista,32.78503,-117.17895,Entire home/apt,193
 1789,Clairemont Mesa,32.80488,-117.1586,Entire home/apt,115
@@ -1494,10 +1391,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 1829,Del Mar Heights,32.9371,-117.25217,Entire home/apt,170
 1830,La Jolla,32.81,-117.25624,Entire home/apt,143
 1831,Ocean Beach,32.73703,-117.25552,Entire home/apt,140
-1832,North Hills,32.73601,-117.13286,Entire home/apt,167
 1833,Loma Portal,32.74725,-117.23832,Entire home/apt,385
 1834,Mission Bay,32.7747,-117.25144,Entire home/apt,165
-1835,North Hills,32.76517,-117.13768,Entire home/apt,80
 1836,Kensington,32.767,-117.10155,Entire home/apt,127
 1837,Park West,32.72589,-117.15965,Entire home/apt,116
 1838,La Jolla,32.83032,-117.274,Entire home/apt,791
@@ -1551,10 +1446,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 1893,Pacific Beach,32.80146,-117.259,Entire home/apt,421
 1894,Pacific Beach,32.79915,-117.24335,Entire home/apt,296
 1896,Mission Bay,32.78039,-117.25207,Entire home/apt,450
-1897,North Hills,32.73198,-117.13263,Entire home/apt,113
 1898,Normal Heights,32.76524,-117.1273,Entire home/apt,225
 1899,Mission Bay,32.79264,-117.23152,Entire home/apt,350
-1900,North Hills,32.75307,-117.13182,Entire home/apt,152
 1901,University City,32.87271,-117.20369,Entire home/apt,332
 1903,Midtown,32.7452,-117.16765,Entire home/apt,137
 1904,Park West,32.72744,-117.16661,Entire home/apt,166
@@ -1566,20 +1459,14 @@ id,neighbourhood,latitude,longitude,room_type,price
 1911,Pacific Beach,32.79985,-117.23525,Entire home/apt,286
 1912,Mira Mesa,32.90269,-117.14166,Entire home/apt,192
 1913,Yosemite Dr,32.64802,-116.95088,Entire home/apt,83
-1914,North Hills,32.74399,-117.13522,Entire home/apt,130
 1915,Gaslamp Quarter,32.71435,-117.16051,Entire home/apt,224
 1916,Midtown,32.74178,-117.15042,Entire home/apt,283
 1917,Midtown,32.74549,-117.15209,Entire home/apt,154
 1918,La Jolla,32.84577,-117.27321,Entire home/apt,704
-1920,North Hills,32.75739,-117.13548,Entire home/apt,277
 1922,Cortez Hill,32.71982,-117.15797,Entire home/apt,162
 1923,Mission Bay,32.78527,-117.25345,Entire home/apt,246
-1924,North Hills,32.73422,-117.13137,Entire home/apt,82
 1925,Midtown,32.74665,-117.15093,Entire home/apt,292
-1926,North Hills,32.74756,-117.14151,Entire home/apt,173
-1928,North Hills,32.75257,-117.13152,Entire home/apt,165
 1929,Encanto,32.71947,-117.05585,Entire home/apt,305
-1930,North Hills,32.75263,-117.13151,Entire home/apt,146
 1931,Mission Bay,32.78564,-117.2537,Entire home/apt,325
 1932,Serra Mesa,32.77921,-117.13338,Entire home/apt,150
 1934,North City,32.95193,-117.24183,Entire home/apt,650
@@ -1597,9 +1484,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 1947,Ocean Beach,32.74304,-117.25327,Entire home/apt,102
 1949,Loma Portal,32.74443,-117.2405,Entire home/apt,105
 1950,La Jolla,32.82998,-117.27559,Entire home/apt,442
-1953,North Hills,32.7434,-117.12899,Entire home/apt,122
 1955,La Jolla,32.81789,-117.26944,Entire home/apt,268
-1959,North Hills,32.73147,-117.12157,Entire home/apt,178
 1960,East Village,32.702,-117.14815,Entire home/apt,193
 1961,Ocean Beach,32.74756,-117.25238,Entire home/apt,221
 1962,Balboa Park,32.7159,-117.14582,Entire home/apt,164
@@ -1617,7 +1502,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 1977,North City,32.95813,-117.21655,Entire home/apt,500
 1978,La Jolla,32.83314,-117.27859,Entire home/apt,186
 1979,La Jolla,32.84796,-117.27455,Entire home/apt,314
-1980,North Hills,32.74217,-117.13858,Entire home/apt,207
 1981,University City,32.85574,-117.22961,Entire home/apt,150
 1982,Core,32.71814,-117.15878,Entire home/apt,138
 1983,Bay Ho,32.82407,-117.2107,Entire home/apt,109
@@ -1629,11 +1513,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 1990,Old Town,32.75261,-117.18394,Entire home/apt,109
 1991,Mission Bay,32.761,-117.25097,Entire home/apt,193
 1992,Mission Bay,32.79009,-117.25402,Entire home/apt,847
-1993,North Hills,32.75459,-117.14365,Entire home/apt,199
 1994,Midtown,32.74708,-117.15387,Entire home/apt,142
 1995,Bay Ho,32.81859,-117.21481,Entire home/apt,150
 1996,Ocean Beach,32.73956,-117.24597,Entire home/apt,254
-1998,North Hills,32.74774,-117.13398,Entire home/apt,129
 1999,Cortez Hill,32.72311,-117.15709,Entire home/apt,123
 2005,Mission Bay,32.78227,-117.25088,Entire home/apt,911
 2006,Kensington,32.76164,-117.10549,Entire home/apt,144
@@ -1672,7 +1554,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2046,La Jolla,32.84031,-117.26927,Entire home/apt,1219
 2047,Mission Bay,32.78191,-117.25276,Entire home/apt,519
 2048,Ocean Beach,32.74527,-117.25162,Entire home/apt,365
-2049,North Hills,32.74617,-117.14027,Entire home/apt,131
 2050,Mission Bay,32.79115,-117.23888,Entire home/apt,197
 2051,Little Italy,32.72186,-117.16917,Entire home/apt,233
 2052,Mission Bay,32.78815,-117.23658,Entire home/apt,347
@@ -1696,7 +1577,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2073,Loma Portal,32.74019,-117.23193,Entire home/apt,182
 2074,Lincoln Park,32.69854,-117.08669,Entire home/apt,102
 2075,Core,32.71539,-117.15483,Entire home/apt,123
-2076,North Hills,32.74783,-117.14008,Entire home/apt,276
 2077,Grant Hill,32.71155,-117.12933,Entire home/apt,305
 2078,Grant Hill,32.71269,-117.12519,Entire home/apt,968
 2079,East Village,32.71291,-117.15508,Entire home/apt,100
@@ -1725,7 +1605,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2102,Grant Hill,32.70895,-117.14705,Entire home/apt,267
 2103,Old Town,32.75503,-117.19112,Entire home/apt,420
 2105,Pacific Beach,32.80375,-117.23956,Entire home/apt,350
-2108,North Hills,32.75418,-117.12523,Entire home/apt,145
 2109,Pacific Beach,32.80804,-117.25842,Entire home/apt,144
 2111,Mission Bay,32.77912,-117.25291,Entire home/apt,1316
 2112,Pacific Beach,32.80219,-117.22903,Entire home/apt,293
@@ -1749,14 +1628,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 2133,Gateway,32.72439,-117.10758,Entire home/apt,300
 2134,Mission Bay,32.76793,-117.25286,Entire home/apt,728
 2135,East Village,32.71856,-117.1533,Entire home/apt,226
-2136,North Hills,32.74975,-117.12581,Entire home/apt,101
-2137,North Hills,32.74768,-117.14199,Entire home/apt,607
 2138,La Jolla,32.83123,-117.25592,Entire home/apt,1257
 2139,Ocean Beach,32.74491,-117.25485,Entire home/apt,525
 2140,Pacific Beach,32.80106,-117.25914,Entire home/apt,431
 2141,College Area,32.77216,-117.06018,Entire home/apt,209
 2142,Pacific Beach,32.79547,-117.25497,Entire home/apt,425
-2145,North Hills,32.7519,-117.14154,Entire home/apt,75
 2146,Loma Portal,32.74761,-117.24222,Entire home/apt,146
 2147,Little Italy,32.72124,-117.16666,Entire home/apt,123
 2148,La Jolla,32.84999,-117.25541,Entire home/apt,1100
@@ -1773,9 +1649,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 2161,La Jolla,32.84233,-117.26934,Entire home/apt,465
 2162,Old Town,32.7538,-117.196,Entire home/apt,124
 2164,Balboa Park,32.71882,-117.1414,Entire home/apt,118
-2165,North Hills,32.74677,-117.12287,Entire home/apt,202
 2166,Park West,32.72743,-117.16359,Entire home/apt,71
-2167,North Hills,32.74673,-117.13815,Entire home/apt,110
 2169,Park West,32.72765,-117.16362,Entire home/apt,225
 2170,Ocean Beach,32.75135,-117.24965,Entire home/apt,299
 2171,Core,32.71866,-117.15944,Entire home/apt,115
@@ -1799,7 +1673,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2193,Mission Bay,32.78597,-117.25353,Entire home/apt,281
 2194,Pacific Beach,32.81204,-117.22835,Entire home/apt,249
 2195,Ocean Beach,32.74459,-117.25448,Entire home/apt,99
-2196,North Hills,32.74328,-117.12124,Entire home/apt,72
 2197,Mission Bay,32.77278,-117.25022,Entire home/apt,515
 2198,Clairemont Mesa,32.8339,-117.1913,Entire home/apt,550
 2199,Gaslamp Quarter,32.71487,-117.15989,Entire home/apt,799
@@ -1808,13 +1681,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 2202,Rancho Penasquitos,32.96486,-117.11415,Entire home/apt,130
 2203,Mission Bay,32.78405,-117.25375,Entire home/apt,542
 2204,Little Italy,32.7212,-117.16837,Entire home/apt,139
-2205,North Hills,32.75277,-117.14128,Entire home/apt,90
 2206,City Heights West,32.74337,-117.11693,Entire home/apt,117
 2207,Park West,32.72776,-117.16183,Entire home/apt,123
 2208,Ocean Beach,32.74454,-117.25278,Entire home/apt,121
 2209,City Heights West,32.74823,-117.11805,Entire home/apt,68
 2210,Core,32.71652,-117.15399,Entire home/apt,110
-2211,North Hills,32.7418,-117.1277,Entire home/apt,116
 2212,Mission Bay,32.76654,-117.25148,Entire home/apt,338
 2213,Mission Bay,32.76363,-117.25159,Entire home/apt,284
 2214,Bay Park,32.78207,-117.20304,Entire home/apt,159
@@ -1877,7 +1748,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2283,Mission Bay,32.78045,-117.25214,Entire home/apt,350
 2284,Mission Bay,32.77977,-117.25199,Entire home/apt,306
 2285,Mission Bay,32.78029,-117.25225,Entire home/apt,261
-2286,North Hills,32.73924,-117.13336,Entire home/apt,425
 2287,Grant Hill,32.70897,-117.14456,Entire home/apt,116
 2290,Grant Hill,32.71186,-117.13895,Entire home/apt,129
 2292,Pacific Beach,32.79938,-117.25634,Entire home/apt,132
@@ -1938,7 +1808,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2358,Mira Mesa,32.90346,-117.15544,Entire home/apt,160
 2361,Mission Valley,32.77327,-117.14034,Entire home/apt,290
 2363,Mira Mesa,32.90147,-117.15672,Entire home/apt,155
-2364,North Hills,32.74264,-117.13858,Entire home/apt,131
 2367,Little Italy,32.72087,-117.16693,Entire home/apt,195
 2368,Old Town,32.75112,-117.16261,Entire home/apt,211
 2369,Northwest,32.62428,-117.06373,Entire home/apt,534
@@ -1949,15 +1818,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 2375,Mission Bay,32.78696,-117.25417,Entire home/apt,2139
 2376,Northwest,32.62793,-117.08489,Entire home/apt,350
 2377,Mission Bay,32.77644,-117.25262,Entire home/apt,309
-2378,North Hills,32.74774,-117.1241,Entire home/apt,200
 2379,Pacific Beach,32.79939,-117.25642,Entire home/apt,176
-2380,North Hills,32.74876,-117.14219,Entire home/apt,211
-2381,North Hills,32.74996,-117.13707,Entire home/apt,848
 2383,La Jolla,32.8586,-117.25348,Entire home/apt,2000
 2384,Serra Mesa,32.80132,-117.14147,Entire home/apt,105
 2385,Loma Portal,32.75644,-117.22297,Entire home/apt,221
 2386,Park West,32.72701,-117.16414,Entire home/apt,907
-2387,North Hills,32.75231,-117.14194,Entire home/apt,109
 2388,Midtown,32.75184,-117.14808,Entire home/apt,166
 2390,Mission Bay,32.77279,-117.25044,Entire home/apt,200
 2391,Mission Bay,32.77266,-117.25037,Entire home/apt,493
@@ -1992,7 +1857,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2422,Gateway,32.72699,-117.11143,Entire home/apt,108
 2423,Ocean Beach,32.75178,-117.25204,Entire home/apt,184
 2424,Little Italy,32.72794,-117.16901,Entire home/apt,189
-2425,North Hills,32.74749,-117.14313,Entire home/apt,175
 2426,La Jolla,32.81566,-117.26777,Entire home/apt,273
 2427,Park West,32.72766,-117.16713,Entire home/apt,202
 2428,Pacific Beach,32.80581,-117.23429,Entire home/apt,175
@@ -2056,7 +1920,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2497,Midtown,32.73379,-117.16467,Entire home/apt,199
 2498,South Park,32.7281,-117.12319,Entire home/apt,157
 2500,Northwest,32.64859,-117.0748,Entire home/apt,80
-2501,North Hills,32.73504,-117.13195,Entire home/apt,164
 2502,Midtown,32.74378,-117.16774,Entire home/apt,231
 2503,Balboa Park,32.71577,-117.13618,Entire home/apt,99
 2504,Park West,32.73042,-117.16833,Entire home/apt,252
@@ -2065,7 +1928,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2507,La Jolla,32.81121,-117.26835,Entire home/apt,346
 2508,East Village,32.71034,-117.15596,Entire home/apt,369
 2509,Pacific Beach,32.80178,-117.24583,Entire home/apt,325
-2510,North Hills,32.74132,-117.12847,Entire home/apt,353
 2511,Pacific Beach,32.80409,-117.2594,Entire home/apt,414
 2513,Ocean Beach,32.7388,-117.25356,Entire home/apt,362
 2516,Pacific Beach,32.79536,-117.2385,Entire home/apt,233
@@ -2075,7 +1937,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2520,Pacific Beach,32.79979,-117.24724,Entire home/apt,375
 2521,Core,32.71836,-117.15975,Entire home/apt,104
 2523,Pacific Beach,32.79977,-117.24648,Entire home/apt,525
-2524,North Hills,32.74512,-117.13347,Entire home/apt,120
 2525,East Village,32.7042,-117.15017,Entire home/apt,350
 2526,University City,32.87,-117.22669,Entire home/apt,178
 2527,University City,32.86931,-117.22708,Entire home/apt,118
@@ -2087,12 +1948,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 2535,Valencia Park,32.70015,-117.07806,Entire home/apt,96
 2536,La Jolla,32.83245,-117.2755,Entire home/apt,825
 2537,Pacific Beach,32.79585,-117.2479,Entire home/apt,488
-2538,North Hills,32.74616,-117.14028,Entire home/apt,130
 2539,University City,32.87537,-117.21842,Entire home/apt,120
 2540,Mission Bay,32.77859,-117.25345,Entire home/apt,327
 2542,La Jolla Village,32.86297,-117.23162,Entire home/apt,250
 2543,Mission Bay,32.76714,-117.25017,Entire home/apt,461
-2544,North Hills,32.75325,-117.13755,Entire home/apt,110
 2546,La Jolla,32.82179,-117.24977,Entire home/apt,1800
 2547,Little Italy,32.72124,-117.16858,Entire home/apt,90
 2548,Pacific Beach,32.79745,-117.23876,Entire home/apt,307
@@ -2122,15 +1981,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 2579,Bay Park,32.78061,-117.20091,Entire home/apt,350
 2580,Pacific Beach,32.80313,-117.2337,Entire home/apt,459
 2581,Rancho Penasquitos,32.95381,-117.10453,Entire home/apt,286
-2582,North Hills,32.7644,-117.13137,Entire home/apt,145
 2583,Ocean Beach,32.75246,-117.24936,Entire home/apt,350
 2584,Pacific Beach,32.80333,-117.23535,Entire home/apt,363
 2585,Pacific Beach,32.8045,-117.25218,Entire home/apt,240
 2586,Normal Heights,32.76209,-117.12571,Entire home/apt,122
 2587,Bay Park,32.77621,-117.19351,Entire home/apt,225
 2588,Pacific Beach,32.79958,-117.25527,Entire home/apt,119
-2589,North Hills,32.74331,-117.13693,Entire home/apt,150
-2590,North Hills,32.7363,-117.12402,Entire home/apt,305
 2591,Pacific Beach,32.80166,-117.25812,Entire home/apt,397
 2592,Kensington,32.76257,-117.10514,Entire home/apt,130
 2593,La Jolla Village,32.86759,-117.23377,Entire home/apt,390
@@ -2164,7 +2020,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2623,Midtown,32.73971,-117.17334,Entire home/apt,142
 2624,Midtown,32.73984,-117.17284,Entire home/apt,157
 2625,Midtown,32.73964,-117.17147,Entire home/apt,94
-2626,North Hills,32.75418,-117.1322,Entire home/apt,570
 2627,Old Town,32.7441,-117.1832,Entire home/apt,152
 2628,Mission Bay,32.78731,-117.23677,Entire home/apt,448
 2629,Pacific Beach,32.79885,-117.25661,Entire home/apt,978
@@ -2173,7 +2028,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2632,Mission Bay,32.76641,-117.25108,Entire home/apt,206
 2633,Mission Bay,32.78777,-117.25365,Entire home/apt,156
 2634,Bay Park,32.79035,-117.19419,Entire home/apt,115
-2635,North Hills,32.75248,-117.13237,Entire home/apt,89
 2636,University City,32.86849,-117.2241,Entire home/apt,125
 2637,Roseville,32.73531,-117.23175,Entire home/apt,160
 2638,Bay Ho,32.82036,-117.2128,Entire home/apt,130
@@ -2195,9 +2049,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 2660,Ocean Beach,32.74587,-117.24728,Entire home/apt,150
 2661,East Village,32.7109,-117.15575,Entire home/apt,144
 2662,Little Italy,32.72086,-117.16654,Entire home/apt,109
-2663,North Hills,32.75128,-117.1377,Entire home/apt,223
 2667,Core,32.71888,-117.15974,Entire home/apt,106
-2668,North Hills,32.74042,-117.12622,Entire home/apt,149
 2669,Mission Bay,32.78862,-117.24014,Entire home/apt,427
 2670,Balboa Park,32.71892,-117.12991,Entire home/apt,561
 2671,Northwest,32.64652,-117.09122,Entire home/apt,80
@@ -2209,9 +2061,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 2677,Mission Bay,32.79031,-117.24118,Entire home/apt,525
 2678,La Jolla,32.83974,-117.26235,Entire home/apt,2044
 2679,La Jolla,32.85357,-117.25548,Entire home/apt,1786
-2680,North Hills,32.74999,-117.13561,Entire home/apt,219
 2681,Mission Bay,32.78098,-117.25269,Entire home/apt,343
-2683,North Hills,32.75446,-117.12845,Entire home/apt,156
 2684,La Jolla,32.81198,-117.26115,Entire home/apt,253
 2686,Bay Park,32.78769,-117.19374,Entire home/apt,608
 2687,Mission Bay,32.77829,-117.25313,Entire home/apt,612
@@ -2233,7 +2083,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2711,Mira Mesa,32.9055,-117.15007,Entire home/apt,357
 2712,Mission Bay,32.78674,-117.23861,Entire home/apt,310
 2713,Rancho Penasquitos,32.95808,-117.14623,Entire home/apt,380
-2714,North Hills,32.74111,-117.11714,Entire home/apt,300
 2715,Pacific Beach,32.79426,-117.25491,Entire home/apt,549
 2719,Mission Bay,32.77971,-117.25334,Entire home/apt,384
 2720,City Heights East,32.73292,-117.09912,Entire home/apt,214
@@ -2249,7 +2098,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2733,Little Italy,32.72261,-117.16799,Entire home/apt,136
 2734,Linda Vista,32.76807,-117.17584,Entire home/apt,160
 2735,Midtown,32.74478,-117.17887,Entire home/apt,557
-2736,North Hills,32.73451,-117.12343,Entire home/apt,106
 2738,City Heights East,32.73497,-117.09761,Entire home/apt,196
 2739,East Village,32.71117,-117.15878,Entire home/apt,107
 2740,La Jolla,32.84779,-117.27568,Entire home/apt,505
@@ -2258,13 +2106,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 2744,Mission Bay,32.76353,-117.25155,Entire home/apt,299
 2745,Ocean Beach,32.75275,-117.24963,Entire home/apt,301
 2746,Memorial,32.70298,-117.13356,Entire home/apt,311
-2747,North Hills,32.75067,-117.14115,Entire home/apt,78
-2748,North Hills,32.75874,-117.1322,Entire home/apt,268
 2749,City Heights East,32.73504,-117.09938,Entire home/apt,244
 2750,Memorial,32.69752,-117.12932,Entire home/apt,84
 2751,Ocean Beach,32.75282,-117.2496,Entire home/apt,202
 2752,Marina,32.71069,-117.16771,Entire home/apt,249
-2753,North Hills,32.73143,-117.12827,Entire home/apt,121
 2754,Mission Bay,32.78191,-117.2524,Entire home/apt,859
 2755,Pacific Beach,32.80598,-117.25713,Entire home/apt,436
 2757,Ocean Beach,32.74679,-117.24812,Entire home/apt,156
@@ -2289,12 +2134,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 2779,Memorial,32.69786,-117.12278,Entire home/apt,143
 2780,Midtown,32.73595,-117.16914,Entire home/apt,175
 2781,Oak Park,32.73681,-117.0796,Entire home/apt,191
-2782,North Hills,32.74125,-117.13181,Entire home/apt,475
 2783,Gaslamp Quarter,32.71269,-117.15976,Entire home/apt,184
 2784,Grant Hill,32.70971,-117.12157,Entire home/apt,103
 2786,Old Town,32.75337,-117.16253,Entire home/apt,225
 2787,Mission Bay,32.7872,-117.25286,Entire home/apt,270
-2788,North Hills,32.74407,-117.13821,Entire home/apt,311
 2789,Pacific Beach,32.8017,-117.25813,Entire home/apt,434
 2790,Memorial,32.6976,-117.12385,Entire home/apt,167
 2791,Core,32.71712,-117.1645,Entire home/apt,115
@@ -2308,8 +2151,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2799,Midtown,32.74804,-117.1662,Entire home/apt,191
 2800,Valencia Park,32.70018,-117.07789,Entire home/apt,114
 2801,Mission Bay,32.76011,-117.2496,Entire home/apt,625
-2802,North Hills,32.75163,-117.14259,Entire home/apt,203
-2803,North Hills,32.74357,-117.1369,Entire home/apt,125
 2805,Ocean Beach,32.74718,-117.24751,Entire home/apt,252
 2806,North Clairemont,32.83638,-117.18063,Entire home/apt,656
 2807,Ocean Beach,32.73795,-117.24135,Entire home/apt,750
@@ -2347,7 +2188,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2844,Mission Bay,32.79031,-117.2334,Entire home/apt,364
 2845,Memorial,32.69947,-117.12242,Entire home/apt,137
 2846,Midtown District,32.73162,-117.22105,Entire home/apt,350
-2847,North Hills,32.74549,-117.1305,Entire home/apt,138
 2848,Midtown,32.73245,-117.16888,Entire home/apt,169
 2849,La Jolla,32.85211,-117.23827,Entire home/apt,1535
 2850,Rancho Penasquitos,32.95868,-117.16314,Entire home/apt,395
@@ -2355,7 +2195,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2852,Midtown,32.74764,-117.15005,Entire home/apt,169
 2853,Mission Bay,32.79161,-117.24381,Entire home/apt,303
 2854,Rolando,32.75477,-117.05815,Entire home/apt,81
-2855,North Hills,32.75346,-117.13861,Entire home/apt,160
 2856,Mission Bay,32.78408,-117.25163,Entire home/apt,480
 2859,Northwest,32.62653,-117.0651,Entire home/apt,95
 2860,Balboa Park,32.74116,-117.13547,Entire home/apt,136
@@ -2389,7 +2228,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2891,Normal Heights,32.75885,-117.12285,Entire home/apt,114
 2892,East Village,32.71235,-117.15776,Entire home/apt,182
 2894,East Village,32.71267,-117.15453,Entire home/apt,200
-2895,North Hills,32.74423,-117.1242,Entire home/apt,132
 2896,La Jolla,32.83829,-117.27338,Entire home/apt,225
 2897,University City,32.85206,-117.22251,Entire home/apt,545
 2898,Loma Portal,32.7417,-117.22701,Entire home/apt,175
@@ -2400,7 +2238,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2903,Midtown,32.7448,-117.15127,Entire home/apt,157
 2904,Mission Bay,32.76382,-117.25214,Entire home/apt,571
 2905,Mission Bay,32.76381,-117.25207,Entire home/apt,581
-2906,North Hills,32.73924,-117.12547,Entire home/apt,172
 2907,Bay Park,32.7736,-117.20422,Entire home/apt,95
 2909,Old Town,32.74297,-117.1843,Entire home/apt,224
 2910,La Jolla,32.85623,-117.24844,Entire home/apt,648
@@ -2437,7 +2274,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2951,Mira Mesa,32.92111,-117.12448,Entire home/apt,606
 2952,La Jolla Village,32.86012,-117.23541,Entire home/apt,120
 2953,Mission Bay,32.76334,-117.25103,Entire home/apt,850
-2954,North Hills,32.75151,-117.13007,Entire home/apt,165
 2958,Park West,32.72628,-117.16262,Entire home/apt,75
 2959,Mission Bay,32.79101,-117.24022,Entire home/apt,276
 2960,Mission Bay,32.79172,-117.24419,Entire home/apt,322
@@ -2464,7 +2300,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 2983,Mission Bay,32.77774,-117.25331,Entire home/apt,314
 2984,Carmel Valley,32.95751,-117.19756,Entire home/apt,460
 2986,East Village,32.72041,-117.15561,Entire home/apt,136
-2988,North Hills,32.74816,-117.14045,Entire home/apt,208
 2990,Encanto,32.73239,-117.05057,Entire home/apt,84
 2991,Pacific Beach,32.80149,-117.25778,Entire home/apt,373
 2992,Midtown,32.73903,-117.16244,Entire home/apt,260
@@ -2483,7 +2318,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3009,Torrey Pines,32.87303,-117.24614,Entire home/apt,172
 3010,Old Town,32.7429,-117.18398,Entire home/apt,164
 3011,Old Town,32.74362,-117.18365,Entire home/apt,147
-3012,North Hills,32.74129,-117.13702,Entire home/apt,293
 3013,Mission Bay,32.78298,-117.25258,Entire home/apt,325
 3014,Normal Heights,32.76598,-117.11195,Entire home/apt,135
 3015,Little Italy,32.72635,-117.17154,Entire home/apt,211
@@ -2501,13 +2335,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 3030,Pacific Beach,32.7989,-117.23501,Entire home/apt,288
 3031,Northwest,32.62082,-117.07458,Entire home/apt,94
 3032,Mission Bay,32.77591,-117.25123,Entire home/apt,1543
-3033,North Hills,32.74896,-117.12994,Entire home/apt,130
 3034,Pacific Beach,32.79811,-117.24992,Entire home/apt,280
 3035,Bay Ho,32.83561,-117.22823,Entire home/apt,150
 3036,Memorial,32.70345,-117.1391,Entire home/apt,114
 3037,City Heights East,32.75315,-117.0988,Entire home/apt,137
 3039,Pacific Beach,32.80428,-117.23018,Entire home/apt,254
-3041,North Hills,32.74686,-117.13912,Entire home/apt,158
 3042,South Park,32.72947,-117.11886,Entire home/apt,159
 3043,Loma Portal,32.74771,-117.24451,Entire home/apt,108
 3044,Midtown,32.74055,-117.15297,Entire home/apt,215
@@ -2519,7 +2351,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3050,Marina,32.71137,-117.16173,Entire home/apt,109
 3051,Marina,32.71141,-117.16356,Entire home/apt,149
 3052,Bay Terrace,32.70324,-117.04235,Entire home/apt,141
-3053,North Hills,32.74875,-117.14519,Entire home/apt,362
 3054,Tierrasanta,32.83569,-117.10687,Entire home/apt,459
 3055,Pacific Beach,32.80107,-117.23049,Entire home/apt,119
 3056,Ocean Beach,32.7467,-117.2466,Entire home/apt,123
@@ -2531,12 +2362,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 3063,Mission Bay,32.78316,-117.2534,Entire home/apt,551
 3064,Pacific Beach,32.79711,-117.24947,Entire home/apt,432
 3065,Pacific Beach,32.79895,-117.24587,Entire home/apt,173
-3066,North Hills,32.74227,-117.12526,Entire home/apt,165
 3067,Serra Mesa,32.7979,-117.14351,Entire home/apt,107
 3068,Little Italy,32.72478,-117.16917,Entire home/apt,145
 3070,East Village,32.71006,-117.156,Entire home/apt,130
 3072,Park West,32.72864,-117.16537,Entire home/apt,190
-3074,North Hills,32.74304,-117.1244,Entire home/apt,162
 3075,Moreno Mission,32.77133,-117.19784,Entire home/apt,346
 3076,Loma Portal,32.74725,-117.24289,Entire home/apt,161
 3077,Roseville,32.72479,-117.23329,Entire home/apt,95
@@ -2593,7 +2422,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3130,Ocean Beach,32.7541,-117.24706,Entire home/apt,224
 3131,Pacific Beach,32.81363,-117.24269,Entire home/apt,119
 3133,Midtown,32.74424,-117.17042,Entire home/apt,108
-3135,North Hills,32.73548,-117.12169,Entire home/apt,91
 3136,Jomacha-Lomita,32.71769,-117.03082,Entire home/apt,150
 3137,Southwest,32.61854,-117.04309,Entire home/apt,127
 3139,Mission Bay,32.78698,-117.2378,Entire home/apt,230
@@ -2620,7 +2448,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3162,Ocean Beach,32.73008,-117.24407,Entire home/apt,189
 3168,Rancho Bernadino,33.03498,-117.0674,Entire home/apt,524
 3169,Ocean Beach,32.74312,-117.25259,Entire home/apt,272
-3170,North Hills,32.74277,-117.13588,Entire home/apt,129
 3171,Moreno Mission,32.7646,-117.18646,Entire home/apt,89
 3173,Ocean Beach,32.75383,-117.24867,Entire home/apt,590
 3174,Mission Bay,32.78418,-117.2516,Entire home/apt,520
@@ -2651,7 +2478,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3203,Roseville,32.73057,-117.22471,Entire home/apt,175
 3204,Linda Vista,32.76996,-117.17239,Entire home/apt,204
 3206,Ocean Beach,32.7489,-117.24651,Entire home/apt,434
-3207,North Hills,32.75251,-117.1456,Entire home/apt,80
 3208,Midtown,32.74473,-117.15064,Entire home/apt,99
 3209,Little Italy,32.72039,-117.16648,Entire home/apt,248
 3212,Midtown,32.74682,-117.17717,Entire home/apt,215
@@ -2734,14 +2560,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 3308,Old Town,32.7454,-117.18477,Entire home/apt,1942
 3310,Midtown,32.73278,-117.16205,Entire home/apt,360
 3311,Core,32.71724,-117.15701,Entire home/apt,434
-3312,North Hills,32.74616,-117.14028,Entire home/apt,145
-3318,North Hills,32.74429,-117.14137,Entire home/apt,233
 3319,Kensington,32.75731,-117.10824,Entire home/apt,120
 3320,University City,32.86931,-117.22123,Entire home/apt,155
 3321,Balboa Park,32.71717,-117.14389,Entire home/apt,112
 3322,Mission Bay,32.78423,-117.25209,Entire home/apt,225
 3323,Mission Bay,32.78451,-117.25339,Entire home/apt,185
-3324,North Hills,32.74741,-117.12613,Entire home/apt,260
 3325,Pacific Beach,32.80034,-117.2556,Entire home/apt,152
 3326,Mission Bay,32.7822,-117.25157,Entire home/apt,397
 3327,Midtown,32.73852,-117.15979,Entire home/apt,229
@@ -2765,7 +2588,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3348,Marina,32.70892,-117.16266,Entire home/apt,127
 3349,Mission Bay,32.77664,-117.25349,Entire home/apt,306
 3350,College Area,32.77153,-117.0615,Entire home/apt,80
-3351,North Hills,32.74416,-117.13506,Entire home/apt,145
 3352,Mission Bay,32.77339,-117.25197,Entire home/apt,425
 3353,Memorial,32.70527,-117.13853,Entire home/apt,1883
 3354,Mission Bay,32.78019,-117.25211,Entire home/apt,278
@@ -2779,7 +2601,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3369,La Jolla,32.84417,-117.26828,Entire home/apt,144
 3370,Mission Bay,32.78019,-117.2522,Entire home/apt,308
 3372,Northwest,32.65273,-117.07394,Entire home/apt,382
-3374,North Hills,32.75198,-117.14317,Entire home/apt,137
 3375,La Jolla,32.80738,-117.26301,Entire home/apt,200
 3377,Mission Bay,32.76422,-117.25261,Entire home/apt,304
 3378,Ocean Beach,32.73789,-117.25181,Entire home/apt,269
@@ -2825,13 +2646,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 3427,Loma Portal,32.7564,-117.2252,Entire home/apt,624
 3428,Mission Bay,32.77817,-117.25294,Entire home/apt,428
 3430,Mission Bay,32.76758,-117.25097,Entire home/apt,648
-3431,North Hills,32.74602,-117.12546,Entire home/apt,329
 3432,Rancho Bernadino,33.02909,-117.08076,Entire home/apt,345
 3433,Little Italy,32.72164,-117.16904,Entire home/apt,269
 3435,Mission Bay,32.77212,-117.25154,Entire home/apt,569
 3436,College Area,32.77281,-117.06101,Entire home/apt,149
-3440,North Hills,32.74237,-117.13927,Entire home/apt,129
-3441,North Hills,32.75102,-117.12894,Entire home/apt,139
 3442,Gaslamp Quarter,32.71567,-117.15936,Entire home/apt,350
 3443,Paradise Hills,32.67622,-117.05288,Entire home/apt,194
 3446,Park West,32.73044,-117.16813,Entire home/apt,479
@@ -2903,7 +2721,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3519,Balboa Park,32.72687,-117.13059,Entire home/apt,242
 3520,Mission Bay,32.79019,-117.25283,Entire home/apt,321
 3521,Loma Portal,32.7486,-117.24281,Entire home/apt,146
-3522,North Hills,32.75087,-117.14188,Entire home/apt,129
 3524,Grant Hill,32.71189,-117.14647,Entire home/apt,192
 3526,Encanto,32.72642,-117.05974,Entire home/apt,264
 3527,San Carlos,32.78637,-117.06337,Entire home/apt,600
@@ -2912,7 +2729,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3530,Mission Valley,32.77109,-117.14211,Entire home/apt,266
 3531,Valencia Park,32.70628,-117.07953,Entire home/apt,251
 3532,Bay Park,32.78901,-117.19543,Entire home/apt,650
-3533,North Hills,32.74443,-117.13705,Entire home/apt,169
 3534,La Jolla,32.852,-117.24742,Entire home/apt,198
 3536,North Clairemont,32.82591,-117.1985,Entire home/apt,782
 3539,Cortez Hill,32.7212,-117.15802,Entire home/apt,121
@@ -2963,7 +2779,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3588,Little Italy,32.72081,-117.16783,Entire home/apt,190
 3589,Northwest,32.63299,-117.06902,Entire home/apt,302
 3590,Pacific Beach,32.80533,-117.25548,Entire home/apt,300
-3591,North Hills,32.76542,-117.13264,Entire home/apt,141
 3592,Grant Hill,32.71041,-117.13904,Entire home/apt,155
 3593,Sunbow,32.61035,-117.0193,Entire home/apt,51
 3594,East Village,32.71253,-117.15814,Entire home/apt,92
@@ -2973,7 +2788,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3600,Grant Hill,32.70749,-117.13996,Entire home/apt,139
 3601,East Village,32.71173,-117.15554,Entire home/apt,199
 3603,Grant Hill,32.70778,-117.138,Entire home/apt,105
-3604,North Hills,32.74241,-117.1231,Entire home/apt,353
 3605,Gaslamp Quarter,32.71138,-117.15934,Entire home/apt,220
 3607,Mission Bay,32.78136,-117.25301,Entire home/apt,1135
 3608,Ocean Beach,32.75132,-117.2486,Entire home/apt,357
@@ -3005,7 +2819,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3636,Mission Bay,32.79022,-117.24248,Entire home/apt,164
 3637,Mission Bay,32.77684,-117.25268,Entire home/apt,128
 3638,La Jolla,32.8455,-117.27441,Entire home/apt,400
-3639,North Hills,32.7465,-117.13994,Entire home/apt,139
 3640,Bay Ho,32.82807,-117.22559,Entire home/apt,428
 3641,Clairemont Mesa,32.80419,-117.18555,Entire home/apt,140
 3642,Southwest,32.61131,-117.03866,Entire home/apt,1218
@@ -3015,7 +2828,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3646,Bay Terrace,32.69184,-117.03045,Entire home/apt,169
 3648,Mission Bay,32.79076,-117.25481,Entire home/apt,435
 3649,Memorial,32.69607,-117.13093,Entire home/apt,208
-3650,North Hills,32.74791,-117.13542,Entire home/apt,132
 3652,Mission Bay,32.78242,-117.25313,Entire home/apt,791
 3653,Clairemont Mesa,32.79651,-117.18596,Entire home/apt,150
 3654,Ocean Beach,32.75357,-117.24876,Entire home/apt,187
@@ -3023,8 +2835,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3656,Mission Bay,32.76056,-117.25029,Entire home/apt,550
 3659,Ocean Beach,32.75437,-117.24985,Entire home/apt,210
 3660,Ocean Beach,32.75246,-117.24815,Entire home/apt,210
-3661,North Hills,32.73733,-117.11599,Entire home/apt,141
-3662,North Hills,32.74852,-117.13528,Entire home/apt,132
 3663,La Jolla Village,32.86733,-117.23564,Entire home/apt,201
 3664,City Heights West,32.74904,-117.12163,Entire home/apt,325
 3665,Loma Portal,32.7471,-117.24529,Entire home/apt,828
@@ -3033,7 +2843,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3668,Mission Bay,32.78156,-117.25144,Entire home/apt,1057
 3669,Mission Bay,32.77666,-117.25222,Entire home/apt,392
 3671,Pacific Beach,32.80485,-117.24212,Entire home/apt,210
-3672,North Hills,32.75306,-117.1309,Entire home/apt,208
 3673,Bay Park,32.80551,-117.20489,Entire home/apt,331
 3674,Mission Bay,32.78174,-117.25136,Entire home/apt,385
 3675,Mission Bay,32.77647,-117.25163,Entire home/apt,397
@@ -3082,12 +2891,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 3738,East Village,32.71005,-117.15673,Entire home/apt,397
 3739,Carmel Valley,32.94163,-117.20565,Entire home/apt,150
 3740,Southwest,32.61503,-117.08042,Entire home/apt,367
-3741,North Hills,32.73734,-117.13183,Entire home/apt,137
 3742,Ocean Beach,32.75308,-117.24996,Entire home/apt,233
 3743,Pacific Beach,32.79726,-117.23122,Entire home/apt,727
 3744,Pacific Beach,32.79881,-117.23184,Entire home/apt,328
 3745,Pacific Beach,32.79738,-117.23314,Entire home/apt,255
-3746,North Hills,32.75111,-117.1329,Entire home/apt,149
 3747,University City,32.85119,-117.18158,Entire home/apt,110
 3748,Clairemont Mesa,32.8144,-117.1811,Entire home/apt,590
 3750,San Carlos,32.78397,-117.05907,Entire home/apt,279
@@ -3106,7 +2913,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3767,Memorial,32.69562,-117.12633,Entire home/apt,103
 3768,Mission Bay,32.79161,-117.24381,Entire home/apt,336
 3769,Normal Heights,32.75744,-117.1206,Entire home/apt,700
-3770,North Hills,32.73986,-117.12361,Entire home/apt,127
 3771,Encanto,32.71769,-117.06761,Entire home/apt,248
 3772,Ocean Beach,32.73258,-117.25472,Entire home/apt,261
 3773,Normal Heights,32.76656,-117.11878,Entire home/apt,303
@@ -3141,16 +2947,13 @@ id,neighbourhood,latitude,longitude,room_type,price
 3809,Roseville,32.72211,-117.23711,Entire home/apt,169
 3810,Wooded Area,32.71951,-117.23455,Entire home/apt,795
 3811,East Village,32.70859,-117.15813,Entire home/apt,512
-3812,North Hills,32.74124,-117.13519,Entire home/apt,150
 3813,Talmadge,32.75843,-117.08637,Entire home/apt,106
-3814,North Hills,32.73968,-117.11745,Entire home/apt,279
 3815,Balboa Park,32.71716,-117.13305,Entire home/apt,95
 3816,South Park,32.72458,-117.12726,Entire home/apt,317
 3818,Loma Portal,32.74793,-117.24484,Entire home/apt,207
 3819,College Area,32.77769,-117.05612,Entire home/apt,106
 3820,Cortez Hill,32.72022,-117.16257,Entire home/apt,183
 3821,Kensington,32.76615,-117.10596,Entire home/apt,108
-3824,North Hills,32.74534,-117.143,Entire home/apt,217
 3825,Core,32.71748,-117.15598,Entire home/apt,177
 3828,Sorrento Valley,32.90514,-117.19941,Entire home/apt,400
 3841,Grant Hill,32.7124,-117.14098,Entire home/apt,85
@@ -3196,7 +2999,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 3907,La Jolla,32.83952,-117.24982,Entire home/apt,328
 3908,Yosemite Dr,32.64944,-116.95138,Entire home/apt,74
 3909,Del Mar Heights,32.94672,-117.25732,Entire home/apt,306
-3910,North Hills,32.74519,-117.14238,Entire home/apt,227
 3911,East Village,32.7109,-117.15173,Entire home/apt,375
 3913,Mission Bay,32.78511,-117.25199,Entire home/apt,431
 3914,Midtown,32.74205,-117.14894,Entire home/apt,234
@@ -3206,14 +3008,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 3919,Bay Park,32.80639,-117.19522,Entire home/apt,152
 3920,Ocean Beach,32.74089,-117.25212,Entire home/apt,134
 3921,Ocean Beach,32.74152,-117.25444,Entire home/apt,198
-3923,North Hills,32.74277,-117.14527,Entire home/apt,192
 3925,Normal Heights,32.75775,-117.11063,Entire home/apt,102
 3926,East Village,32.71391,-117.15474,Entire home/apt,172
-3927,North Hills,32.75321,-117.13062,Entire home/apt,139
 3928,Mission Bay,32.78165,-117.23489,Entire home/apt,620
 3929,Mission Bay,32.76681,-117.25181,Entire home/apt,1100
 3930,Valencia Park,32.70518,-117.07864,Entire home/apt,264
-3931,North Hills,32.74705,-117.14292,Entire home/apt,219
 3932,Mission Bay,32.78378,-117.2531,Entire home/apt,925
 3933,Southwest,32.62389,-117.06001,Entire home/apt,107
 3934,Allied Gardens,32.79421,-117.09669,Entire home/apt,320
@@ -3225,22 +3024,17 @@ id,neighbourhood,latitude,longitude,room_type,price
 3942,North City,32.96295,-117.19098,Entire home/apt,575
 3943,Pacific Beach,32.80726,-117.25051,Entire home/apt,446
 3944,Pacific Beach,32.80879,-117.24901,Entire home/apt,185
-3945,North Hills,32.73892,-117.12529,Entire home/apt,369
 3946,West University Heights,32.75586,-117.14244,Entire home/apt,179
 3947,Bay Park,32.77696,-117.2035,Entire home/apt,192
 3948,Talmadge,32.76296,-117.09146,Entire home/apt,198
 3949,Chollas View,32.71402,-117.0965,Entire home/apt,232
-3950,North Hills,32.74842,-117.1443,Entire home/apt,82
 3951,Otay Ranch,32.62823,-116.94972,Entire home/apt,250
 3952,West University Heights,32.76035,-117.146,Entire home/apt,114
 3953,Pacific Beach,32.80424,-117.25483,Entire home/apt,279
 3954,College Area,32.77462,-117.06337,Entire home/apt,350
-3955,North Hills,32.74655,-117.12319,Entire home/apt,115
-3957,North Hills,32.73656,-117.13098,Entire home/apt,175
 3958,Mission Bay,32.76452,-117.25201,Entire home/apt,364
 3959,Mission Bay,32.78245,-117.25267,Entire home/apt,169
 3960,Mission Bay,32.78484,-117.25262,Entire home/apt,528
-3961,North Hills,32.7431,-117.12472,Entire home/apt,270
 3962,Normal Heights,32.76878,-117.11906,Entire home/apt,192
 3963,Old Town,32.75136,-117.17923,Entire home/apt,363
 3964,Southwest,32.5937,-117.04589,Entire home/apt,110
@@ -3284,12 +3078,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 4005,Balboa Park,32.71856,-117.13792,Entire home/apt,232
 4007,Carmel Valley,32.9451,-117.23159,Entire home/apt,148
 4008,Rancho Bernadino,33.04448,-117.08272,Entire home/apt,850
-4010,North Hills,32.72546,-117.11742,Entire home/apt,82
 4011,Mission Bay,32.78348,-117.25378,Entire home/apt,395
 4012,Linda Vista,32.77023,-117.1665,Entire home/apt,240
 4013,Rancho Bernadino,33.03234,-117.07466,Entire home/apt,271
 4014,Wooded Area,32.72015,-117.23325,Entire home/apt,157
-4015,North Hills,32.73975,-117.1233,Entire home/apt,106
 4017,Carmel Valley,32.96226,-117.18603,Entire home/apt,320
 4018,Mission Bay,32.77258,-117.25185,Entire home/apt,293
 4019,West University Heights,32.7561,-117.14244,Entire home/apt,99
@@ -3310,13 +3102,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 4040,Grant Hill,32.71024,-117.12461,Entire home/apt,433
 4041,Gaslamp Quarter,32.71093,-117.1606,Entire home/apt,136
 4042,Roseville,32.73161,-117.22633,Entire home/apt,201
-4043,North Hills,32.74365,-117.12767,Entire home/apt,149
 4044,La Jolla,32.84872,-117.27121,Entire home/apt,658
 4045,La Jolla,32.81401,-117.27206,Entire home/apt,868
 4046,Mission Bay,32.77824,-117.2517,Entire home/apt,381
 4047,Gaslamp Quarter,32.71338,-117.16028,Entire home/apt,177
 4048,Linda Vista,32.78806,-117.17831,Entire home/apt,125
-4049,North Hills,32.74049,-117.12414,Entire home/apt,295
 4050,Mission Bay,32.79207,-117.23927,Entire home/apt,235
 4052,West University Heights,32.7597,-117.14825,Entire home/apt,78
 4053,Cortez Hill,32.72129,-117.15838,Entire home/apt,116
@@ -3340,7 +3130,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4076,Little Italy,32.72271,-117.16769,Entire home/apt,190
 4077,Little Italy,32.72159,-117.16744,Entire home/apt,160
 4078,Balboa Park,32.72633,-117.13052,Entire home/apt,108
-4079,North Hills,32.76244,-117.12891,Entire home/apt,155
 4080,Midtown,32.74404,-117.15249,Entire home/apt,475
 4081,Old Town,32.75227,-117.17538,Entire home/apt,185
 4082,Northwest,32.61941,-117.0846,Entire home/apt,185
@@ -3403,11 +3192,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 4165,Mission Bay,32.78867,-117.25457,Entire home/apt,269
 4166,Marina,32.7115,-117.16956,Entire home/apt,227
 4167,Old Town,32.75695,-117.17841,Entire home/apt,225
-4170,North Hills,32.76199,-117.13126,Entire home/apt,150
 4171,University City,32.85193,-117.18644,Entire home/apt,545
 4173,Pacific Beach,32.80511,-117.25117,Entire home/apt,262
 4174,Mission Bay,32.78295,-117.25287,Entire home/apt,1500
-4175,North Hills,32.75965,-117.13119,Entire home/apt,90
 4176,La Jolla,32.84428,-117.27922,Entire home/apt,266
 4178,Allied Gardens,32.81727,-117.0907,Entire home/apt,199
 4179,City Heights East,32.7389,-117.09128,Entire home/apt,226
@@ -3438,7 +3225,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4209,East Village,32.71057,-117.15114,Entire home/apt,106
 4210,Pacific Beach,32.80233,-117.23075,Entire home/apt,192
 4211,Marina,32.71186,-117.1642,Entire home/apt,800
-4212,North Hills,32.74263,-117.14394,Entire home/apt,600
 4213,La Jolla,32.82797,-117.27725,Entire home/apt,315
 4214,Midtown,32.7473,-117.16852,Entire home/apt,579
 4215,Little Italy,32.72022,-117.16854,Entire home/apt,189
@@ -3464,7 +3250,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4242,Mission Bay,32.78432,-117.25376,Entire home/apt,1494
 4243,Normal Heights,32.76408,-117.12254,Entire home/apt,126
 4244,Mission Bay,32.57578,-117.05643,Entire home/apt,144
-4245,North Hills,32.74481,-117.14471,Entire home/apt,205
 4246,East Village,32.70997,-117.15868,Entire home/apt,333
 4247,North Clairemont,32.83014,-117.19602,Entire home/apt,430
 4249,East Village,32.7143,-117.15637,Entire home/apt,207
@@ -3490,7 +3275,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4272,La Jolla,32.82832,-117.27595,Entire home/apt,436
 4273,La Jolla,32.82832,-117.27595,Entire home/apt,992
 4274,Loma Portal,32.74421,-117.22825,Entire home/apt,900
-4275,North Hills,32.74557,-117.12229,Entire home/apt,328
 4276,City Heights West,32.73101,-117.10624,Entire home/apt,591
 4277,Pacific Beach,32.7988,-117.23517,Entire home/apt,1167
 4278,La Jolla,32.84275,-117.27009,Entire home/apt,318
@@ -3502,7 +3286,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4287,Bay Ho,32.82972,-117.21593,Entire home/apt,246
 4288,University City,32.87045,-117.20464,Entire home/apt,229
 4289,Midtown,32.73742,-117.16,Entire home/apt,187
-4290,North Hills,32.76132,-117.1291,Entire home/apt,176
 4291,Linda Vista,32.77624,-117.1665,Entire home/apt,356
 4292,Mission Bay,32.78651,-117.25378,Entire home/apt,540
 4293,Mission Bay,32.78625,-117.2537,Entire home/apt,1997
@@ -3511,7 +3294,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4296,Northwest,32.62819,-117.06982,Entire home/apt,150
 4297,Midtown,32.74672,-117.15697,Entire home/apt,105
 4298,Northwest,32.63351,-117.0733,Entire home/apt,268
-4299,North Hills,32.74129,-117.12539,Entire home/apt,122
 4301,Mira Mesa,32.92347,-117.12027,Entire home/apt,236
 4302,Pacific Beach,32.79998,-117.25753,Entire home/apt,533
 4303,Old Town,32.74347,-117.1835,Entire home/apt,190
@@ -3524,7 +3306,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4311,Midtown,32.7457,-117.15492,Entire home/apt,165
 4312,Talmadge,32.75834,-117.08484,Entire home/apt,198
 4313,Mission Bay,32.77427,-117.25176,Entire home/apt,1871
-4314,North Hills,32.75525,-117.14386,Entire home/apt,182
 4316,Park West,32.73041,-117.16902,Entire home/apt,446
 4318,Cortez Hill,32.722,-117.16357,Entire home/apt,195
 4319,La Jolla,32.82764,-117.27606,Entire home/apt,186
@@ -3575,7 +3356,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4371,Del Cerro,32.78051,-117.07867,Entire home/apt,85
 4373,Del Cerro,32.79448,-117.07539,Entire home/apt,1356
 4374,Roseville,32.72692,-117.23059,Entire home/apt,129
-4375,North Hills,32.73048,-117.11515,Entire home/apt,157
 4377,La Jolla,32.81662,-117.25669,Entire home/apt,1000
 4378,Mission Bay,32.76705,-117.25214,Entire home/apt,461
 4379,Mission Bay,32.7748,-117.25151,Entire home/apt,1020
@@ -3590,7 +3370,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4388,La Jolla Village,32.86004,-117.23468,Entire home/apt,95
 4391,Memorial,32.70042,-117.13368,Entire home/apt,160
 4392,Roseville,32.73526,-117.22211,Entire home/apt,579
-4393,North Hills,32.73404,-117.11944,Entire home/apt,385
 4394,Mission Bay,32.78262,-117.23807,Entire home/apt,178
 4395,Linda Vista,32.79461,-117.17511,Entire home/apt,163
 4396,Mission Bay,32.78906,-117.23622,Entire home/apt,168
@@ -3599,7 +3378,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4399,Mission Valley,32.77242,-117.13951,Entire home/apt,270
 4400,Mission Bay,32.78708,-117.2528,Entire home/apt,503
 4401,Mission Bay,32.78844,-117.23602,Entire home/apt,270
-4402,North Hills,32.7401,-117.11808,Entire home/apt,133
 4403,Emerald Hills,32.71198,-117.07208,Entire home/apt,229
 4404,Wooded Area,32.72013,-117.25416,Entire home/apt,578
 4405,Mission Bay,32.7829,-117.25155,Entire home/apt,593
@@ -3636,7 +3414,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4447,Mission Bay,32.78686,-117.23574,Entire home/apt,777
 4448,East Village,32.71341,-117.15484,Entire home/apt,131
 4449,Normal Heights,32.75821,-117.11987,Entire home/apt,251
-4451,North Hills,32.73385,-117.12279,Entire home/apt,346
 4452,Mission Bay,32.77417,-117.25333,Entire home/apt,833
 4453,Mission Bay,32.7877,-117.23645,Entire home/apt,203
 4454,Mission Bay,32.77373,-117.25142,Entire home/apt,723
@@ -3662,7 +3439,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4479,La Jolla,32.84557,-117.26972,Entire home/apt,527
 4480,Mission Bay,32.79329,-117.24251,Entire home/apt,469
 4481,Ocean Beach,32.751,-117.24651,Entire home/apt,565
-4482,North Hills,32.74501,-117.13986,Entire home/apt,247
 4483,Mission Bay,32.78245,-117.25101,Entire home/apt,757
 4484,Mission Bay,32.78695,-117.25417,Entire home/apt,641
 4485,University City,32.85361,-117.21042,Entire home/apt,233
@@ -3693,11 +3469,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 4512,East Village,32.70956,-117.15424,Entire home/apt,155
 4513,Mission Bay,32.78486,-117.25219,Entire home/apt,255
 4514,Midtown,32.746,-117.16688,Entire home/apt,437
-4516,North Hills,32.7494,-117.14165,Entire home/apt,100
 4517,Old Town,32.75102,-117.16554,Entire home/apt,328
 4518,Bay Park,32.77691,-117.19526,Entire home/apt,850
 4519,City Heights West,32.74985,-117.11739,Entire home/apt,199
-4520,North Hills,32.73922,-117.1333,Entire home/apt,358
 4521,Marina,32.71408,-117.16663,Entire home/apt,243
 4522,Marina,32.711,-117.16135,Entire home/apt,193
 4523,Core,32.71504,-117.15902,Entire home/apt,138
@@ -3707,15 +3481,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 4527,Core,32.71504,-117.15902,Entire home/apt,138
 4528,East Village,32.71229,-117.15814,Entire home/apt,161
 4529,Mission Bay,32.78978,-117.23423,Entire home/apt,237
-4530,North Hills,32.7529,-117.14137,Entire home/apt,182
-4532,North Hills,32.74997,-117.13239,Entire home/apt,144
 4533,Northwest,32.6231,-117.09244,Entire home/apt,223
 4534,Northwest,32.62267,-117.09157,Entire home/apt,262
 4535,Midtown,32.74702,-117.16854,Entire home/apt,539
 4536,Core,32.71504,-117.15902,Entire home/apt,127
 4537,Pacific Beach,32.80054,-117.25001,Entire home/apt,332
 4538,Mission Bay,32.76039,-117.249,Entire home/apt,391
-4539,North Hills,32.74352,-117.12625,Entire home/apt,213
 4540,Core,32.71553,-117.15897,Entire home/apt,299
 4541,Core,32.71504,-117.15902,Entire home/apt,137
 4542,Mission Bay,32.75984,-117.25128,Entire home/apt,182
@@ -3729,7 +3500,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4554,Pacific Beach,32.7938,-117.24854,Entire home/apt,800
 4556,University City,32.86043,-117.22413,Entire home/apt,550
 4557,Bay Park,32.81055,-117.20004,Entire home/apt,432
-4558,North Hills,32.75318,-117.13005,Entire home/apt,107
 4559,El Cerritos,32.75823,-117.06771,Entire home/apt,138
 4560,Mission Bay,32.78269,-117.25226,Entire home/apt,650
 4561,Old Town,32.75848,-117.17774,Entire home/apt,115
@@ -3762,7 +3532,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4590,Mountain View,32.69891,-117.11307,Entire home/apt,326
 4591,Grant Hill,32.70661,-117.13359,Entire home/apt,280
 4592,Ocean Beach,32.73457,-117.24842,Entire home/apt,177
-4593,North Hills,32.73636,-117.13161,Entire home/apt,169
 4594,Old Town,32.75377,-117.16404,Entire home/apt,116
 4595,Pacific Beach,32.79867,-117.25725,Entire home/apt,191
 4596,Pacific Beach,32.79867,-117.25725,Entire home/apt,345
@@ -3815,11 +3584,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 4648,La Jolla,32.85428,-117.25203,Entire home/apt,308
 4649,Bay Ho,32.81039,-117.21165,Entire home/apt,564
 4650,Old Town,32.74838,-117.18951,Entire home/apt,154
-4651,North Hills,32.76167,-117.13772,Entire home/apt,144
-4652,North Hills,32.76145,-117.13775,Entire home/apt,144
 4653,Loma Portal,32.74629,-117.24135,Entire home/apt,278
-4654,North Hills,32.76346,-117.13783,Entire home/apt,163
-4655,North Hills,32.76349,-117.1377,Entire home/apt,156
 4656,Northwest,32.62695,-117.06944,Entire home/apt,75
 4657,Mission Bay,32.79157,-117.24374,Entire home/apt,300
 4658,Little Italy,32.72335,-117.17078,Entire home/apt,155
@@ -3909,8 +3674,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4765,Mission Bay,32.78432,-117.25172,Entire home/apt,400
 4766,Mission Bay,32.7885,-117.25354,Entire home/apt,314
 4767,San Carlos,32.80546,-117.07213,Entire home/apt,95
-4768,North Hills,32.74115,-117.13246,Entire home/apt,127
-4769,North Hills,32.74311,-117.13221,Entire home/apt,232
 4770,Loma Portal,32.74732,-117.22661,Entire home/apt,249
 4771,University City,32.85295,-117.20316,Entire home/apt,278
 4772,Old Town,32.74862,-117.18987,Entire home/apt,168
@@ -3962,11 +3725,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 4821,Little Italy,32.7289,-117.17005,Entire home/apt,188
 4822,North Clairemont,32.82976,-117.21308,Entire home/apt,399
 4823,Mission Bay,32.78267,-117.25154,Entire home/apt,271
-4824,North Hills,32.74318,-117.14341,Entire home/apt,282
 4825,Mission Bay,32.78636,-117.25385,Entire home/apt,422
 4827,Mission Bay,32.76619,-117.24989,Entire home/apt,361
 4828,Mission Bay,32.78622,-117.25327,Entire home/apt,440
-4830,North Hills,32.74415,-117.14382,Entire home/apt,261
 4831,Pacific Beach,32.80867,-117.25356,Entire home/apt,380
 4832,City Heights West,32.74764,-117.11809,Entire home/apt,132
 4834,West University Heights,32.758,-117.15286,Entire home/apt,165
@@ -3980,7 +3741,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4847,Mission Bay,32.77745,-117.25302,Entire home/apt,738
 4848,Mission Bay,32.77745,-117.25303,Entire home/apt,1110
 4849,Mission Bay,32.77745,-117.25302,Entire home/apt,2136
-4852,North Hills,32.747,-117.13586,Entire home/apt,269
 4853,Mission Bay,32.76491,-117.25176,Entire home/apt,1033
 4854,Carmel Valley,32.95509,-117.19925,Entire home/apt,1529
 4855,Mission Bay,32.78809,-117.25373,Entire home/apt,805
@@ -3992,19 +3752,16 @@ id,neighbourhood,latitude,longitude,room_type,price
 4862,East Village,32.71355,-117.15617,Entire home/apt,232
 4863,Mission Bay,32.78056,-117.25237,Entire home/apt,291
 4864,Mission Bay,32.79054,-117.2537,Entire home/apt,242
-4866,North Hills,32.75866,-117.12951,Entire home/apt,237
 4867,Old Town,32.74911,-117.17604,Entire home/apt,285
 4869,Eastlake Vistas,32.64134,-116.94141,Entire home/apt,93
 4871,Pacific Beach,32.80999,-117.24762,Entire home/apt,448
 4872,Pacific Beach,32.80673,-117.23811,Entire home/apt,264
-4873,North Hills,32.7436,-117.12298,Entire home/apt,145
 4874,Northwest,32.64815,-117.07463,Entire home/apt,157
 4875,Pacific Beach,32.79574,-117.23389,Entire home/apt,146
 4876,Mission Bay,32.79453,-117.23177,Entire home/apt,90
 4877,South Park,32.72426,-117.12321,Entire home/apt,151
 4878,Midtown,32.74483,-117.15341,Entire home/apt,113
 4879,La Jolla,32.84758,-117.26831,Entire home/apt,743
-4880,North Hills,32.75125,-117.14471,Entire home/apt,199
 4881,Pacific Beach,32.79745,-117.25438,Entire home/apt,229
 4882,University City,32.84398,-117.22964,Entire home/apt,260
 4883,Mission Bay,32.75995,-117.24884,Entire home/apt,262
@@ -4024,11 +3781,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 4900,City Heights West,32.74716,-117.11359,Entire home/apt,149
 4901,City Heights West,32.74247,-117.11409,Entire home/apt,191
 4902,Scripps Ranch,32.91454,-117.11039,Entire home/apt,224
-4903,North Hills,32.73441,-117.12024,Entire home/apt,156
 4904,Normal Heights,32.76706,-117.11477,Entire home/apt,110
 4905,Mission Bay,32.79359,-117.23284,Entire home/apt,130
 4906,University City,32.86872,-117.22103,Entire home/apt,180
-4907,North Hills,32.73969,-117.13102,Entire home/apt,169
 4908,Balboa Park,32.71752,-117.13809,Entire home/apt,175
 4909,Gaslamp Quarter,32.7097,-117.16022,Entire home/apt,187
 4912,Loma Portal,32.74546,-117.24322,Entire home/apt,856
@@ -4059,10 +3814,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 4938,Mission Bay,32.78656,-117.25291,Entire home/apt,386
 4939,Mission Bay,32.7866,-117.25291,Entire home/apt,350
 4940,Mission Bay,32.78656,-117.25291,Entire home/apt,1380
-4941,North Hills,32.74315,-117.12058,Entire home/apt,133
 4942,East Village,32.71035,-117.1558,Entire home/apt,122
-4943,North Hills,32.73626,-117.12277,Entire home/apt,300
-4944,North Hills,32.74389,-117.14301,Entire home/apt,252
 4945,Carmel Valley,32.92818,-117.23233,Entire home/apt,1800
 4946,Pacific Beach,32.79284,-117.24913,Entire home/apt,2768
 4947,La Jolla,32.83976,-117.27642,Entire home/apt,529
@@ -4083,13 +3835,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 4966,Loma Portal,32.73817,-117.23245,Entire home/apt,408
 4967,La Jolla,32.84321,-117.28015,Entire home/apt,478
 4968,La Jolla,32.86321,-117.24325,Entire home/apt,1100
-4969,North Hills,32.74512,-117.14282,Entire home/apt,244
 4970,Mission Bay,32.78914,-117.23651,Entire home/apt,209
 4971,Park West,32.73033,-117.16968,Entire home/apt,227
 4972,Mission Bay,32.78744,-117.25361,Entire home/apt,671
 4974,Mission Bay,32.78331,-117.25175,Entire home/apt,389
 4975,Pacific Beach,32.80633,-117.25268,Entire home/apt,562
-4976,North Hills,32.73638,-117.12619,Entire home/apt,112
 4977,Gaslamp Quarter,32.71057,-117.16114,Entire home/apt,106
 4978,Mission Bay,32.77483,-117.25181,Entire home/apt,251
 4979,Normal Heights,32.76601,-117.11712,Entire home/apt,129
@@ -4099,7 +3849,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 4983,East Village,32.71245,-117.15643,Entire home/apt,177
 4984,Wooded Area,32.72765,-117.25229,Entire home/apt,183
 4985,Linda Vista,32.79186,-117.18238,Entire home/apt,185
-4986,North Hills,32.73576,-117.12632,Entire home/apt,103
 4988,Marina,32.71196,-117.1639,Entire home/apt,178
 4990,Midtown,32.74688,-117.16728,Entire home/apt,177
 4992,Serra Mesa,32.80187,-117.13396,Entire home/apt,120
@@ -4132,9 +3881,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 5021,Little Italy,32.7243,-117.16902,Entire home/apt,141
 5022,Ocean Beach,32.74179,-117.25109,Entire home/apt,340
 5023,Midtown,32.73294,-117.17138,Entire home/apt,137
-5025,North Hills,32.7488,-117.14019,Entire home/apt,170
 5028,Pacific Beach,32.80318,-117.25898,Entire home/apt,126
-5030,North Hills,32.75275,-117.14232,Entire home/apt,88
 5032,La Jolla,32.854,-117.25347,Entire home/apt,1920
 5033,Roseville,32.72506,-117.23087,Entire home/apt,154
 5035,Talmadge,32.76244,-117.08824,Entire home/apt,179
@@ -4221,7 +3968,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5136,Ocean Beach,32.73365,-117.25138,Entire home/apt,229
 5138,Moreno Mission,32.77077,-117.19722,Entire home/apt,652
 5139,Mission Bay,32.76248,-117.25064,Entire home/apt,370
-5141,North Hills,32.75295,-117.14191,Entire home/apt,289
 5142,Rancho Penasquitos,32.96581,-117.11614,Entire home/apt,110
 5143,Old Town,32.74903,-117.1912,Entire home/apt,153
 5146,Memorial,32.70055,-117.13589,Entire home/apt,100
@@ -4235,12 +3981,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 5155,Mission Bay,32.78955,-117.25361,Entire home/apt,304
 5156,Pacific Beach,32.79656,-117.24781,Entire home/apt,327
 5157,Little Italy,32.72352,-117.16726,Entire home/apt,191
-5158,North Hills,32.76283,-117.13508,Entire home/apt,182
 5159,City Heights West,32.74394,-117.11611,Entire home/apt,179
 5160,Balboa Park,32.71542,-117.13516,Entire home/apt,107
 5161,Mission Bay,32.78882,-117.25397,Entire home/apt,498
 5162,College Area,32.75893,-117.07925,Entire home/apt,100
-5163,North Hills,32.74875,-117.13928,Entire home/apt,153
 5164,Mission Bay,32.78419,-117.25187,Entire home/apt,498
 5165,Ocean Beach,32.74734,-117.24859,Entire home/apt,175
 5166,Ocean Beach,32.74744,-117.24918,Entire home/apt,208
@@ -4273,8 +4017,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5197,Terra Nova,32.64404,-117.05195,Entire home/apt,542
 5198,Estlake Greens,32.63199,-116.96261,Entire home/apt,383
 5199,Mission Bay,32.78537,-117.23466,Entire home/apt,539
-5200,North Hills,32.75474,-117.13044,Entire home/apt,186
-5201,North Hills,32.75489,-117.13145,Entire home/apt,193
 5203,La Jolla,32.83189,-117.27757,Entire home/apt,903
 5205,Rolando,32.76438,-117.052,Entire home/apt,335
 5208,Core,32.7155,-117.1551,Entire home/apt,145
@@ -4291,7 +4033,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5220,Mission Bay,32.78276,-117.25175,Entire home/apt,344
 5221,Gaslamp Quarter,32.7096,-117.16058,Entire home/apt,108
 5222,Pacific Beach,32.80554,-117.26046,Entire home/apt,1500
-5223,North Hills,32.74761,-117.1433,Entire home/apt,407
 5224,Serra Mesa,32.78397,-117.13332,Entire home/apt,190
 5225,Mission Bay,32.76733,-117.25135,Entire home/apt,703
 5226,Northwest,32.63696,-117.08344,Entire home/apt,190
@@ -4312,7 +4053,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5243,Pacific Beach,32.79951,-117.22853,Entire home/apt,144
 5244,Pacific Beach,32.80389,-117.26012,Entire home/apt,200
 5245,Serra Mesa,32.80684,-117.15198,Entire home/apt,189
-5246,North Hills,32.75558,-117.13697,Entire home/apt,186
 5247,Mission Bay,32.78228,-117.25122,Entire home/apt,330
 5248,Balboa Park,32.72407,-117.1305,Entire home/apt,108
 5249,Cortez Hill,32.7223,-117.16348,Entire home/apt,149
@@ -4324,7 +4064,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5258,Ocean Beach,32.73717,-117.25372,Entire home/apt,200
 5259,Balboa Park,32.71409,-117.14116,Entire home/apt,95
 5261,Linda Vista,32.77291,-117.16523,Entire home/apt,135
-5262,North Hills,32.74628,-117.12887,Entire home/apt,339
 5263,Mission Bay,32.77889,-117.2514,Entire home/apt,169
 5264,East Village,32.71729,-117.15351,Entire home/apt,110
 5265,West University Heights,32.7603,-117.147,Entire home/apt,116
@@ -4342,14 +4081,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 5278,Mission Bay,32.76672,-117.25114,Entire home/apt,226
 5279,Mission Bay,32.78073,-117.2521,Entire home/apt,1129
 5280,Balboa Park,32.72744,-117.13247,Entire home/apt,326
-5281,North Hills,32.74976,-117.14353,Entire home/apt,144
 5282,Mission Bay,32.78373,-117.2536,Entire home/apt,488
 5283,University City,32.85183,-117.20445,Entire home/apt,180
 5284,La Jolla,32.8283,-117.27678,Entire home/apt,657
 5285,Mission Bay,32.77974,-117.25197,Entire home/apt,522
 5286,Midtown District,32.7337,-117.17381,Entire home/apt,108
 5288,City Heights West,32.75227,-117.1188,Entire home/apt,92
-5289,North Hills,32.75456,-117.13883,Entire home/apt,229
 5290,Core,32.71504,-117.15902,Entire home/apt,138
 5291,Mission Bay,32.80248,-117.21989,Entire home/apt,118
 5292,Moreno Mission,32.77203,-117.20079,Entire home/apt,255
@@ -4378,14 +4115,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 5318,Midtown,32.74018,-117.17589,Entire home/apt,488
 5319,Little Italy,32.72847,-117.17026,Entire home/apt,163
 5321,Core,32.7156,-117.15522,Entire home/apt,110
-5322,North Hills,32.73868,-117.12301,Entire home/apt,114
 5323,Balboa Park,32.71537,-117.13842,Entire home/apt,132
 5324,Roseville,32.73602,-117.2235,Entire home/apt,135
 5325,Midtown,32.74322,-117.17555,Entire home/apt,113
 5326,Gaslamp Quarter,32.71428,-117.16078,Entire home/apt,161
 5327,Gaslamp Quarter,32.71374,-117.16067,Entire home/apt,156
 5328,El Cerritos,32.75839,-117.06995,Entire home/apt,182
-5329,North Hills,32.7482,-117.13583,Entire home/apt,111
 5330,Ocean Beach,32.7373,-117.25204,Entire home/apt,279
 5331,Ocean Beach,32.73733,-117.25368,Entire home/apt,245
 5332,Linda Vista,32.77922,-117.17451,Entire home/apt,402
@@ -4454,7 +4189,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5409,Clairemont Mesa,32.81814,-117.16085,Entire home/apt,110
 5411,East Village,32.71208,-117.1588,Entire home/apt,205
 5412,Normal Heights,32.76406,-117.11357,Entire home/apt,263
-5413,North Hills,32.7437,-117.12433,Entire home/apt,116
 5414,Memorial,32.70268,-117.12461,Entire home/apt,76
 5415,Grant Hill,32.70712,-117.13632,Entire home/apt,151
 5416,Balboa Park,32.71674,-117.14477,Entire home/apt,71
@@ -4490,7 +4224,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5448,Pacific Beach,32.792,-117.25276,Entire home/apt,486
 5449,Ocean Beach,32.74962,-117.25098,Entire home/apt,230
 5450,College Area,32.76915,-117.06509,Entire home/apt,168
-5451,North Hills,32.74436,-117.1222,Entire home/apt,318
 5452,La Jolla,32.83247,-117.27875,Entire home/apt,969
 5453,Bay Park,32.79969,-117.20039,Entire home/apt,245
 5454,Mission Bay,32.76241,-117.25313,Entire home/apt,861
@@ -4514,9 +4247,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 5479,Balboa Park,32.71339,-117.14188,Entire home/apt,159
 5480,Mission Bay,32.76756,-117.25162,Entire home/apt,724
 5481,Pacific Beach,32.80828,-117.23515,Entire home/apt,566
-5482,North Hills,32.74324,-117.14508,Entire home/apt,227
 5484,Loma Portal,32.74455,-117.24569,Entire home/apt,498
-5485,North Hills,32.7509,-117.13196,Entire home/apt,198
 5486,Ocean Beach,32.75141,-117.24893,Entire home/apt,130
 5487,Mission Bay,32.78738,-117.23805,Entire home/apt,194
 5488,Mission Bay,32.78738,-117.23681,Entire home/apt,214
@@ -4535,7 +4266,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5501,Memorial,32.70063,-117.12324,Entire home/apt,79
 5502,South Park,32.72286,-117.12856,Entire home/apt,353
 5503,Mission Bay,32.76405,-117.25128,Entire home/apt,700
-5504,North Hills,32.74411,-117.1312,Entire home/apt,151
 5505,Ocean Beach,32.75502,-117.25046,Entire home/apt,341
 5506,Mission Bay,32.78037,-117.25151,Entire home/apt,282
 5507,Midtown,32.73914,-117.16076,Entire home/apt,228
@@ -4549,7 +4279,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5516,Mission Bay,32.77357,-117.25043,Entire home/apt,640
 5518,Old Town,32.75893,-117.17897,Entire home/apt,106
 5519,Bay Ho,32.81567,-117.21658,Entire home/apt,200
-5520,North Hills,32.75129,-117.13232,Entire home/apt,256
 5523,Grant Hill,32.70925,-117.14419,Entire home/apt,153
 5524,Balboa Park,32.71861,-117.14049,Entire home/apt,215
 5525,Core,32.71525,-117.15521,Entire home/apt,155
@@ -4577,10 +4306,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 5547,La Jolla,32.83918,-117.27685,Entire home/apt,329
 5548,Mission Bay,32.79059,-117.23969,Entire home/apt,332
 5549,Pacific Beach,32.80239,-117.23647,Entire home/apt,277
-5550,North Hills,32.74473,-117.12209,Entire home/apt,476
 5551,La Jolla,32.82868,-117.26881,Entire home/apt,1000
 5552,Pacific Beach,32.79222,-117.25417,Entire home/apt,446
-5553,North Hills,32.74332,-117.14492,Entire home/apt,170
 5554,City Heights West,32.74835,-117.1172,Entire home/apt,86
 5555,La Jolla,32.82678,-117.28013,Entire home/apt,567
 5556,Mission Bay,32.77277,-117.25081,Entire home/apt,1200
@@ -4616,12 +4343,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 5586,East Village,32.71555,-117.15336,Entire home/apt,155
 5587,Bay Ho,32.8374,-117.22485,Entire home/apt,374
 5588,Mission Bay,32.77636,-117.25117,Entire home/apt,2571
-5589,North Hills,32.75526,-117.1383,Entire home/apt,129
 5591,Grantville,32.78423,-117.0947,Entire home/apt,206
 5592,Northwest,32.63801,-117.07821,Entire home/apt,113
 5593,Mission Bay,32.78424,-117.25276,Entire home/apt,454
 5594,Roseville,32.73468,-117.22716,Entire home/apt,225
-5595,North Hills,32.74512,-117.13571,Entire home/apt,198
 5598,University City,32.862,-117.22721,Entire home/apt,152
 5599,Mission Bay,32.78497,-117.25281,Entire home/apt,628
 5600,Gaslamp Quarter,32.7135,-117.16021,Entire home/apt,183
@@ -4629,7 +4354,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5602,Mission Bay,32.77286,-117.25253,Entire home/apt,207
 5604,Mission Bay,32.79209,-117.24506,Entire home/apt,204
 5605,Mission Bay,32.78945,-117.25473,Entire home/apt,518
-5606,North Hills,32.74149,-117.14639,Entire home/apt,196
 5607,Pacific Beach,32.79921,-117.22734,Entire home/apt,147
 5608,Pacific Beach,32.80252,-117.24056,Entire home/apt,152
 5609,Pacific Beach,32.79846,-117.25217,Entire home/apt,536
@@ -4766,10 +4490,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 5771,Normal Heights,32.76473,-117.12405,Entire home/apt,115
 5772,Mission Bay,32.77265,-117.25085,Entire home/apt,649
 5773,Columbia,32.7175,-117.17267,Entire home/apt,614
-5774,North Hills,32.747,-117.12504,Entire home/apt,376
 5775,Mission Bay,32.79014,-117.24094,Entire home/apt,762
 5777,Rolando,32.76764,-117.05152,Entire home/apt,112
-5778,North Hills,32.73781,-117.1266,Entire home/apt,119
 5779,La Jolla,32.85734,-117.23958,Entire home/apt,770
 5781,Southwest,32.62326,-117.05282,Entire home/apt,303
 5782,Old Town,32.74778,-117.19344,Entire home/apt,182
@@ -4786,7 +4508,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5799,Mira Mesa,32.92846,-117.15328,Entire home/apt,486
 5800,West University Heights,32.7602,-117.14821,Entire home/apt,113
 5801,Old Town,32.75112,-117.17507,Entire home/apt,175
-5802,North Hills,32.73322,-117.11659,Entire home/apt,140
 5803,Clairemont Mesa,32.80663,-117.16787,Entire home/apt,290
 5804,Mira Mesa,32.91095,-117.13446,Entire home/apt,318
 5805,Pacific Beach,32.79676,-117.24751,Entire home/apt,195
@@ -4794,11 +4515,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 5808,La Jolla,32.82851,-117.27842,Entire home/apt,693
 5809,Mission Bay,32.77974,-117.25355,Entire home/apt,1291
 5811,Ocean Beach,32.75114,-117.24805,Entire home/apt,226
-5812,North Hills,32.75521,-117.1377,Entire home/apt,209
 5813,College Area,32.7624,-117.07444,Entire home/apt,125
 5814,Roseville,32.7279,-117.23465,Entire home/apt,686
 5815,Mission Bay,32.77334,-117.2521,Entire home/apt,439
-5816,North Hills,32.74167,-117.13477,Entire home/apt,135
 5817,Talmadge,32.76268,-117.08999,Entire home/apt,132
 5818,Midtown,32.73936,-117.17184,Entire home/apt,308
 5819,University City,32.86741,-117.22675,Entire home/apt,350
@@ -4810,7 +4529,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5828,Mission Bay,32.76722,-117.25202,Entire home/apt,467
 5829,Mission Bay,32.78396,-117.25315,Entire home/apt,300
 5830,Normal Heights,32.75986,-117.12153,Entire home/apt,119
-5831,North Hills,32.74625,-117.12203,Entire home/apt,239
 5832,Pacific Beach,32.79747,-117.22861,Entire home/apt,165
 5833,Mission Bay,32.76138,-117.24888,Entire home/apt,175
 5834,Carmel Valley,32.94019,-117.19971,Entire home/apt,1750
@@ -4855,7 +4573,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5877,Mission Bay,32.78526,-117.25321,Entire home/apt,570
 5878,Loma Portal,32.74667,-117.24012,Entire home/apt,143
 5879,Del Mar Heights,32.9555,-117.24617,Entire home/apt,156
-5880,North Hills,32.74692,-117.14325,Entire home/apt,217
 5882,Ocean Beach,32.7358,-117.2463,Entire home/apt,275
 5883,Northwest,32.63485,-117.08932,Entire home/apt,295
 5884,Mission Bay,32.7646,-117.25256,Entire home/apt,232
@@ -4872,9 +4589,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 5895,Mission Bay,32.78026,-117.25201,Entire home/apt,870
 5896,Ocean Beach,32.74245,-117.25047,Entire home/apt,153
 5897,Mission Bay,32.78499,-117.2526,Entire home/apt,1596
-5898,North Hills,32.74439,-117.14348,Entire home/apt,250
 5899,Encanto,32.69776,-117.05876,Entire home/apt,336
-5900,North Hills,32.74157,-117.12258,Entire home/apt,115
 5901,Mountain View,32.69838,-117.10046,Entire home/apt,130
 5902,Cortez Hill,32.71951,-117.15531,Entire home/apt,150
 5903,Loma Portal,32.74924,-117.237,Entire home/apt,153
@@ -4891,7 +4606,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 5914,Ocean Beach,32.74174,-117.24886,Entire home/apt,235
 5915,Ocean Beach,32.74186,-117.2487,Entire home/apt,134
 5916,Loma Portal,32.74272,-117.23965,Entire home/apt,301
-5917,North Hills,32.75365,-117.14479,Entire home/apt,299
 5919,Mira Mesa,32.91213,-117.16318,Entire home/apt,468
 5920,Memorial,32.70223,-117.12312,Entire home/apt,79
 5921,Ocean Beach,32.74056,-117.25509,Entire home/apt,825
@@ -4919,9 +4633,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 5945,La Jolla,32.82704,-117.27381,Entire home/apt,180
 5946,Bay Ho,32.8124,-117.21062,Entire home/apt,248
 5947,Northwest,32.64775,-117.07528,Entire home/apt,230
-5948,North Hills,32.76349,-117.12962,Entire home/apt,208
 5949,Normal Heights,32.75704,-117.12206,Entire home/apt,143
-5950,North Hills,32.74571,-117.12187,Entire home/apt,133
 5951,Southwest,32.62129,-117.06948,Entire home/apt,574
 5952,North City,32.95507,-117.2361,Entire home/apt,188
 5953,Allied Gardens,32.79683,-117.08624,Entire home/apt,675
@@ -4983,15 +4695,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 6014,Mira Mesa,32.91202,-117.12846,Entire home/apt,327
 6015,Bay Ho,32.83525,-117.22548,Entire home/apt,200
 6016,Little Italy,32.72107,-117.16873,Entire home/apt,177
-6017,North Hills,32.74695,-117.13293,Entire home/apt,210
 6018,Clairemont Mesa,32.82236,-117.18803,Entire home/apt,463
 6019,Ocean Beach,32.74797,-117.24625,Entire home/apt,189
-6020,North Hills,32.74678,-117.13323,Entire home/apt,212
 6021,Kensington,32.76307,-117.10011,Entire home/apt,129
 6023,Northwest,32.62407,-117.0781,Entire home/apt,151
 6024,Mission Bay,32.79429,-117.23088,Entire home/apt,350
 6025,Midtown,32.74682,-117.15756,Entire home/apt,345
-6026,North Hills,32.74335,-117.14502,Entire home/apt,261
 6028,Normal Heights,32.76547,-117.11654,Entire home/apt,268
 6029,Pacific Beach,32.79278,-117.2547,Entire home/apt,383
 6030,Mission Bay,32.78881,-117.25327,Entire home/apt,418
@@ -5017,7 +4726,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6051,Otay Ranch,32.62847,-116.98029,Entire home/apt,175
 6052,Torrey Pines,32.87414,-117.24462,Entire home/apt,185
 6053,Northwest,32.64088,-117.0692,Entire home/apt,225
-6054,North Hills,32.74928,-117.14595,Entire home/apt,214
 6055,Balboa Park,32.71575,-117.14553,Entire home/apt,139
 6056,Balboa Park,32.71559,-117.14544,Entire home/apt,151
 6057,Balboa Park,32.71369,-117.144,Entire home/apt,147
@@ -5027,13 +4735,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 6061,Sunbow,32.62031,-117.01783,Entire home/apt,317
 6062,Rancho Penasquitos,32.98039,-117.16921,Entire home/apt,256
 6063,Sky Line,32.70662,-117.03256,Entire home/apt,741
-6064,North Hills,32.74676,-117.12996,Entire home/apt,236
 6065,Roseville,32.72786,-117.22839,Entire home/apt,395
 6066,City Heights West,32.75401,-117.12293,Entire home/apt,110
 6067,Pacific Beach,32.80378,-117.2456,Entire home/apt,215
 6068,Little Italy,32.72345,-117.1696,Entire home/apt,611
 6069,Grant Hill,32.7103,-117.14107,Entire home/apt,213
-6070,North Hills,32.739,-117.12424,Entire home/apt,449
 6071,Ocean Beach,32.74199,-117.25153,Entire home/apt,176
 6072,Del Mar Heights,32.9538,-117.24818,Entire home/apt,213
 6073,Nestor,32.58111,-117.09081,Entire home/apt,329
@@ -5044,12 +4750,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 6078,Mission Bay,32.78466,-117.2541,Entire home/apt,949
 6079,Serra Mesa,32.79284,-117.12022,Entire home/apt,513
 6080,Del Mar Heights,32.94976,-117.25989,Entire home/apt,1995
-6081,North Hills,32.7456,-117.13936,Entire home/apt,134
 6083,Mission Bay,32.77409,-117.25034,Entire home/apt,1489
 6084,Mission Bay,32.76187,-117.2512,Entire home/apt,517
 6085,Mission Bay,32.76184,-117.25114,Entire home/apt,533
 6086,East Village,32.71048,-117.15143,Entire home/apt,130
-6087,North Hills,32.75131,-117.14595,Entire home/apt,201
 6088,North Clairemont,32.8368,-117.18658,Entire home/apt,309
 6089,Mission Bay,32.79068,-117.24028,Entire home/apt,366
 6090,Core,32.71504,-117.15902,Entire home/apt,124
@@ -5080,7 +4784,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6122,Mission Bay,32.58336,-117.04415,Entire home/apt,657
 6123,Loma Portal,32.74361,-117.24697,Entire home/apt,247
 6124,Del Mar Heights,32.93312,-117.24678,Entire home/apt,164
-6125,North Hills,32.74422,-117.12372,Entire home/apt,133
 6126,Linda Vista,32.78181,-117.16705,Entire home/apt,387
 6127,West University Heights,32.75291,-117.15105,Entire home/apt,132
 6129,Grant Hill,32.71284,-117.12871,Entire home/apt,381
@@ -5091,7 +4794,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6134,La Jolla,32.84554,-117.26646,Entire home/apt,444
 6135,Mission Bay,32.77911,-117.2518,Entire home/apt,436
 6136,Mission Bay,32.77904,-117.25185,Entire home/apt,852
-6138,North Hills,32.74243,-117.14504,Entire home/apt,184
 6139,Park West,32.7256,-117.16075,Entire home/apt,185
 6140,Grantville,32.78791,-117.08726,Entire home/apt,178
 6141,Midtown,32.74417,-117.1746,Entire home/apt,136
@@ -5101,7 +4803,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6145,Mission Bay,32.79011,-117.25454,Entire home/apt,585
 6146,Ocean Beach,32.73757,-117.25483,Entire home/apt,179
 6147,Little Italy,32.72139,-117.16607,Entire home/apt,310
-6148,North Hills,32.75081,-117.14482,Entire home/apt,201
 6149,Cortez Hill,32.72115,-117.1562,Entire home/apt,134
 6150,City Heights West,32.74588,-117.10538,Entire home/apt,246
 6151,City Heights West,32.7459,-117.10567,Entire home/apt,266
@@ -5132,7 +4833,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6178,Gaslamp Quarter,32.70918,-117.16089,Entire home/apt,111
 6179,Park West,32.72491,-117.15963,Entire home/apt,151
 6180,Park West,32.72397,-117.16011,Entire home/apt,147
-6181,North Hills,32.74879,-117.14286,Entire home/apt,150
 6182,Park West,32.72557,-117.16062,Entire home/apt,151
 6183,College Area,32.77044,-117.04844,Entire home/apt,89
 6184,Park West,32.726,-117.16063,Entire home/apt,125
@@ -5180,7 +4880,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6230,Cortez Hill,32.72208,-117.15643,Entire home/apt,136
 6231,Cortez Hill,32.7209,-117.1574,Entire home/apt,136
 6232,Mission Bay,32.79027,-117.25325,Entire home/apt,170
-6234,North Hills,32.75292,-117.14308,Entire home/apt,152
 6235,East Village,32.71071,-117.15499,Entire home/apt,193
 6236,Linda Vista,32.76932,-117.17285,Entire home/apt,118
 6237,Pacific Beach,32.80091,-117.22679,Entire home/apt,292
@@ -5249,7 +4948,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6306,Del Mar Heights,32.93368,-117.24883,Entire home/apt,704
 6307,West University Heights,32.75742,-117.14729,Entire home/apt,84
 6309,South Park,32.72844,-117.12692,Entire home/apt,136
-6310,North Hills,32.7565,-117.13695,Entire home/apt,176
 6311,Mission Bay,32.78488,-117.25372,Entire home/apt,428
 6312,Pacific Beach,32.79853,-117.23181,Entire home/apt,134
 6313,Clairemont Mesa,32.82938,-117.18459,Entire home/apt,287
@@ -5285,8 +4983,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6348,Balboa Park,32.72724,-117.12951,Entire home/apt,365
 6349,La Jolla,32.826,-117.27401,Entire home/apt,546
 6351,East Village,32.70917,-117.15188,Entire home/apt,95
-6352,North Hills,32.74326,-117.13194,Entire home/apt,238
-6354,North Hills,32.74348,-117.13222,Entire home/apt,239
 6355,West University Heights,32.75398,-117.1529,Entire home/apt,286
 6356,La Jolla,32.83615,-117.27482,Entire home/apt,770
 6357,City Heights West,32.74429,-117.10604,Entire home/apt,106
@@ -5317,7 +5013,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6391,City Heights East,32.74178,-117.09535,Entire home/apt,103
 6392,Balboa Park,32.71502,-117.13635,Entire home/apt,102
 6393,Darnall,32.74838,-117.06769,Entire home/apt,250
-6394,North Hills,32.75462,-117.14289,Entire home/apt,588
 6395,Ocean Beach,32.75279,-117.25,Entire home/apt,295
 6396,Mission Bay,32.77995,-117.2518,Entire home/apt,3495
 6397,University City,32.86105,-117.22291,Entire home/apt,270
@@ -5359,8 +5054,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6436,Gaslamp Quarter,32.71249,-117.1595,Entire home/apt,162
 6437,East Village,32.71302,-117.15794,Entire home/apt,10000
 6438,Gaslamp Quarter,32.7144,-117.15976,Entire home/apt,151
-6439,North Hills,32.74758,-117.12651,Entire home/apt,220
-6440,North Hills,32.74793,-117.12709,Entire home/apt,157
 6441,Mission Bay,32.78418,-117.25212,Entire home/apt,389
 6442,Mission Bay,32.78469,-117.2538,Entire home/apt,649
 6443,Mission Bay,32.78314,-117.25381,Entire home/apt,295
@@ -5390,7 +5083,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6475,Pacific Beach,32.79305,-117.25172,Entire home/apt,130
 6476,La Jolla,32.82271,-117.26436,Entire home/apt,2699
 6477,Moreno Mission,32.76378,-117.19061,Entire home/apt,275
-6478,North Hills,32.74643,-117.13665,Entire home/apt,343
 6479,Pacific Beach,32.79671,-117.24717,Entire home/apt,333
 6480,Bay Terrace,32.69288,-117.0372,Entire home/apt,185
 6482,Mission Bay,32.7664,-117.25032,Entire home/apt,670
@@ -5431,7 +5123,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6519,Darnall,32.7468,-117.06329,Entire home/apt,120
 6520,Mission Bay,32.77865,-117.25188,Entire home/apt,426
 6521,Core,32.71504,-117.15902,Entire home/apt,138
-6522,North Hills,32.75236,-117.13069,Entire home/apt,233
 6523,Loma Portal,32.73443,-117.23535,Entire home/apt,392
 6524,Grant Hill,32.7136,-117.1458,Entire home/apt,145
 6525,Balboa Park,32.71505,-117.14043,Entire home/apt,121
@@ -5441,24 +5132,20 @@ id,neighbourhood,latitude,longitude,room_type,price
 6531,Linda Vista,32.77306,-117.17506,Entire home/apt,244
 6532,Mission Bay,32.79274,-117.24529,Entire home/apt,446
 6533,Grant Hill,32.70925,-117.14276,Entire home/apt,89
-6534,North Hills,32.72789,-117.11461,Entire home/apt,570
 6535,Bay Ho,32.8356,-117.22389,Entire home/apt,450
 6536,City Heights West,32.75057,-117.11716,Entire home/apt,93
 6537,City Heights West,32.75141,-117.11557,Entire home/apt,151
 6538,Mission Bay,32.78317,-117.25196,Entire home/apt,290
 6539,Mission Bay,32.78253,-117.25189,Entire home/apt,336
-6540,North Hills,32.74071,-117.12985,Entire home/apt,666
 6541,La Jolla,32.84862,-117.27028,Entire home/apt,400
 6542,Mira Mesa,32.91273,-117.15284,Entire home/apt,199
 6543,Mission Bay,32.77524,-117.25115,Entire home/apt,334
-6544,North Hills,32.75481,-117.14556,Entire home/apt,247
 6545,Pacific Beach,32.79675,-117.25588,Entire home/apt,650
 6547,La Jolla Village,32.86057,-117.23478,Entire home/apt,119
 6550,Gaslamp Quarter,32.71438,-117.16016,Entire home/apt,140
 6551,Gaslamp Quarter,32.71304,-117.16073,Entire home/apt,136
 6552,East Village,32.71603,-117.15317,Entire home/apt,155
 6554,Mission Bay,32.78298,-117.25313,Entire home/apt,178
-6555,North Hills,32.73783,-117.12858,Entire home/apt,145
 6556,Mount Hope,32.7162,-117.11079,Entire home/apt,813
 6557,Encanto,32.72387,-117.06396,Entire home/apt,838
 6560,Lynwood Hills,32.63576,-117.03604,Entire home/apt,274
@@ -5483,10 +5170,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 6592,La Jolla,32.82759,-117.27866,Entire home/apt,3621
 6593,Memorial,32.70487,-117.13065,Entire home/apt,142
 6594,Clairemont Mesa,32.8203,-117.16655,Entire home/apt,382
-6597,North Hills,32.756,-117.13717,Entire home/apt,105
 6598,Mission Bay,32.79294,-117.241,Entire home/apt,1202
 6599,Gaslamp Quarter,32.70917,-117.15985,Entire home/apt,191
-6600,North Hills,32.7466,-117.14478,Entire home/apt,165
 6601,Bay Park,32.77697,-117.20146,Entire home/apt,157
 6602,Wooded Area,32.71265,-117.2456,Entire home/apt,168
 6603,Normal Heights,32.76522,-117.1256,Entire home/apt,250
@@ -5577,7 +5262,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6704,Mission Bay,32.79072,-117.25265,Entire home/apt,705
 6705,Core,32.71703,-117.15547,Entire home/apt,491
 6706,La Jolla,32.82925,-117.27457,Entire home/apt,1803
-6707,North Hills,32.76669,-117.13158,Entire home/apt,184
 6708,Kensington,32.7567,-117.1065,Entire home/apt,129
 6709,Loma Portal,32.74919,-117.24316,Entire home/apt,349
 6710,Grant Hill,32.70827,-117.14716,Entire home/apt,144
@@ -5590,7 +5274,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6718,East Village,32.70738,-117.15371,Entire home/apt,671
 6719,Encanto,32.70815,-117.05832,Entire home/apt,397
 6721,Bay Ho,32.80917,-117.21172,Entire home/apt,119
-6722,North Hills,32.75144,-117.14609,Entire home/apt,179
 6725,East Village,32.71556,-117.15302,Entire home/apt,99
 6726,Loma Portal,32.75283,-117.23352,Entire home/apt,148
 6728,City Heights East,32.74314,-117.09774,Entire home/apt,110
@@ -5611,7 +5294,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6744,Encanto,32.71158,-117.05887,Entire home/apt,144
 6745,Midtown,32.74226,-117.16824,Entire home/apt,368
 6746,Webster,32.72449,-117.09239,Entire home/apt,178
-6747,North Hills,32.75129,-117.14202,Entire home/apt,250
 6748,Bay Ho,32.81192,-117.21314,Entire home/apt,1657
 6749,Core,32.71717,-117.16126,Entire home/apt,302
 6751,Mission Bay,32.76283,-117.25313,Entire home/apt,931
@@ -5621,7 +5303,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6755,Ocean Beach,32.74526,-117.24989,Entire home/apt,395
 6756,Ocean Beach,32.73981,-117.2548,Entire home/apt,445
 6758,South Park,32.72858,-117.12613,Entire home/apt,125
-6759,North Hills,32.74952,-117.14379,Entire home/apt,206
 6760,City Heights West,32.74579,-117.11294,Entire home/apt,172
 6761,Midtown,32.74075,-117.17542,Entire home/apt,1214
 6762,Loma Portal,32.75119,-117.23077,Entire home/apt,228
@@ -5681,8 +5362,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6822,Bay Park,32.7782,-117.19666,Entire home/apt,726
 6823,Grant Hill,32.7104,-117.14592,Entire home/apt,288
 6824,Loma Portal,32.74726,-117.24292,Entire home/apt,285
-6825,North Hills,32.75039,-117.14611,Entire home/apt,250
-6826,North Hills,32.74254,-117.11893,Entire home/apt,100
 6827,Balboa Park,32.71623,-117.13514,Entire home/apt,300
 6828,Gaslamp Quarter,32.71025,-117.16047,Entire home/apt,213
 6829,Gaslamp Quarter,32.71012,-117.16086,Entire home/apt,210
@@ -5792,7 +5471,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6934,Little Italy,32.72506,-117.16848,Entire home/apt,214
 6935,La Jolla,32.81449,-117.26366,Entire home/apt,2122
 6936,La Jolla Village,32.85884,-117.23256,Entire home/apt,170
-6937,North Hills,32.73627,-117.12229,Entire home/apt,350
 6938,La Jolla,32.85258,-117.25436,Entire home/apt,295
 6939,La Jolla,32.81965,-117.27549,Entire home/apt,1440
 6940,La Jolla,32.85087,-117.25532,Entire home/apt,655
@@ -5830,7 +5508,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 6973,Park West,32.72878,-117.16603,Entire home/apt,77
 6974,Bay Park,32.77609,-117.19664,Entire home/apt,300
 6975,Pacific Beach,32.80175,-117.25727,Entire home/apt,645
-6976,North Hills,32.75324,-117.14525,Entire home/apt,169
 6977,Mission Bay,32.77425,-117.25229,Entire home/apt,688
 6979,Ocean Beach,32.73804,-117.24689,Entire home/apt,299
 6980,Mission Bay,32.77602,-117.25306,Entire home/apt,804
@@ -5892,7 +5569,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7039,City Heights West,32.74852,-117.12027,Entire home/apt,97
 7040,Eastlake Trails,32.63562,-116.94716,Entire home/apt,586
 7041,Pacific Beach,32.80552,-117.23602,Entire home/apt,200
-7042,North Hills,32.74474,-117.14514,Entire home/apt,134
 7043,Park West,32.7278,-117.16383,Entire home/apt,130
 7044,Mission Bay,32.7717,-117.25193,Entire home/apt,729
 7045,La Jolla,32.81861,-117.24243,Entire home/apt,620
@@ -5936,7 +5612,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7086,Mission Bay,32.78014,-117.25163,Entire home/apt,353
 7087,Ocean Beach,32.75224,-117.25053,Entire home/apt,319
 7088,Mission Bay,32.76056,-117.24979,Entire home/apt,287
-7089,North Hills,32.75236,-117.13069,Entire home/apt,142
 7090,Grant Hill,32.71187,-117.14462,Entire home/apt,214
 7091,Grant Hill,32.71175,-117.14418,Entire home/apt,231
 7093,La Jolla Village,32.85759,-117.23153,Entire home/apt,240
@@ -5952,12 +5627,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 7104,Pacific Beach,32.80275,-117.24084,Entire home/apt,364
 7105,Eastlake Vistas,32.63234,-116.93659,Entire home/apt,158
 7107,Midtown,32.74457,-117.15529,Entire home/apt,178
-7108,North Hills,32.74929,-117.12907,Entire home/apt,247
 7109,Midtown,32.74661,-117.17536,Entire home/apt,227
 7110,Mission Bay,32.78656,-117.25289,Entire home/apt,255
 7111,La Jolla,32.82793,-117.27621,Entire home/apt,206
 7112,Moreno Mission,32.77281,-117.20065,Entire home/apt,435
-7113,North Hills,32.74225,-117.1386,Entire home/apt,214
 7114,Mount Hope,32.70963,-117.10158,Entire home/apt,162
 7115,Old Town,32.7528,-117.19645,Entire home/apt,137
 7116,Carmel Valley,32.96758,-117.17769,Entire home/apt,299
@@ -5966,7 +5639,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7119,Balboa Park,32.71735,-117.13166,Entire home/apt,262
 7121,Pacific Beach,32.80379,-117.22031,Entire home/apt,374
 7122,Tierrasanta,32.83078,-117.10934,Entire home/apt,190
-7123,North Hills,32.75686,-117.12686,Entire home/apt,102
 7124,Memorial,32.70346,-117.14559,Entire home/apt,256
 7125,Memorial,32.7057,-117.1455,Entire home/apt,201
 7126,Old Town,32.75804,-117.17972,Entire home/apt,143
@@ -5975,13 +5647,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 7129,Old Town,32.75316,-117.19545,Entire home/apt,485
 7131,Mira Mesa,32.91342,-117.15388,Entire home/apt,191
 7132,Linda Vista,32.7861,-117.17913,Entire home/apt,95
-7133,North Hills,32.74467,-117.14361,Entire home/apt,179
 7134,Pacific Beach,32.79947,-117.25628,Entire home/apt,360
 7135,Rolando,32.75909,-117.06217,Entire home/apt,407
 7136,Old Town,32.75335,-117.19654,Entire home/apt,108
 7137,Linda Vista,32.77765,-117.17804,Entire home/apt,131
 7139,Serra Mesa,32.80658,-117.12977,Entire home/apt,125
-7140,North Hills,32.73242,-117.12934,Entire home/apt,175
 7141,Loma Portal,32.75024,-117.24145,Entire home/apt,206
 7142,Old Town,32.74892,-117.19136,Entire home/apt,163
 7143,Moreno Mission,32.76636,-117.18049,Entire home/apt,142
@@ -5993,7 +5663,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7149,Cortez Hill,32.7207,-117.15936,Entire home/apt,300
 7150,Linda Vista,32.7942,-117.17635,Entire home/apt,198
 7151,Linda Vista,32.79406,-117.17774,Entire home/apt,279
-7152,North Hills,32.74021,-117.1277,Entire home/apt,218
 7154,Northwest,32.62308,-117.08555,Entire home/apt,331
 7155,Ocean Beach,32.74947,-117.25048,Entire home/apt,527
 7156,Mission Bay,32.79085,-117.24,Entire home/apt,329
@@ -6085,11 +5754,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 7261,North City,32.9815,-117.25089,Entire home/apt,415
 7263,Carmel Valley,32.92576,-117.20188,Entire home/apt,793
 7264,Pacific Beach,32.79925,-117.25837,Entire home/apt,455
-7265,North Hills,32.74639,-117.13585,Entire home/apt,159
 7266,Southwest,32.61625,-117.08712,Entire home/apt,538
 7267,Northwest,32.64302,-117.09981,Entire home/apt,276
 7268,Bay Park,32.77858,-117.19726,Entire home/apt,227
-7269,North Hills,32.73972,-117.12585,Entire home/apt,194
 7270,Southwest,32.6057,-117.07084,Entire home/apt,111
 7271,Pacific Beach,32.80344,-117.22072,Entire home/apt,125
 7272,Del Mar Heights,32.94819,-117.24758,Entire home/apt,139
@@ -6135,14 +5802,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 7320,Emerald Hills,32.72341,-117.07196,Entire home/apt,88
 7321,East Village,32.70894,-117.14837,Entire home/apt,275
 7323,West University Heights,32.75598,-117.14895,Entire home/apt,376
-7325,North Hills,32.7563,-117.13787,Entire home/apt,350
 7326,Mission Bay,32.7884,-117.25402,Entire home/apt,309
 7327,Mission Bay,32.78933,-117.25183,Entire home/apt,616
 7328,Mission Bay,32.78915,-117.25403,Entire home/apt,1383
 7329,Memorial,32.70352,-117.13824,Entire home/apt,83
 7330,Scripps Ranch,32.90458,-117.102,Entire home/apt,399
 7332,Mira Mesa,32.92209,-117.1475,Entire home/apt,135
-7333,North Hills,32.7435,-117.1456,Entire home/apt,450
 7335,Old Town,32.74898,-117.1926,Entire home/apt,152
 7336,Old Town,32.7484,-117.19322,Entire home/apt,148
 7337,Old Town,32.74877,-117.19323,Entire home/apt,153
@@ -6156,13 +5821,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 7345,San Ysidro,32.54699,-117.05065,Entire home/apt,224
 7346,La Jolla,32.84662,-117.26824,Entire home/apt,225
 7347,Park West,32.73186,-117.15988,Entire home/apt,175
-7348,North Hills,32.74573,-117.14547,Entire home/apt,374
 7349,Grant Hill,32.70789,-117.14558,Entire home/apt,142
-7350,North Hills,32.74219,-117.13931,Entire home/apt,232
 7351,City Heights West,32.73644,-117.10188,Entire home/apt,108
-7352,North Hills,32.75534,-117.14331,Entire home/apt,349
 7354,Wooded Area,32.71895,-117.234,Entire home/apt,178
-7355,North Hills,32.73689,-117.1249,Entire home/apt,176
 7357,Normal Heights,32.75854,-117.12105,Entire home/apt,86
 7358,Bay Park,32.80529,-117.19657,Entire home/apt,122
 7359,Pacific Beach,32.79625,-117.25098,Entire home/apt,338
@@ -6170,19 +5831,16 @@ id,neighbourhood,latitude,longitude,room_type,price
 7361,Midtown,32.74207,-117.17862,Entire home/apt,353
 7362,University City,32.86219,-117.22804,Entire home/apt,141
 7363,University City,32.86382,-117.2294,Entire home/apt,112
-7364,North Hills,32.73709,-117.11613,Entire home/apt,275
 7365,Mission Bay,32.77697,-117.25199,Entire home/apt,700
 7366,Mission Bay,32.77393,-117.25287,Entire home/apt,575
 7367,Mission Bay,32.78874,-117.23693,Entire home/apt,127
 7368,Columbia,32.71902,-117.17043,Entire home/apt,137
 7369,Darnall,32.74801,-117.06875,Entire home/apt,196
-7370,North Hills,32.7461,-117.12834,Entire home/apt,115
 7371,La Jolla,32.82559,-117.26803,Entire home/apt,1127
 7373,Normal Heights,32.76036,-117.12019,Entire home/apt,162
 7375,Pacific Beach,32.80402,-117.2201,Entire home/apt,109
 7376,Memorial,32.70583,-117.1355,Entire home/apt,125
 7377,Balboa Park,32.7252,-117.13344,Entire home/apt,222
-7378,North Hills,32.74467,-117.12101,Entire home/apt,220
 7380,Old Town,32.74741,-117.18077,Entire home/apt,242
 7381,Mission Bay,32.77158,-117.25141,Entire home/apt,506
 7382,Rancho Penasquitos,32.95186,-117.10813,Entire home/apt,125
@@ -6195,10 +5853,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 7389,East Village,32.70974,-117.15437,Entire home/apt,150
 7390,Pacific Beach,32.80403,-117.25894,Entire home/apt,314
 7391,Mission Bay,32.76186,-117.2504,Entire home/apt,163
-7392,North Hills,32.74874,-117.14461,Entire home/apt,110
 7393,Normal Heights,32.76749,-117.11877,Entire home/apt,371
 7394,Clairemont Mesa,32.80617,-117.18061,Entire home/apt,279
-7395,North Hills,32.75106,-117.1385,Entire home/apt,223
 7397,Midtown District,32.73145,-117.17123,Entire home/apt,143
 7398,North Clairemont,32.83486,-117.20544,Entire home/apt,754
 7399,Pacific Beach,32.79789,-117.25012,Entire home/apt,350
@@ -6217,7 +5873,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7412,University City,32.86258,-117.22869,Entire home/apt,128
 7413,Jomacha-Lomita,32.71893,-117.02994,Entire home/apt,127
 7414,Jomacha-Lomita,32.71904,-117.0314,Entire home/apt,112
-7415,North Hills,32.74751,-117.13523,Entire home/apt,147
 7416,Mission Bay,32.7636,-117.24994,Entire home/apt,238
 7417,Little Italy,32.72331,-117.16945,Entire home/apt,300
 7418,Mission Valley,32.76663,-117.17292,Entire home/apt,192
@@ -6233,7 +5888,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7429,La Jolla,32.81604,-117.24394,Entire home/apt,883
 7430,Midtown,32.74546,-117.15042,Entire home/apt,509
 7431,Mission Bay,32.77441,-117.25047,Entire home/apt,386
-7432,North Hills,32.7516,-117.14142,Entire home/apt,188
 7433,Linda Vista,32.77581,-117.16455,Entire home/apt,464
 7434,Mission Bay,32.77557,-117.25244,Entire home/apt,596
 7435,Mission Bay,32.77467,-117.25198,Entire home/apt,409
@@ -6257,7 +5911,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7453,Mission Bay,32.776,-117.25291,Entire home/apt,575
 7454,East Village,32.71191,-117.15168,Entire home/apt,130
 7457,East Village,32.71113,-117.15379,Entire home/apt,137
-7458,North Hills,32.73546,-117.12153,Entire home/apt,326
 7459,Mission Bay,32.77914,-117.25184,Entire home/apt,1286
 7460,Midtown,32.74274,-117.16992,Entire home/apt,236
 7461,Grantville,32.78426,-117.08682,Entire home/apt,350
@@ -6291,7 +5944,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7490,Southcrest,32.69104,-117.10582,Entire home/apt,133
 7491,University City,32.87017,-117.21661,Entire home/apt,307
 7492,Pacific Beach,32.80272,-117.23737,Entire home/apt,199
-7495,North Hills,32.74081,-117.12317,Entire home/apt,166
 7496,Pacific Beach,32.79579,-117.25515,Entire home/apt,513
 7498,Clairemont Mesa,32.82245,-117.16667,Entire home/apt,126
 7499,Loma Portal,32.74105,-117.23246,Entire home/apt,152
@@ -6349,7 +6001,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7558,Pacific Beach,32.80133,-117.25884,Entire home/apt,472
 7559,Ocean Beach,32.74901,-117.24494,Entire home/apt,451
 7561,Core,32.71634,-117.15409,Entire home/apt,125
-7562,North Hills,32.74196,-117.13723,Entire home/apt,225
 7563,Mission Bay,32.7625,-117.25119,Entire home/apt,500
 7564,Darnall,32.75046,-117.05989,Entire home/apt,108
 7565,Gaslamp Quarter,32.7136,-117.15957,Entire home/apt,461
@@ -6412,8 +6063,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7625,Loma Portal,32.74066,-117.22922,Entire home/apt,275
 7626,Mission Bay,32.79217,-117.24364,Entire home/apt,350
 7627,Bay Park,32.77699,-117.20661,Entire home/apt,275
-7629,North Hills,32.74279,-117.13479,Entire home/apt,249
-7630,North Hills,32.74822,-117.12721,Entire home/apt,241
 7631,Linda Vista,32.77023,-117.1665,Entire home/apt,292
 7632,Ocean Beach,32.75161,-117.24917,Entire home/apt,252
 7633,Pacific Beach,32.80706,-117.25712,Entire home/apt,401
@@ -6437,7 +6086,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7661,Old Town,32.75151,-117.16255,Entire home/apt,101
 7662,Pacific Beach,32.79637,-117.24586,Entire home/apt,308
 7664,Mission Bay,32.76167,-117.25009,Entire home/apt,781
-7666,North Hills,32.75296,-117.14085,Entire home/apt,130
 7667,Southcrest,32.6955,-117.11373,Entire home/apt,246
 7668,Bay Park,32.78896,-117.19837,Entire home/apt,253
 7669,Cortez Hill,32.72124,-117.16541,Entire home/apt,195
@@ -6467,7 +6115,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7696,Loma Portal,32.748,-117.21693,Entire home/apt,158
 7697,Pacific Beach,32.80197,-117.23722,Entire home/apt,142
 7698,Gaslamp Quarter,32.71425,-117.16021,Entire home/apt,213
-7700,North Hills,32.75669,-117.1287,Entire home/apt,432
 7701,La Jolla,32.87012,-117.24088,Entire home/apt,542
 7702,Grantville,32.78669,-117.09938,Entire home/apt,350
 7703,Little Italy,32.72156,-117.17091,Entire home/apt,300
@@ -6477,10 +6124,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 7708,Roseville,32.73494,-117.22103,Entire home/apt,338
 7709,Loma Portal,32.75128,-117.23103,Entire home/apt,151
 7710,Rancho Penasquitos,32.98941,-117.1583,Entire home/apt,1000
-7711,North Hills,32.73123,-117.11836,Entire home/apt,230
 7712,East Village,32.71164,-117.15708,Entire home/apt,242
 7713,Midtown,32.73712,-117.16172,Entire home/apt,106
-7714,North Hills,32.76386,-117.13355,Entire home/apt,182
 7715,Clairemont Mesa,32.8266,-117.17922,Entire home/apt,243
 7716,Core,32.71517,-117.15653,Entire home/apt,770
 7718,Northwest,32.62655,-117.06921,Entire home/apt,549
@@ -6490,13 +6135,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 7722,Clairemont Mesa,32.82978,-117.17064,Entire home/apt,305
 7723,Eastlake Vistas,32.64265,-116.9396,Entire home/apt,529
 7724,Mission Bay,32.78309,-117.25294,Entire home/apt,619
-7727,North Hills,32.74555,-117.13187,Entire home/apt,294
 7728,Mira Mesa,32.91353,-117.16043,Entire home/apt,1070
 7729,East Village,32.71029,-117.15538,Entire home/apt,696
 7730,East Village,32.71255,-117.15827,Entire home/apt,265
 7731,East Village,32.71219,-117.15535,Entire home/apt,205
 7732,East Village,32.71016,-117.14925,Entire home/apt,320
-7733,North Hills,32.74913,-117.14511,Entire home/apt,242
 7734,Alta Vista,32.69255,-117.05071,Entire home/apt,180
 7735,Pacific Beach,32.80748,-117.2293,Entire home/apt,1451
 7736,Carmel Valley,32.94176,-117.23628,Entire home/apt,250
@@ -6576,8 +6219,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7825,Loma Portal,32.74318,-117.24067,Entire home/apt,213
 7826,Cortez Hill,32.72028,-117.15537,Entire home/apt,135
 7827,Cortez Hill,32.72018,-117.15546,Entire home/apt,115
-7828,North Hills,32.74903,-117.13031,Entire home/apt,231
-7829,North Hills,32.74077,-117.12395,Entire home/apt,154
 7830,La Jolla,32.83267,-117.27427,Entire home/apt,329
 7831,South Park,32.72701,-117.12729,Entire home/apt,129
 7832,Mission Bay,32.77998,-117.25164,Entire home/apt,321
@@ -6592,8 +6233,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7842,South Park,32.72798,-117.12556,Entire home/apt,286
 7843,La Jolla,32.82826,-117.2787,Entire home/apt,339
 7844,Moreno Mission,32.771,-117.19867,Entire home/apt,510
-7846,North Hills,32.7578,-117.12759,Entire home/apt,470
-7847,North Hills,32.7588,-117.12875,Entire home/apt,492
 7850,Pacific Beach,32.80447,-117.23848,Entire home/apt,195
 7851,Talmadge,32.75849,-117.09977,Entire home/apt,160
 7852,La Jolla Village,32.86103,-117.23475,Entire home/apt,203
@@ -6616,7 +6255,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7870,La Jolla,32.82455,-117.26965,Entire home/apt,1913
 7872,Ocean Beach,32.75103,-117.24922,Entire home/apt,189
 7874,Clairemont Mesa,32.80766,-117.16804,Entire home/apt,253
-7875,North Hills,32.76099,-117.13824,Entire home/apt,230
 7876,Ocean Beach,32.74853,-117.24921,Entire home/apt,287
 7877,Mission Bay,32.78136,-117.23727,Entire home/apt,213
 7878,Wooded Area,32.72503,-117.24971,Entire home/apt,566
@@ -6635,7 +6273,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 7891,Mission Bay,32.78165,-117.25317,Entire home/apt,175
 7892,College Area,32.77195,-117.08292,Entire home/apt,161
 7893,La Jolla,32.83729,-117.27808,Entire home/apt,207
-7894,North Hills,32.73986,-117.12234,Entire home/apt,127
 7895,Pacific Beach,32.79873,-117.22977,Entire home/apt,162
 7896,East Village,32.71091,-117.14952,Entire home/apt,109
 7897,East Village,32.70862,-117.14903,Entire home/apt,200
@@ -6667,11 +6304,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 7924,Midtown,32.73201,-117.1694,Entire home/apt,107
 7925,Midtown,32.73194,-117.16862,Entire home/apt,107
 7926,Bay Park,32.79197,-117.2054,Entire home/apt,377
-7927,North Hills,32.7431,-117.14009,Entire home/apt,314
 7928,Midtown District,32.72719,-117.22567,Entire home/apt,181
 7929,Mission Bay,32.76145,-117.25065,Entire home/apt,601
 7930,East Village,32.7153,-117.15361,Entire home/apt,155
-7931,North Hills,32.73001,-117.11647,Entire home/apt,185
 7932,Bay Terrace,32.69508,-117.0219,Entire home/apt,500
 7933,East Village,32.7218,-117.15533,Entire home/apt,118
 7934,Park West,32.72907,-117.16505,Entire home/apt,454
@@ -6694,18 +6329,15 @@ id,neighbourhood,latitude,longitude,room_type,price
 7952,Serra Mesa,32.80826,-117.15013,Entire home/apt,137
 7953,La Jolla Village,32.86218,-117.23493,Entire home/apt,115
 7955,Linda Vista,32.79513,-117.17665,Entire home/apt,95
-7956,North Hills,32.74807,-117.12711,Entire home/apt,286
 7957,Moreno Mission,32.76521,-117.19736,Entire home/apt,513
 7958,Moreno Mission,32.76808,-117.19605,Entire home/apt,363
 7959,Normal Heights,32.7668,-117.12263,Entire home/apt,478
 7960,East Village,32.70993,-117.1579,Entire home/apt,269
 7961,Midtown,32.7442,-117.151,Entire home/apt,136
 7962,Columbia,32.71733,-117.17213,Entire home/apt,290
-7964,North Hills,32.7447,-117.12242,Entire home/apt,257
 7965,Mission Bay,32.79087,-117.23246,Entire home/apt,552
 7966,Midtown,32.7338,-117.17051,Entire home/apt,566
 7967,East Village,32.7129,-117.15847,Entire home/apt,228
-7968,North Hills,32.74149,-117.14638,Entire home/apt,100
 7969,Mission Bay,32.7845,-117.25215,Entire home/apt,496
 7970,Serra Mesa,32.79886,-117.12611,Entire home/apt,275
 7972,Midtown,32.73841,-117.17473,Entire home/apt,520
@@ -6785,7 +6417,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8054,Pacific Beach,32.7982,-117.25384,Entire home/apt,357
 8055,Carmel Valley,32.94868,-117.21852,Entire home/apt,606
 8056,Mission Bay,32.79491,-117.2328,Entire home/apt,324
-8059,North Hills,32.74461,-117.1454,Entire home/apt,218
 8060,Bay Park,32.782,-117.19567,Entire home/apt,250
 8061,Pacific Beach,32.80397,-117.24256,Entire home/apt,375
 8062,Pacific Beach,32.79223,-117.25281,Entire home/apt,402
@@ -6847,7 +6478,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8128,Midtown,32.73665,-117.16771,Entire home/apt,1044
 8129,Loma Portal,32.75007,-117.2151,Entire home/apt,160
 8130,Mission Bay,32.78923,-117.25356,Entire home/apt,327
-8131,North Hills,32.75238,-117.13636,Entire home/apt,90
 8133,Roseville,32.72719,-117.23051,Entire home/apt,890
 8134,La Jolla,32.82949,-117.27541,Entire home/apt,525
 8135,Bird Land,32.79461,-117.15443,Entire home/apt,90
@@ -6886,9 +6516,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 8168,City Heights West,32.7522,-117.11557,Entire home/apt,250
 8169,College Area,32.77106,-117.06848,Entire home/apt,800
 8171,City Heights East,32.75035,-117.0871,Entire home/apt,65
-8172,North Hills,32.75788,-117.12746,Entire home/apt,150
 8173,University City,32.87434,-117.20135,Entire home/apt,407
-8174,North Hills,32.75761,-117.12762,Entire home/apt,471
 8175,Carmel Valley,32.94132,-117.23647,Entire home/apt,300
 8176,Mission Bay,32.76075,-117.24908,Entire home/apt,575
 8177,Mission Bay,32.7605,-117.24953,Entire home/apt,561
@@ -6906,11 +6534,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 8189,Balboa Park,32.72559,-117.13268,Entire home/apt,323
 8190,North Clairemont,32.83578,-117.20084,Entire home/apt,256
 8191,Old Town,32.7516,-117.18847,Entire home/apt,978
-8192,North Hills,32.73591,-117.13063,Entire home/apt,433
 8193,Grant Hill,32.71365,-117.14594,Entire home/apt,151
 8194,Mission Bay,32.77385,-117.25256,Entire home/apt,329
-8195,North Hills,32.73595,-117.13065,Entire home/apt,172
-8196,North Hills,32.73669,-117.12973,Entire home/apt,163
 8198,Gaslamp Quarter,32.7133,-117.15986,Entire home/apt,247
 8199,City Heights West,32.7488,-117.11811,Entire home/apt,169
 8200,Pacific Beach,32.80277,-117.25063,Entire home/apt,600
@@ -6971,11 +6596,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 8261,Balboa Park,32.71757,-117.13966,Entire home/apt,114
 8262,San Carlos,32.79575,-117.06975,Entire home/apt,133
 8263,Little Italy,32.72526,-117.16709,Entire home/apt,185
-8264,North Hills,32.74952,-117.13297,Entire home/apt,97
 8265,East Lake,32.65247,-116.97582,Entire home/apt,215
 8266,La Jolla,32.83181,-117.26164,Entire home/apt,599
 8268,Mission Bay,32.78322,-117.25151,Entire home/apt,420
-8269,North Hills,32.7573,-117.12794,Entire home/apt,578
 8270,Mission Bay,32.76437,-117.25034,Entire home/apt,349
 8271,Oak Park,32.74326,-117.06299,Entire home/apt,258
 8272,City Heights East,32.75176,-117.10037,Entire home/apt,242
@@ -6989,7 +6612,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8280,La Jolla,32.8275,-117.27821,Entire home/apt,698
 8281,La Jolla Village,32.85773,-117.23304,Entire home/apt,129
 8282,La Jolla,32.8293,-117.27799,Entire home/apt,464
-8284,North Hills,32.74351,-117.12459,Entire home/apt,259
 8285,Pacific Beach,32.79683,-117.23013,Entire home/apt,225
 8286,Serra Mesa,32.78093,-117.14348,Entire home/apt,163
 8287,East Village,32.71505,-117.15147,Entire home/apt,131
@@ -7019,7 +6641,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8311,Pacific Beach,32.79512,-117.23571,Entire home/apt,257
 8313,Mission Bay,32.79067,-117.23442,Entire home/apt,610
 8314,Core,32.71583,-117.15915,Entire home/apt,464
-8318,North Hills,32.74288,-117.12158,Entire home/apt,286
 8319,Balboa Park,32.71643,-117.13628,Entire home/apt,104
 8320,Marina,32.71226,-117.16455,Entire home/apt,298
 8322,Loma Portal,32.74898,-117.22682,Entire home/apt,120
@@ -7039,7 +6660,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8336,Mission Bay,32.57623,-117.03145,Entire home/apt,434
 8338,East Village,32.71122,-117.15889,Entire home/apt,132
 8339,La Jolla Village,32.86531,-117.23616,Entire home/apt,214
-8340,North Hills,32.73785,-117.12242,Entire home/apt,94
 8341,West University Heights,32.76336,-117.16065,Entire home/apt,890
 8342,Pacific Beach,32.80475,-117.2603,Entire home/apt,215
 8343,Normal Heights,32.76465,-117.11319,Entire home/apt,241
@@ -7053,7 +6673,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8353,La Jolla,32.83284,-117.27664,Entire home/apt,335
 8354,East Village,32.70898,-117.14985,Entire home/apt,190
 8355,Midtown District,32.7215,-117.22833,Entire home/apt,150
-8358,North Hills,32.74824,-117.1274,Entire home/apt,236
 8361,Del Cerro,32.78265,-117.06481,Entire home/apt,580
 8362,Loma Portal,32.74798,-117.24283,Entire home/apt,165
 8363,Northwest,32.626,-117.08844,Entire home/apt,140
@@ -7065,7 +6684,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8369,City Heights East,32.74373,-117.0904,Entire home/apt,159
 8370,City Heights East,32.74509,-117.09203,Entire home/apt,163
 8371,Midtown,32.73847,-117.17541,Entire home/apt,98
-8372,North Hills,32.75062,-117.14133,Entire home/apt,147
 8373,Loma Portal,32.74611,-117.23723,Entire home/apt,584
 8374,Mission Bay,32.76601,-117.25072,Entire home/apt,402
 8375,Mission Bay,32.76688,-117.25093,Entire home/apt,376
@@ -7128,7 +6746,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8439,Midtown,32.73808,-117.17097,Entire home/apt,257
 8440,Del Cerro,32.78909,-117.08393,Entire home/apt,119
 8441,North Clairemont,32.84184,-117.17795,Entire home/apt,586
-8444,North Hills,32.74963,-117.13002,Entire home/apt,267
 8445,City Heights West,32.7473,-117.11018,Entire home/apt,116
 8446,Mission Bay,32.76573,-117.25064,Entire home/apt,507
 8447,Normal Heights,32.757,-117.11463,Entire home/apt,143
@@ -7156,9 +6773,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 8473,Midtown,32.74683,-117.14764,Entire home/apt,278
 8474,Midtown,32.74299,-117.14858,Entire home/apt,383
 8475,East Village,32.70666,-117.15519,Entire home/apt,176
-8476,North Hills,32.74135,-117.13132,Entire home/apt,182
 8477,San Carlos,32.80544,-117.05423,Entire home/apt,405
-8478,North Hills,32.75332,-117.14088,Entire home/apt,125
 8479,Moreno Mission,32.76799,-117.18766,Entire home/apt,159
 8480,Mission Bay,32.79209,-117.24506,Entire home/apt,198
 8481,North Clairemont,32.82915,-117.19796,Entire home/apt,201
@@ -7200,15 +6815,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 8521,Little Italy,32.7213,-117.16899,Entire home/apt,198
 8523,College Area,32.76609,-117.06445,Entire home/apt,149
 8524,Mission Bay,32.78218,-117.25129,Entire home/apt,559
-8525,North Hills,32.75201,-117.14199,Entire home/apt,150
 8526,Bird Land,32.79314,-117.1564,Entire home/apt,79
 8528,City Heights West,32.75317,-117.10662,Entire home/apt,210
 8530,Lake Murray,32.8061,-117.04073,Entire home/apt,361
 8531,City Heights West,32.74737,-117.1188,Entire home/apt,178
 8532,Normal Heights,32.76532,-117.12653,Entire home/apt,151
 8533,Mission Bay,32.78992,-117.25444,Entire home/apt,401
-8534,North Hills,32.74834,-117.13848,Entire home/apt,400
-8535,North Hills,32.74103,-117.12343,Entire home/apt,249
 8536,Bird Land,32.79434,-117.15627,Entire home/apt,75
 8537,Core,32.71634,-117.15409,Entire home/apt,150
 8538,Bird Land,32.79464,-117.1561,Entire home/apt,85
@@ -7236,7 +6848,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8564,North Clairemont,32.8417,-117.17774,Entire home/apt,218
 8565,Pacific Beach,32.79334,-117.24619,Entire home/apt,241
 8567,South Park,32.7201,-117.12117,Entire home/apt,181
-8568,North Hills,32.73943,-117.12361,Entire home/apt,311
 8569,Pacific Beach,32.7959,-117.24584,Entire home/apt,443
 8570,Bay Ho,32.81842,-117.20306,Entire home/apt,357
 8571,Mission Bay,32.775,-117.25119,Entire home/apt,623
@@ -7246,7 +6857,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8575,Normal Heights,32.76649,-117.11932,Entire home/apt,464
 8576,Pacific Beach,32.80188,-117.24866,Entire home/apt,436
 8577,Little Italy,32.72038,-117.17036,Entire home/apt,200
-8578,North Hills,32.75897,-117.13679,Entire home/apt,240
 8580,Northwest,32.61736,-117.08692,Entire home/apt,330
 8582,Mission Bay,32.78923,-117.25356,Entire home/apt,522
 8583,Core,32.71533,-117.1544,Entire home/apt,99
@@ -7266,14 +6876,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 8599,La Jolla,32.8393,-117.27506,Entire home/apt,367
 8600,Mission Bay,32.78826,-117.25423,Entire home/apt,485
 8601,Mission Bay,32.78675,-117.25347,Entire home/apt,461
-8603,North Hills,32.7313,-117.113,Entire home/apt,434
 8605,Mission Bay,32.78672,-117.2377,Entire home/apt,162
 8606,Paradise Hills,32.67478,-117.04042,Entire home/apt,75
 8607,Northwest,32.62356,-117.07767,Entire home/apt,168
 8608,La Jolla,32.83666,-117.2766,Entire home/apt,511
 8609,Darnall,32.74625,-117.05737,Entire home/apt,424
 8610,Normal Heights,32.75927,-117.11844,Entire home/apt,1075
-8611,North Hills,32.74148,-117.12172,Entire home/apt,275
 8612,La Jolla,32.80998,-117.25597,Entire home/apt,438
 8613,La Jolla,32.80998,-117.25597,Entire home/apt,482
 8614,La Jolla,32.80998,-117.25597,Entire home/apt,1250
@@ -7347,9 +6955,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 8694,Carmel Valley,32.96807,-117.17591,Entire home/apt,279
 8697,Mission Bay,32.58162,-117.04058,Entire home/apt,72
 8698,East Village,32.71333,-117.15765,Entire home/apt,982
-8699,North Hills,32.75853,-117.13192,Entire home/apt,300
 8700,Pacific Beach,32.79993,-117.25659,Entire home/apt,456
-8701,North Hills,32.73797,-117.12761,Entire home/apt,191
 8702,Midtown,32.74654,-117.15559,Entire home/apt,206
 8703,Northwest,32.62459,-117.07601,Entire home/apt,549
 8704,Del Cerro,32.79695,-117.07392,Entire home/apt,89
@@ -7379,7 +6985,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8730,La Jolla,32.81089,-117.26615,Entire home/apt,650
 8731,Cortez Hill,32.72183,-117.15606,Entire home/apt,119
 8732,Balboa Park,32.72834,-117.13263,Entire home/apt,110
-8734,North Hills,32.7608,-117.13867,Entire home/apt,150
 8735,Serra Mesa,32.79129,-117.1244,Entire home/apt,678
 8736,University City,32.84036,-117.22373,Entire home/apt,721
 8737,Gaslamp Quarter,32.70852,-117.15961,Entire home/apt,135
@@ -7415,13 +7020,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 8774,La Jolla,32.83864,-117.27849,Entire home/apt,114
 8776,Balboa Park,32.71778,-117.14434,Entire home/apt,258
 8777,Mission Bay,32.78363,-117.25234,Entire home/apt,303
-8778,North Hills,32.75083,-117.13901,Entire home/apt,136
 8779,Clairemont Mesa,32.8179,-117.18509,Entire home/apt,480
 8780,North Clairemont,32.83523,-117.18149,Entire home/apt,506
 8781,North Clairemont,32.83461,-117.17386,Entire home/apt,160
 8782,Bay Park,32.78841,-117.20342,Entire home/apt,125
 8783,Ocean Beach,32.75128,-117.24813,Entire home/apt,309
-8784,North Hills,32.74512,-117.12057,Entire home/apt,179
 8785,Bird Land,32.79314,-117.15638,Entire home/apt,74
 8786,Mira Mesa,32.9292,-117.14144,Entire home/apt,136
 8787,Grantville,32.78363,-117.10783,Entire home/apt,120
@@ -7430,7 +7033,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8792,Southcrest,32.69078,-117.10484,Entire home/apt,156
 8793,Mira Mesa,32.92176,-117.12854,Entire home/apt,327
 8794,Bird Land,32.79279,-117.1548,Entire home/apt,78
-8797,North Hills,32.75574,-117.13751,Entire home/apt,159
 8798,Ocean Beach,32.73972,-117.24637,Entire home/apt,335
 8799,East Village,32.70712,-117.15406,Entire home/apt,995
 8801,Northwest,32.63253,-117.06013,Entire home/apt,254
@@ -7442,7 +7044,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8808,Ocean Beach,32.75445,-117.24352,Entire home/apt,67
 8809,Oak Park,32.74153,-117.05687,Entire home/apt,164
 8810,Pacific Beach,32.80536,-117.24178,Entire home/apt,279
-8811,North Hills,32.76186,-117.13817,Entire home/apt,159
 8812,Bird Land,32.79453,-117.15437,Entire home/apt,78
 8813,Bird Land,32.79281,-117.15476,Entire home/apt,75
 8815,Bird Land,32.79384,-117.15667,Entire home/apt,78
@@ -7501,7 +7102,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8870,Midtown,32.73196,-117.16463,Entire home/apt,125
 8871,College Area,32.77503,-117.05031,Entire home/apt,103
 8872,Pacific Beach,32.79358,-117.25568,Entire home/apt,207
-8873,North Hills,32.74042,-117.12174,Entire home/apt,189
 8874,Mount Hope,32.7112,-117.10848,Entire home/apt,195
 8875,West University Heights,32.76205,-117.14295,Entire home/apt,293
 8876,Pacific Beach,32.79461,-117.25483,Entire home/apt,200
@@ -7516,7 +7116,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 8886,Bird Land,32.79287,-117.15651,Entire home/apt,79
 8888,Mira Mesa,32.91317,-117.16205,Entire home/apt,199
 8889,Old Town,32.74564,-117.18601,Entire home/apt,532
-8891,North Hills,32.74139,-117.13095,Entire home/apt,253
 8892,Clairemont Mesa,32.82379,-117.18886,Entire home/apt,120
 8893,Encanto,32.69735,-117.05927,Entire home/apt,227
 8894,Memorial,32.70404,-117.14273,Entire home/apt,99
@@ -7563,12 +7162,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 8939,Lake Murray,32.80287,-117.00912,Entire home/apt,99
 8940,Ocean Beach,32.73949,-117.25442,Entire home/apt,847
 8941,Core,32.71745,-117.15462,Entire home/apt,135
-8942,North Hills,32.73711,-117.13004,Entire home/apt,191
 8943,Darnall,32.74856,-117.05925,Entire home/apt,125
 8944,Darnall,32.74702,-117.05748,Entire home/apt,283
 8945,Rancho Penasquitos,32.96689,-117.1338,Entire home/apt,529
 8946,Sabre Springs,32.94784,-117.08817,Entire home/apt,221
-8947,North Hills,32.75676,-117.12848,Entire home/apt,109
 8948,West University Heights,32.75518,-117.15518,Entire home/apt,329
 8949,West University Heights,32.75498,-117.15484,Entire home/apt,241
 8950,Northwest,32.65032,-117.07236,Entire home/apt,2100
@@ -7626,7 +7223,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9009,North Clairemont,32.83084,-117.21089,Entire home/apt,373
 9010,Ocean Beach,32.75213,-117.25176,Entire home/apt,304
 9013,Mira Mesa,32.90329,-117.1216,Entire home/apt,227
-9014,North Hills,32.76106,-117.13115,Entire home/apt,120
 9015,Gaslamp Quarter,32.71115,-117.15946,Entire home/apt,100
 9016,East Village,32.71526,-117.15372,Entire home/apt,99
 9017,South Park,32.71708,-117.12954,Entire home/apt,310
@@ -7694,7 +7290,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9090,Moreno Mission,32.77075,-117.1874,Entire home/apt,348
 9091,Ocean Beach,32.74905,-117.25059,Entire home/apt,354
 9092,West University Heights,32.75231,-117.15239,Entire home/apt,125
-9093,North Hills,32.76333,-117.13565,Entire home/apt,197
 9095,Ocean Beach,32.75285,-117.2467,Entire home/apt,249
 9096,University City,32.86292,-117.21296,Entire home/apt,271
 9097,East Village,32.71398,-117.15583,Entire home/apt,896
@@ -7765,7 +7360,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9174,Roseville,32.73247,-117.22528,Entire home/apt,304
 9175,Bay Terrace,32.69423,-117.02442,Entire home/apt,172
 9177,City Heights West,32.75444,-117.12288,Entire home/apt,221
-9179,North Hills,32.73666,-117.12995,Entire home/apt,156
 9180,Midtown,32.73647,-117.16877,Entire home/apt,816
 9181,Grant Hill,32.71306,-117.13852,Entire home/apt,138
 9182,Pacific Beach,32.8084,-117.22857,Entire home/apt,613
@@ -7792,11 +7386,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 9205,South Park,32.71518,-117.12706,Entire home/apt,250
 9206,South Park,32.72249,-117.12403,Entire home/apt,291
 9207,Mission Bay,32.79157,-117.23192,Entire home/apt,616
-9208,North Hills,32.75659,-117.13698,Entire home/apt,203
 9210,Rancho Bernadino,33.02822,-117.09093,Entire home/apt,475
 9211,La Jolla,32.82909,-117.24771,Entire home/apt,527
 9212,Paradise Hills,32.67493,-117.06673,Entire home/apt,145
-9214,North Hills,32.74287,-117.12723,Entire home/apt,151
 9215,Mission Bay,32.76574,-117.24235,Entire home/apt,169
 9217,El Cerritos,32.75166,-117.07727,Entire home/apt,223
 9218,Midtown,32.73412,-117.16425,Entire home/apt,344
@@ -7811,12 +7403,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 9227,South Park,32.72943,-117.11842,Entire home/apt,114
 9228,East Village,32.71027,-117.14988,Entire home/apt,521
 9229,West University Heights,32.75265,-117.1491,Entire home/apt,117
-9230,North Hills,32.75099,-117.14084,Entire home/apt,189
 9231,Pacific Beach,32.80149,-117.25856,Entire home/apt,494
 9232,Grantville,32.7863,-117.09965,Entire home/apt,202
 9233,Ocean Beach,32.74889,-117.24489,Entire home/apt,146
 9234,Ocean Beach,32.73157,-117.25499,Entire home/apt,236
-9235,North Hills,32.73438,-117.11724,Entire home/apt,400
 9236,La Jolla,32.84712,-117.26451,Entire home/apt,1440
 9237,University City,32.85747,-117.20567,Entire home/apt,209
 9238,University City,32.85427,-117.23064,Entire home/apt,149
@@ -7835,7 +7425,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9254,Moreno Mission,32.76546,-117.18948,Entire home/apt,150
 9255,Sky Line,32.70739,-117.04824,Entire home/apt,158
 9256,Kensington,32.7642,-117.1076,Entire home/apt,141
-9257,North Hills,32.75809,-117.12702,Entire home/apt,101
 9258,East Village,32.71068,-117.15503,Entire home/apt,434
 9259,Mission Bay,32.78138,-117.25218,Entire home/apt,619
 9260,Mission Bay,32.78668,-117.25331,Entire home/apt,2101
@@ -7861,7 +7450,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9283,East Village,32.69936,-117.14603,Entire home/apt,136
 9284,Serra Mesa,32.79644,-117.12408,Entire home/apt,753
 9285,Grant Hill,32.70837,-117.14157,Entire home/apt,290
-9286,North Hills,32.73384,-117.11772,Entire home/apt,233
 9287,North Clairemont,32.84126,-117.21077,Entire home/apt,485
 9288,Ocean Beach,32.73932,-117.24589,Entire home/apt,352
 9292,Rancho Bernadino,33.04295,-117.05943,Entire home/apt,775
@@ -7884,7 +7472,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9312,Mission Bay,32.78223,-117.25232,Entire home/apt,4116
 9313,South Park,32.71804,-117.12638,Entire home/apt,145
 9314,Clairemont Mesa,32.81249,-117.17116,Entire home/apt,401
-9315,North Hills,32.7568,-117.13735,Entire home/apt,217
 9316,East Village,32.70952,-117.15516,Entire home/apt,158
 9317,Moreno Mission,32.77168,-117.18558,Entire home/apt,297
 9318,La Jolla,32.84894,-117.27225,Entire home/apt,1829
@@ -7932,8 +7519,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9364,Cortez Hill,32.71936,-117.156,Entire home/apt,300
 9365,Old Town,32.75078,-117.15712,Entire home/apt,124
 9366,Midtown,32.74261,-117.16767,Entire home/apt,150
-9367,North Hills,32.74041,-117.12336,Entire home/apt,134
-9368,North Hills,32.74216,-117.12199,Entire home/apt,75
 9369,East Village,32.70773,-117.15635,Entire home/apt,689
 9370,City Heights West,32.75236,-117.10562,Entire home/apt,230
 9371,Midtown,32.74587,-117.15684,Entire home/apt,240
@@ -7945,12 +7530,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 9381,Encanto,32.71211,-117.06172,Entire home/apt,80
 9382,Mission Bay,32.76041,-117.25248,Entire home/apt,836
 9383,Pacific Beach,32.79762,-117.23422,Entire home/apt,149
-9384,North Hills,32.76338,-117.13812,Entire home/apt,186
 9385,Normal Heights,32.75873,-117.12301,Entire home/apt,299
 9386,Cortez Hill,32.72033,-117.15646,Entire home/apt,139
 9388,City Heights West,32.74094,-117.11199,Entire home/apt,309
 9389,North Clairemont,32.8379,-117.19753,Entire home/apt,85
-9390,North Hills,32.75407,-117.13683,Entire home/apt,81
 9391,Mission Bay,32.58503,-117.04324,Entire home/apt,254
 9392,City Heights West,32.74854,-117.10879,Entire home/apt,142
 9393,Northwest,32.65122,-117.07297,Entire home/apt,198
@@ -7969,7 +7552,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9406,Rancho Del Rey,32.6457,-117.03412,Entire home/apt,978
 9407,East Village,32.70587,-117.14753,Entire home/apt,116
 9408,Park West,32.72775,-117.16364,Entire home/apt,116
-9409,North Hills,32.75625,-117.12752,Entire home/apt,492
 9410,Pacific Beach,32.80009,-117.25871,Entire home/apt,578
 9411,Mission Bay,32.77407,-117.25259,Entire home/apt,322
 9412,Palm City,32.58305,-117.08337,Entire home/apt,80
@@ -8015,15 +7597,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 9455,Otay Ranch,32.6125,-116.99459,Entire home/apt,272
 9456,University City,32.86767,-117.22184,Entire home/apt,179
 9457,Mission Bay,32.7882,-117.23567,Entire home/apt,329
-9458,North Hills,32.74973,-117.12479,Entire home/apt,314
 9459,University City,32.85974,-117.21227,Entire home/apt,119
-9460,North Hills,32.75617,-117.12746,Entire home/apt,278
 9461,Grant Hill,32.71201,-117.14217,Entire home/apt,258
-9462,North Hills,32.73162,-117.13022,Entire home/apt,183
 9463,La Jolla,32.84683,-117.2775,Entire home/apt,440
 9464,Ocean Beach,32.73981,-117.2548,Entire home/apt,316
 9465,Normal Heights,32.75895,-117.1216,Entire home/apt,220
-9466,North Hills,32.7525,-117.14365,Entire home/apt,810
 9467,Gaslamp Quarter,32.7087,-117.15941,Entire home/apt,114
 9469,Pacific Beach,32.7968,-117.25734,Entire home/apt,462
 9470,South Park,32.72877,-117.12317,Entire home/apt,200
@@ -8046,7 +7624,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9490,Bay Park,32.79887,-117.19211,Entire home/apt,90
 9491,Rancho Penasquitos,33.00306,-117.09032,Entire home/apt,135
 9492,Mission Bay,32.79359,-117.23188,Entire home/apt,295
-9493,North Hills,32.76076,-117.12828,Entire home/apt,1200
 9494,East Village,32.71394,-117.15633,Entire home/apt,340
 9495,Old Town,32.74733,-117.17954,Entire home/apt,580
 9496,East Village,32.70355,-117.15004,Entire home/apt,962
@@ -8054,20 +7631,13 @@ id,neighbourhood,latitude,longitude,room_type,price
 9498,Little Italy,32.72523,-117.16777,Entire home/apt,520
 9499,La Jolla,32.83711,-117.24903,Entire home/apt,1666
 9500,Loma Portal,32.74013,-117.23464,Entire home/apt,185
-9501,North Hills,32.75528,-117.12828,Entire home/apt,186
 9502,Talmadge,32.76419,-117.08554,Entire home/apt,99
 9503,University City,32.86783,-117.22078,Entire home/apt,426
 9504,West University Heights,32.7526,-117.15437,Entire home/apt,275
 9505,Mira Mesa,32.90581,-117.13961,Entire home/apt,185
-9506,North Hills,32.75548,-117.1263,Entire home/apt,175
 9507,University City,32.84945,-117.18757,Entire home/apt,462
-9508,North Hills,32.75702,-117.12802,Entire home/apt,193
 9509,Scripps Ranch,32.93321,-117.09786,Entire home/apt,221
-9510,North Hills,32.75705,-117.12833,Entire home/apt,181
-9511,North Hills,32.75714,-117.12958,Entire home/apt,174
-9512,North Hills,32.75669,-117.12848,Entire home/apt,180
 9513,Wooded Area,32.70977,-117.23849,Entire home/apt,180
-9514,North Hills,32.75647,-117.12978,Entire home/apt,181
 9515,Bay Park,32.80297,-117.21202,Entire home/apt,441
 9516,Clairemont Mesa,32.83236,-117.19435,Entire home/apt,300
 9517,Core,32.71718,-117.15816,Entire home/apt,500
@@ -8085,11 +7655,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 9530,Marina,32.71323,-117.16823,Entire home/apt,150
 9532,East Village,32.71257,-117.15454,Entire home/apt,142
 9533,Bay Ho,32.82279,-117.2166,Entire home/apt,571
-9534,North Hills,32.72906,-117.11805,Entire home/apt,198
 9535,Mount Hope,32.71702,-117.10578,Entire home/apt,450
 9536,Normal Heights,32.76016,-117.1215,Entire home/apt,400
 9537,Midtown District,32.72742,-117.22566,Entire home/apt,158
-9538,North Hills,32.74398,-117.1408,Entire home/apt,85
 9539,Normal Heights,32.76146,-117.12317,Entire home/apt,166
 9540,Mission Bay,32.77283,-117.25235,Entire home/apt,309
 9541,Del Mar Heights,32.93388,-117.24928,Entire home/apt,182
@@ -8133,7 +7701,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9587,Mission Bay,32.78659,-117.25299,Entire home/apt,595
 9588,South Park,32.71697,-117.12886,Entire home/apt,224
 9589,Loma Portal,32.73174,-117.24191,Entire home/apt,134
-9590,North Hills,32.75884,-117.13174,Entire home/apt,143
 9592,Gaslamp Quarter,32.71471,-117.16039,Entire home/apt,208
 9593,Grant Hill,32.7081,-117.13076,Entire home/apt,201
 9594,East Village,32.71314,-117.15495,Entire home/apt,425
@@ -8203,8 +7770,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9685,Mount Hope,32.70714,-117.11696,Entire home/apt,180
 9686,Memorial,32.70265,-117.13067,Entire home/apt,119
 9688,East Village,32.71725,-117.15316,Entire home/apt,160
-9691,North Hills,32.73905,-117.12062,Entire home/apt,487
-9693,North Hills,32.75464,-117.13091,Entire home/apt,100
 9695,Pacific Beach,32.80536,-117.24178,Entire home/apt,675
 9702,Bay Terrace,32.69049,-117.03084,Entire home/apt,165
 9706,Mission Bay,32.57128,-117.02067,Entire home/apt,226
@@ -8271,7 +7836,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9783,Mission Bay,32.78168,-117.25234,Entire home/apt,225
 9784,Ocean Beach,32.75143,-117.24684,Entire home/apt,212
 9785,Normal Heights,32.7607,-117.11324,Entire home/apt,400
-9786,North Hills,32.73894,-117.13083,Entire home/apt,349
 9787,Mission Bay,32.76597,-117.25001,Entire home/apt,227
 9788,University City,32.86399,-117.20361,Entire home/apt,199
 9789,East Village,32.70904,-117.15835,Entire home/apt,366
@@ -8312,7 +7876,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9833,South Park,32.72501,-117.12714,Entire home/apt,146
 9834,Bay Park,32.80291,-117.21215,Entire home/apt,391
 9835,Loma Portal,32.74985,-117.22039,Entire home/apt,310
-9836,North Hills,32.73762,-117.13275,Entire home/apt,317
 9839,Mission Bay,32.77656,-117.25198,Entire home/apt,1131
 9840,Ocean Beach,32.75135,-117.24965,Entire home/apt,303
 9841,Mission Bay,32.76029,-117.24764,Entire home/apt,791
@@ -8332,9 +7895,7 @@ id,neighbourhood,latitude,longitude,room_type,price
 9855,Southwest,32.61484,-117.08425,Entire home/apt,185
 9856,Southwest,32.60078,-117.04602,Entire home/apt,111
 9857,Marina,32.71479,-117.17061,Entire home/apt,302
-9858,North Hills,32.7503,-117.13257,Entire home/apt,182
 9859,Mission Bay,32.78156,-117.25303,Entire home/apt,113
-9860,North Hills,32.74391,-117.14373,Entire home/apt,200
 9861,Ocean Beach,32.74916,-117.24468,Entire home/apt,201
 9862,Pacific Beach,32.80895,-117.23582,Entire home/apt,613
 9863,Pacific Beach,32.79269,-117.25474,Entire home/apt,214
@@ -8399,10 +7960,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 9924,Old Town,32.75634,-117.16282,Entire home/apt,115
 9925,Mission Bay,32.77291,-117.25317,Entire home/apt,709
 9926,Midtown,32.74671,-117.15564,Entire home/apt,153
-9927,North Hills,32.73315,-117.11446,Entire home/apt,100
 9928,Chollas View,32.71277,-117.09165,Entire home/apt,159
 9929,Mission Bay,32.78217,-117.25228,Entire home/apt,824
-9930,North Hills,32.75332,-117.13228,Entire home/apt,296
 9931,Mission Bay,32.76033,-117.24988,Entire home/apt,896
 9932,Mission Bay,32.7603,-117.24907,Entire home/apt,663
 9933,Old Town,32.75485,-117.16333,Entire home/apt,115
@@ -8418,8 +7977,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9944,Bay Park,32.80436,-117.20841,Entire home/apt,565
 9945,Darnall,32.74879,-117.06837,Entire home/apt,171
 9946,Core,32.71718,-117.15505,Entire home/apt,125
-9947,North Hills,32.73689,-117.1319,Entire home/apt,1041
-9948,North Hills,32.75396,-117.14498,Entire home/apt,579
 9949,Grant Hill,32.70707,-117.14535,Entire home/apt,138
 9950,City Heights East,32.75612,-117.08447,Entire home/apt,82
 9951,City Heights West,32.74877,-117.11087,Entire home/apt,107
@@ -8434,10 +7991,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 9961,Balboa Park,32.71713,-117.13622,Entire home/apt,1614
 9962,Memorial,32.70201,-117.12467,Entire home/apt,588
 9963,Northwest,32.62674,-117.08815,Entire home/apt,70
-9965,North Hills,32.74499,-117.14195,Entire home/apt,238
 9966,Core,32.71901,-117.15501,Entire home/apt,317
 9967,Bay Ho,32.81776,-117.20886,Entire home/apt,599
-9968,North Hills,32.74709,-117.14211,Entire home/apt,206
 9969,Bay Ho,32.82214,-117.21199,Entire home/apt,587
 9970,East Village,32.70827,-117.15276,Entire home/apt,321
 9971,East Village,32.7082,-117.15081,Entire home/apt,150
@@ -8448,7 +8003,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 9976,East Village,32.71379,-117.15464,Entire home/apt,170
 9977,Carmel Valley,32.92286,-117.21702,Entire home/apt,107
 9978,East Village,32.71376,-117.15443,Entire home/apt,170
-9979,North Hills,32.74228,-117.12753,Entire home/apt,230
 9980,Southcrest,32.6899,-117.10531,Entire home/apt,123
 9981,Mission Bay,32.7907,-117.23208,Entire home/apt,500
 9982,University City,32.86864,-117.22232,Entire home/apt,179
@@ -8504,7 +8058,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10034,Loma Portal,32.74312,-117.23505,Entire home/apt,312
 10035,Mission Bay,32.78702,-117.25368,Entire home/apt,375
 10036,City Heights West,32.73973,-117.1133,Entire home/apt,96
-10037,North Hills,32.73967,-117.11618,Entire home/apt,105
 10038,Mission Bay,32.78095,-117.23714,Entire home/apt,2000
 10040,Lake Murray,32.79847,-117.03291,Entire home/apt,1042
 10041,Ocean Beach,32.75409,-117.24785,Entire home/apt,222
@@ -8588,12 +8141,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 10134,Little Italy,32.72416,-117.17062,Entire home/apt,214
 10135,Loma Portal,32.74104,-117.23333,Entire home/apt,94
 10136,San Ysidro,32.54523,-117.04827,Entire home/apt,393
-10137,North Hills,32.74823,-117.13498,Entire home/apt,119
 10139,La Jolla,32.82787,-117.28047,Entire home/apt,1384
 10140,Midtown,32.74959,-117.15774,Entire home/apt,110
 10141,City Heights West,32.74875,-117.1203,Entire home/apt,116
 10142,Pacific Beach,32.79351,-117.25203,Entire home/apt,325
-10143,North Hills,32.74375,-117.13548,Entire home/apt,134
 10144,Tierrasanta,32.82037,-117.09349,Entire home/apt,328
 10145,Rancho Penasquitos,32.96609,-117.14345,Entire home/apt,298
 10148,East Village,32.71309,-117.15137,Entire home/apt,213
@@ -8625,7 +8176,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10175,Southwest,32.59846,-117.03865,Entire home/apt,154
 10177,West University Heights,32.76123,-117.14831,Entire home/apt,166
 10178,Serra Mesa,32.79872,-117.14555,Entire home/apt,205
-10179,North Hills,32.75833,-117.1287,Entire home/apt,178
 10180,East Village,32.70554,-117.15363,Entire home/apt,719
 10181,La Jolla Village,32.85717,-117.23487,Entire home/apt,149
 10182,Loma Portal,32.74753,-117.23805,Entire home/apt,203
@@ -8681,9 +8231,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10240,Mission Bay,32.79209,-117.24506,Entire home/apt,201
 10241,Mira Mesa,32.91136,-117.13925,Entire home/apt,345
 10242,East Village,32.70659,-117.15482,Entire home/apt,191
-10244,North Hills,32.73473,-117.12978,Entire home/apt,926
-10245,North Hills,32.7547,-117.14346,Entire home/apt,926
-10246,North Hills,32.75342,-117.14415,Entire home/apt,1389
 10247,Mission Bay,32.79362,-117.2311,Entire home/apt,256
 10248,University City,32.87359,-117.21644,Entire home/apt,195
 10250,Valencia Park,32.70887,-117.0702,Entire home/apt,260
@@ -8706,7 +8253,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10271,Gaslamp Quarter,32.71449,-117.1607,Entire home/apt,699
 10272,La Jolla,32.83745,-117.27311,Entire home/apt,399
 10273,Little Italy,32.72479,-117.16988,Entire home/apt,220
-10274,North Hills,32.75102,-117.12586,Entire home/apt,307
 10276,Pacific Beach,32.80441,-117.25975,Entire home/apt,990
 10277,Mission Bay,32.79112,-117.23839,Entire home/apt,139
 10278,Mission Bay,32.7906,-117.23931,Entire home/apt,139
@@ -8717,15 +8263,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 10284,Loma Portal,32.75237,-117.20901,Entire home/apt,140
 10285,Southwest,32.60438,-117.04305,Entire home/apt,135
 10286,Normal Heights,32.76266,-117.11275,Entire home/apt,104
-10287,North Hills,32.75693,-117.12842,Entire home/apt,181
 10289,Midtown,32.7472,-117.17117,Entire home/apt,338
 10290,La Jolla,32.83415,-117.28078,Entire home/apt,725
 10291,East Village,32.7087,-117.15573,Entire home/apt,374
 10292,Mission Bay,32.78317,-117.25232,Entire home/apt,169
 10293,Park West,32.72798,-117.16532,Entire home/apt,225
-10294,North Hills,32.74364,-117.12652,Entire home/apt,170
 10296,Mission Bay,32.78378,-117.25138,Entire home/apt,175
-10297,North Hills,32.75158,-117.13428,Entire home/apt,89
 10298,Encanto,32.71103,-117.06315,Entire home/apt,100
 10299,Midtown District,32.73708,-117.17742,Entire home/apt,853
 10301,Memorial,32.70365,-117.14099,Entire home/apt,135
@@ -8835,14 +8378,11 @@ id,neighbourhood,latitude,longitude,room_type,price
 10432,Pacific Beach,32.80159,-117.25758,Entire home/apt,634
 10433,Pacific Beach,32.80814,-117.25199,Entire home/apt,287
 10435,North Clairemont,32.83161,-117.2115,Entire home/apt,229
-10436,North Hills,32.7467,-117.13168,Entire home/apt,212
 10438,Pacific Beach,32.80798,-117.25201,Entire home/apt,206
 10440,Little Italy,32.72275,-117.16663,Entire home/apt,183
 10441,City Heights West,32.74923,-117.12104,Entire home/apt,82
 10442,Pacific Beach,32.80048,-117.25828,Entire home/apt,696
 10443,Sky Line,32.70509,-117.04531,Entire home/apt,112
-10444,North Hills,32.75505,-117.12658,Entire home/apt,210
-10445,North Hills,32.73866,-117.12558,Entire home/apt,183
 10446,Darnall,32.74344,-117.07753,Entire home/apt,134
 10448,Balboa Park,32.71716,-117.13628,Entire home/apt,448
 10449,Mission Bay,32.7851,-117.25332,Entire home/apt,263
@@ -8917,7 +8457,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10553,Clairemont Mesa,32.80787,-117.15455,Entire home/apt,264
 10555,University City,32.8551,-117.19398,Entire home/apt,125
 10556,Pacific Beach,32.79607,-117.24017,Entire home/apt,225
-10557,North Hills,32.74149,-117.12533,Entire home/apt,340
 10559,Pacific Beach,32.79577,-117.24249,Entire home/apt,223
 10560,La Jolla,32.85163,-117.2558,Entire home/apt,488
 10561,Pacific Beach,32.79792,-117.2426,Entire home/apt,228
@@ -8938,7 +8477,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10578,Park West,32.72924,-117.16806,Entire home/apt,138
 10579,Mission Bay,32.78191,-117.25195,Entire home/apt,442
 10580,Loma Portal,32.73457,-117.23617,Entire home/apt,608
-10581,North Hills,32.73991,-117.12717,Entire home/apt,200
 10582,Cortez Hill,32.71933,-117.15653,Entire home/apt,428
 10583,Core,32.71795,-117.15493,Entire home/apt,428
 10584,Normal Heights,32.75521,-117.11683,Entire home/apt,113
@@ -8986,14 +8524,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 10635,University City,32.85421,-117.19166,Entire home/apt,455
 10636,Mira Mesa,32.90086,-117.13782,Entire home/apt,349
 10637,Mira Mesa,32.91802,-117.13381,Entire home/apt,739
-10638,North Hills,32.75158,-117.13997,Entire home/apt,134
 10639,East Village,32.70925,-117.15786,Entire home/apt,305
 10641,Mission Bay,32.79288,-117.24428,Entire home/apt,644
 10642,Pacific Beach,32.79846,-117.22978,Entire home/apt,472
 10645,Cortez Hill,32.72037,-117.15699,Entire home/apt,189
 10647,Rancho Bernadino,33.04073,-117.08172,Entire home/apt,216
 10648,Grant Hill,32.70647,-117.14461,Entire home/apt,450
-10649,North Hills,32.73801,-117.12368,Entire home/apt,209
 10650,East Village,32.71225,-117.15732,Entire home/apt,128
 10652,Serra Mesa,32.79406,-117.12625,Entire home/apt,336
 10653,La Jolla Village,32.86791,-117.23533,Entire home/apt,229
@@ -9045,7 +8581,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10704,Mission Valley,32.7624,-117.16743,Entire home/apt,199
 10705,Mission Valley,32.7624,-117.16743,Entire home/apt,241
 10706,Cortez Hill,32.7217,-117.15846,Entire home/apt,170
-10707,North Hills,32.73653,-117.12815,Entire home/apt,134
 10708,La Jolla,32.83572,-117.28096,Entire home/apt,3404
 10709,La Jolla,32.841,-117.28079,Entire home/apt,251
 10711,Ocean Beach,32.73286,-117.25243,Entire home/apt,1032
@@ -9060,7 +8595,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10720,Mission Bay,32.78842,-117.25406,Entire home/apt,514
 10721,La Jolla,32.82829,-117.27626,Entire home/apt,397
 10723,Mission Bay,32.78791,-117.25314,Entire home/apt,779
-10725,North Hills,32.7503,-117.13014,Entire home/apt,126
 10726,Bay Park,32.78594,-117.20134,Entire home/apt,189
 10727,Serra Mesa,32.80764,-117.12973,Entire home/apt,386
 10728,Lake Murray,32.79949,-117.01143,Entire home/apt,79
@@ -9128,7 +8662,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10807,Little Italy,32.72338,-117.16588,Entire home/apt,211
 10808,Little Italy,32.72112,-117.16626,Entire home/apt,285
 10809,East Village,32.71384,-117.15321,Entire home/apt,169
-10811,North Hills,32.74306,-117.12846,Entire home/apt,139
 10812,Mission Bay,32.78937,-117.25416,Entire home/apt,1033
 10813,East Village,32.71057,-117.15667,Entire home/apt,367
 10814,East Village,32.7065,-117.15842,Entire home/apt,257
@@ -9141,10 +8674,8 @@ id,neighbourhood,latitude,longitude,room_type,price
 10822,La Jolla,32.83515,-117.2743,Entire home/apt,109
 10823,East Village,32.70674,-117.15355,Entire home/apt,685
 10824,Mission Bay,32.76228,-117.2521,Entire home/apt,586
-10825,North Hills,32.75135,-117.12984,Entire home/apt,131
 10826,Mission Valley,32.76509,-117.15787,Entire home/apt,187
 10828,Moreno Mission,32.7694,-117.19955,Entire home/apt,204
-10829,North Hills,32.74914,-117.13148,Entire home/apt,125
 10832,Pacific Beach,32.79159,-117.25205,Entire home/apt,467
 10833,Pacific Beach,32.79574,-117.23545,Entire home/apt,374
 10834,Rancho Bernadino,33.03631,-117.06658,Entire home/apt,763
@@ -9291,7 +8822,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 10985,Normal Heights,32.76253,-117.12345,Entire home/apt,225
 10986,South Park,32.72857,-117.1289,Entire home/apt,167
 10989,La Jolla Village,32.85823,-117.23301,Entire home/apt,185
-10990,North Hills,32.74956,-117.1341,Entire home/apt,123
 10992,Linda Vista,32.7952,-117.1773,Entire home/apt,294
 10993,Pacific Beach,32.80463,-117.24057,Entire home/apt,290
 10994,Mission Valley,32.76161,-117.16846,Entire home/apt,200
@@ -9309,11 +8839,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 11008,Moreno Mission,32.76895,-117.18715,Entire home/apt,338
 11009,Roseville,32.73018,-117.23276,Entire home/apt,483
 11010,Bird Land,32.80419,-117.15203,Entire home/apt,165
-11011,North Hills,32.74721,-117.13703,Entire home/apt,155
 11013,Mission Bay,32.77996,-117.2518,Entire home/apt,480
 11014,Pacific Beach,32.79954,-117.2417,Entire home/apt,223
 11015,City Heights West,32.75323,-117.10634,Entire home/apt,90
-11016,North Hills,32.74746,-117.13385,Entire home/apt,128
 11017,Mission Bay,32.77236,-117.25044,Entire home/apt,328
 11018,West University Heights,32.751,-117.15388,Entire home/apt,130
 11019,Loma Portal,32.75288,-117.2325,Entire home/apt,172
@@ -9368,7 +8896,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11071,Loma Portal,32.74869,-117.24386,Entire home/apt,296
 11073,Mission Bay,32.78398,-117.25246,Entire home/apt,500
 11074,Little Italy,32.7261,-117.16767,Entire home/apt,161
-11075,North Hills,32.73968,-117.11779,Entire home/apt,105
 11076,Rancho Penasquitos,32.9892,-117.08444,Entire home/apt,462
 11077,Rancho Bernadino,33.04344,-117.06021,Entire home/apt,150
 11078,Pacific Beach,32.7963,-117.24967,Entire home/apt,212
@@ -9411,7 +8938,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11123,Mission Bay,32.76499,-117.25106,Entire home/apt,860
 11124,Mission Bay,32.76525,-117.25191,Entire home/apt,642
 11125,Loma Portal,32.75307,-117.22639,Entire home/apt,196
-11126,North Hills,32.75569,-117.13396,Entire home/apt,218
 11127,Southwest,32.60848,-117.05282,Entire home/apt,115
 11128,Ocean Beach,32.74855,-117.24971,Entire home/apt,150
 11129,Allied Gardens,32.79431,-117.09442,Entire home/apt,116
@@ -9452,7 +8978,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11182,Kensington,32.76028,-117.1072,Entire home/apt,86
 11183,Northwest,32.64024,-117.0723,Entire home/apt,206
 11184,East Village,32.70635,-117.15525,Entire home/apt,371
-11185,North Hills,32.74315,-117.1278,Entire home/apt,143
 11186,Ocean Beach,32.75141,-117.24893,Entire home/apt,130
 11187,Gaslamp Quarter,32.71246,-117.15975,Entire home/apt,228
 11188,Bay Park,32.7925,-117.20231,Entire home/apt,474
@@ -9518,7 +9043,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11253,Moreno Mission,32.76754,-117.19304,Entire home/apt,132
 11255,Webster,32.72663,-117.09756,Entire home/apt,205
 11256,Del Cerro,32.79008,-117.07913,Entire home/apt,269
-11257,North Hills,32.74643,-117.12367,Entire home/apt,137
 11258,East Village,32.70858,-117.15214,Entire home/apt,399
 11260,University City,32.84862,-117.20826,Entire home/apt,434
 11261,Park West,32.72855,-117.16612,Entire home/apt,78
@@ -9542,7 +9066,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11280,Loma Portal,32.74354,-117.23958,Entire home/apt,225
 11281,Ocean Beach,32.74281,-117.25136,Entire home/apt,261
 11282,Loma Portal,32.74578,-117.21327,Entire home/apt,136
-11283,North Hills,32.74707,-117.1381,Entire home/apt,350
 11284,Southwest,32.5955,-117.06523,Entire home/apt,180
 11285,City Heights East,32.75454,-117.08028,Entire home/apt,143
 11286,Loma Portal,32.74612,-117.22677,Entire home/apt,120
@@ -9561,7 +9084,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11300,West University Heights,32.75808,-117.14164,Entire home/apt,408
 11301,Clairemont Mesa,32.82136,-117.16603,Entire home/apt,448
 11302,Grantville,32.78715,-117.11095,Entire home/apt,140
-11303,North Hills,32.74506,-117.12535,Entire home/apt,163
 11304,Loma Portal,32.74047,-117.22809,Entire home/apt,199
 11305,Midtown,32.74197,-117.15144,Entire home/apt,216
 11306,Mission Bay,32.78347,-117.23715,Entire home/apt,517
@@ -9587,7 +9109,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11328,La Jolla,32.81086,-117.26611,Entire home/apt,236
 11329,Bay Park,32.79218,-117.2038,Entire home/apt,445
 11330,Cortez Hill,32.72204,-117.15585,Entire home/apt,127
-11331,North Hills,32.74549,-117.13936,Entire home/apt,362
 11332,Moreno Mission,32.76829,-117.18724,Entire home/apt,182
 11333,Otay Ranch,32.61245,-116.97295,Entire home/apt,236
 11334,Midtown,32.73539,-117.16333,Entire home/apt,167
@@ -9599,7 +9120,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11341,Mission Bay,32.78402,-117.25339,Entire home/apt,454
 11342,Little Italy,32.72361,-117.17048,Entire home/apt,225
 11343,Pacific Beach,32.80386,-117.25043,Entire home/apt,633
-11345,North Hills,32.74781,-117.12828,Entire home/apt,221
 11346,Ocean Beach,32.74249,-117.25058,Entire home/apt,118
 11349,Carmel Mountain,32.9774,-117.08675,Entire home/apt,353
 11350,College Area,32.7669,-117.08044,Entire home/apt,318
@@ -9640,7 +9160,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11388,Loma Portal,32.75359,-117.23199,Entire home/apt,105
 11392,Loma Portal,32.74778,-117.21731,Entire home/apt,875
 11393,Pacific Beach,32.79733,-117.25505,Entire home/apt,621
-11394,North Hills,32.73565,-117.11763,Entire home/apt,166
 11395,Mission Bay,32.77529,-117.25142,Entire home/apt,781
 11396,Marina,32.71419,-117.16704,Entire home/apt,96
 11397,East Village,32.70543,-117.15455,Entire home/apt,2500
@@ -9662,7 +9181,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11414,Mission Bay,32.7654,-117.25205,Entire home/apt,439
 11415,East Village,32.70928,-117.15212,Entire home/apt,548
 11416,Mission Bay,32.79173,-117.23646,Entire home/apt,827
-11417,North Hills,32.74159,-117.13228,Entire home/apt,210
 11418,East Village,32.71103,-117.15873,Entire home/apt,393
 11419,Bay Park,32.79465,-117.20347,Entire home/apt,648
 11420,East Village,32.70906,-117.15875,Entire home/apt,348
@@ -9682,7 +9200,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11436,Bay Park,32.78681,-117.19119,Entire home/apt,314
 11437,University City,32.86781,-117.22043,Entire home/apt,219
 11438,Loma Portal,32.7561,-117.22411,Entire home/apt,528
-11439,North Hills,32.74878,-117.13151,Entire home/apt,120
 11440,East Village,32.71,-117.15906,Entire home/apt,241
 11441,East Village,32.70923,-117.15886,Entire home/apt,257
 11442,East Village,32.70876,-117.15785,Entire home/apt,367
@@ -9692,7 +9209,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11446,East Village,32.7105,-117.15771,Entire home/apt,371
 11447,Mission Bay,32.76462,-117.25159,Entire home/apt,516
 11448,City Heights East,32.75591,-117.08722,Entire home/apt,186
-11449,North Hills,32.76162,-117.13798,Entire home/apt,364
 11450,Bay Ho,32.81347,-117.20443,Entire home/apt,140
 11451,Mission Bay,32.76119,-117.24888,Entire home/apt,723
 11452,Tierrasanta,32.8234,-117.09055,Entire home/apt,495
@@ -9730,7 +9246,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11496,Mission Bay,32.77295,-117.25235,Entire home/apt,596
 11497,Midtown,32.738,-117.17351,Entire home/apt,337
 11498,Mission Bay,32.78692,-117.25408,Entire home/apt,1242
-11499,North Hills,32.7469,-117.13747,Entire home/apt,177
 11500,Loma Portal,32.74833,-117.24286,Entire home/apt,205
 11501,Moreno Mission,32.76944,-117.18584,Entire home/apt,223
 11502,La Jolla,32.85041,-117.27401,Entire home/apt,1145
@@ -9738,7 +9253,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11504,East Village,32.71179,-117.15085,Entire home/apt,148
 11505,Pacific Beach,32.80643,-117.25682,Entire home/apt,467
 11506,Rancho Penasquitos,32.97708,-117.13506,Entire home/apt,422
-11507,North Hills,32.75524,-117.13705,Entire home/apt,191
 11508,La Jolla,32.83448,-117.2759,Entire home/apt,325
 11509,Pacific Beach,32.80251,-117.23994,Entire home/apt,754
 11510,La Jolla,32.83702,-117.2757,Entire home/apt,209
@@ -9763,15 +9277,12 @@ id,neighbourhood,latitude,longitude,room_type,price
 11531,Kensington,32.7641,-117.104,Entire home/apt,110
 11532,Webster,32.72844,-117.08461,Entire home/apt,300
 11535,Ocean Beach,32.73354,-117.25243,Entire home/apt,693
-11536,North Hills,32.74094,-117.12448,Entire home/apt,146
 11537,East Village,32.71205,-117.15134,Entire home/apt,143
 11538,Midtown,32.74657,-117.15868,Entire home/apt,248
 11539,Rancho Penasquitos,32.97333,-117.0916,Entire home/apt,450
 11540,La Jolla,32.84862,-117.27437,Entire home/apt,345
 11542,City Heights West,32.74801,-117.11468,Entire home/apt,90
-11543,North Hills,32.73611,-117.13247,Entire home/apt,329
 11544,Grant Hill,32.71168,-117.12593,Entire home/apt,1425
-11545,North Hills,32.73718,-117.11698,Entire home/apt,105
 11546,Old Town,32.74432,-117.18621,Entire home/apt,267
 11547,East Village,32.71401,-117.15094,Entire home/apt,146
 11548,Mission Valley,32.77036,-117.15642,Entire home/apt,182
@@ -9819,7 +9330,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11594,Mission Bay,32.78906,-117.2353,Entire home/apt,457
 11595,Mission Bay,32.79091,-117.24149,Entire home/apt,362
 11596,Grant Hill,32.71193,-117.13895,Entire home/apt,168
-11597,North Hills,32.75081,-117.1343,Entire home/apt,123
 11598,Ocean Beach,32.74116,-117.24967,Entire home/apt,403
 11599,Mission Bay,32.76142,-117.25088,Entire home/apt,247
 11600,Midtown District,32.73372,-117.22166,Entire home/apt,340
@@ -9838,11 +9348,9 @@ id,neighbourhood,latitude,longitude,room_type,price
 11616,Ocean Beach,32.73471,-117.24608,Entire home/apt,150
 11617,East Village,32.71247,-117.14933,Entire home/apt,219
 11618,Pacific Beach,32.80149,-117.23357,Entire home/apt,131
-11619,North Hills,32.75364,-117.14399,Entire home/apt,202
 11620,West University Heights,32.75955,-117.15034,Entire home/apt,160
 11621,Mission Bay,32.77509,-117.25221,Entire home/apt,679
 11622,East Village,32.72109,-117.155,Entire home/apt,382
-11624,North Hills,32.76518,-117.1301,Entire home/apt,149
 11625,La Jolla,32.81825,-117.26004,Entire home/apt,1116
 11626,Mission Bay,32.76286,-117.25082,Entire home/apt,333
 11627,Pacific Beach,32.79766,-117.2413,Entire home/apt,400
@@ -9880,7 +9388,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11665,La Jolla,32.84719,-117.27086,Entire home/apt,445
 11666,Southwest,32.5962,-117.06602,Entire home/apt,149
 11668,Park West,32.72874,-117.16678,Entire home/apt,360
-11669,North Hills,32.74253,-117.12479,Entire home/apt,400
 11670,South Park,32.7195,-117.12842,Entire home/apt,451
 11671,Ocean Beach,32.73354,-117.25243,Entire home/apt,119
 11672,La Jolla,32.83686,-117.27231,Entire home/apt,1676
@@ -9932,13 +9439,10 @@ id,neighbourhood,latitude,longitude,room_type,price
 11723,Carmel Valley,32.94727,-117.23116,Entire home/apt,249
 11724,Cortez Hill,32.72056,-117.15685,Entire home/apt,148
 11725,Normal Heights,32.77053,-117.11511,Entire home/apt,343
-11726,North Hills,32.75242,-117.12438,Entire home/apt,176
 11727,Old Town,32.7464,-117.18172,Entire home/apt,555
 11728,La Jolla,32.82965,-117.27979,Entire home/apt,309
 11729,Mission Bay,32.78453,-117.25305,Entire home/apt,291
 11730,Bird Land,32.78683,-117.15798,Entire home/apt,440
-11731,North Hills,32.76284,-117.13726,Entire home/apt,106
-11733,North Hills,32.75643,-117.13679,Entire home/apt,148
 11734,La Jolla,32.82763,-117.27968,Entire home/apt,2139
 11735,La Jolla,32.81447,-117.27122,Entire home/apt,1037
 11736,La Jolla,32.82897,-117.27795,Entire home/apt,352
@@ -10047,8 +9551,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11848,West University Heights,32.76323,-117.14487,Entire home/apt,116
 11849,Normal Heights,32.76179,-117.12262,Entire home/apt,129
 11850,Normal Heights,32.76126,-117.12265,Entire home/apt,121
-11851,North Hills,32.75263,-117.13446,Entire home/apt,122
-11852,North Hills,32.75454,-117.13452,Entire home/apt,138
 11853,West University Heights,32.76349,-117.14554,Entire home/apt,138
 11854,West University Heights,32.76196,-117.14688,Entire home/apt,157
 11855,West University Heights,32.76151,-117.14674,Entire home/apt,140
@@ -10057,7 +9559,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11858,West University Heights,32.76141,-117.14528,Entire home/apt,128
 11859,West University Heights,32.7617,-117.14522,Entire home/apt,122
 11860,West University Heights,32.76328,-117.14663,Entire home/apt,123
-11861,North Hills,32.73942,-117.12954,Entire home/apt,178
 11862,Memorial,32.70598,-117.12657,Entire home/apt,193
 11863,Mission Bay,32.78845,-117.24067,Entire home/apt,332
 11865,San Carlos,32.79771,-117.07604,Entire home/apt,495
@@ -10133,7 +9634,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 11948,Mount Hope,32.71288,-117.10474,Entire home/apt,120
 11949,Mission Bay,32.77135,-117.25264,Entire home/apt,306
 11950,Bay Park,32.78342,-117.20127,Entire home/apt,254
-11951,North Hills,32.74065,-117.12129,Entire home/apt,154
 11952,Webster,32.73368,-117.0798,Entire home/apt,155
 11953,Allied Gardens,32.80073,-117.08323,Entire home/apt,130
 11954,Mission Bay,32.78643,-117.24026,Entire home/apt,1457
@@ -10181,27 +9681,16 @@ id,neighbourhood,latitude,longitude,room_type,price
 12007,Gaslamp Quarter,32.71435,-117.16077,Entire home/apt,141
 12008,Marina,32.71021,-117.16225,Entire home/apt,200
 12009,University City,32.86795,-117.21921,Entire home/apt,182
-12010,North Hills,32.76128,-117.13827,Entire home/apt,164
-12011,North Hills,32.7591,-117.13804,Entire home/apt,164
-12012,North Hills,32.7589,-117.13765,Entire home/apt,164
-12013,North Hills,32.76051,-117.13745,Entire home/apt,164
-12014,North Hills,32.75921,-117.13748,Entire home/apt,170
 12015,Southwest,32.60877,-117.0406,Entire home/apt,108
-12016,North Hills,32.75326,-117.14377,Entire home/apt,131
 12017,East Village,32.7006,-117.14605,Entire home/apt,306
 12018,Mission Bay,32.77355,-117.25099,Entire home/apt,327
-12019,North Hills,32.75283,-117.14553,Entire home/apt,314
 12020,Southwest,32.60977,-117.05295,Entire home/apt,101
-12021,North Hills,32.75266,-117.14513,Entire home/apt,186
-12022,North Hills,32.75268,-117.14579,Entire home/apt,207
 12023,Torrey Pines,32.87591,-117.24494,Entire home/apt,1271
 12025,College Area,32.77114,-117.04752,Entire home/apt,99
 12026,East Village,32.70645,-117.15592,Entire home/apt,399
-12027,North Hills,32.74262,-117.12309,Entire home/apt,299
 12028,Pacific Beach,32.80162,-117.25734,Entire home/apt,204
 12029,La Jolla,32.84249,-117.26834,Entire home/apt,642
 12030,Grantville,32.78626,-117.10106,Entire home/apt,200
-12031,North Hills,32.76162,-117.13798,Entire home/apt,257
 12032,La Jolla,32.83793,-117.2752,Entire home/apt,229
 12033,Pacific Beach,32.79776,-117.2413,Entire home/apt,652
 12034,La Jolla,32.83944,-117.27326,Entire home/apt,342
@@ -10218,7 +9707,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 12046,Pacific Beach,32.80132,-117.25763,Entire home/apt,385
 12047,San Carlos,32.8097,-117.0615,Entire home/apt,99
 12051,Cortez Hill,32.71982,-117.15798,Entire home/apt,162
-12052,North Hills,32.75505,-117.13851,Entire home/apt,110
 12053,Ocean Beach,32.73413,-117.24316,Entire home/apt,136
 12054,Ocean Beach,32.73133,-117.25618,Entire home/apt,2601
 12056,Mission Bay,32.79353,-117.24132,Entire home/apt,798
@@ -10232,7 +9720,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 12064,Mission Bay,32.78912,-117.25431,Entire home/apt,1600
 12065,Linda Vista,32.78651,-117.18013,Entire home/apt,110
 12066,Memorial,32.70555,-117.14438,Entire home/apt,204
-12067,North Hills,32.74084,-117.13102,Entire home/apt,142
 12068,Mira Mesa,32.90765,-117.15339,Entire home/apt,165
 12069,Loma Portal,32.74742,-117.24398,Entire home/apt,368
 12070,Serra Mesa,32.80974,-117.12903,Entire home/apt,177
@@ -10278,7 +9765,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 12112,East Village,32.70036,-117.1458,Entire home/apt,115
 12113,College Area,32.77089,-117.06862,Entire home/apt,375
 12114,Normal Heights,32.7576,-117.11621,Entire home/apt,131
-12115,North Hills,32.75136,-117.13079,Entire home/apt,119
 12116,Allied Gardens,32.81417,-117.08297,Entire home/apt,225
 12117,Pacific Beach,32.80308,-117.25376,Entire home/apt,164
 12118,East Village,32.70764,-117.15721,Entire home/apt,333
@@ -10336,7 +9822,6 @@ id,neighbourhood,latitude,longitude,room_type,price
 12181,Encanto,32.72347,-117.06328,Entire home/apt,761
 12182,Mission Bay,32.79175,-117.23579,Entire home/apt,195
 12183,Gaslamp Quarter,32.71552,-117.16067,Entire home/apt,184
-12185,North Hills,32.75152,-117.1415,Entire home/apt,88
 12186,Memorial,32.69583,-117.12741,Entire home/apt,217
 12187,Mission Bay,32.77273,-117.25186,Entire home/apt,450
 12188,Mission Bay,32.76158,-117.25156,Entire home/apt,250
