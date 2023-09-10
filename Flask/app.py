@@ -1,124 +1,141 @@
-from flask import Flask, jsonify, request
-import json
-import psycopg2
-from configparser import ConfigParser
-from config import config
+from flask import Flask, jsonify
+from sqlalchemy import Column, Integer, String, Float, DateTime, create_engine
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+from connect import connect, config 
+from sqlalchemy.types import TypeDecorator
 
 app = Flask(__name__)
 
-# Load configuration from JSON file
-with open('config.json') as config_file:
-    config_data = json.load(config_file)  # Use a different variable name
+Base = declarative_base()
 
-# Database connection configuration
-db_config = {
-    "dbname": config_data['database']['dbname'],  
-    "user": config_data['database']['user'],     
-    "password": config_data['database']['password'],  
-    "host": config_data['database']['host'],          
-    "port": config_data['database']['port']          
-}
+class Money(TypeDecorator):
+    impl = String
 
-# Function to establish a database connection
-def connect_db():
-    conn = psycopg2.connect(**db_config)
-    return conn
+    def load_dialect_impl(self, dialect):
+        if dialect.name == 'postgresql':
+            return dialect.type_descriptor(String(10))
+        else:
+            return dialect.type_descriptor(String(10))
 
-# API route to retrieve data from "airbnbs" table
+class Airbnb(Base):
+    __tablename__ = 'airbnbs'
+
+    id = Column(Integer, primary_key=True)
+    neighborhood = Column(String(66))
+    latitude = Column(Float)
+    longitude = Column(Float)
+    room_type = Column(String(66))
+    price = Column(Money)
+
+class CrashLocation(Base):
+    __tablename__ = 'crash_locations'
+
+    number = Column(Integer, primary_key=True)
+    collision_date = Column(DateTime)
+    collision_time = Column(String(8))
+    day_of_week = Column(String(66))
+    longitude = Column(Float)
+    latitude = Column(Float)
+
+class Crime(Base):
+    __tablename__ = 'crime'
+
+    neighborhood = Column(String(66), primary_key=True)
+    crime_index = Column(Integer)
+    motor_vehicle_theft = Column(Integer)
+    total_violent_crime = Column(Integer)
+    total_burglary = Column(Integer)
+    total_thefts = Column(Integer)
+
+# Database connection
+connect()  
+
+# Define your SQLAlchemy engine and session here
+db_config = config()
+db_uri = f"postgresql://{db_config['user']}:{db_config['password']}@{db_config['host']}:{db_config['port']}/{db_config['dbname']}"
+engine = create_engine(db_uri)
+Session = sessionmaker(bind=engine)
+session = Session()
+
+# Define a route for the root URL
+@app.route("/", methods=["GET"])
+def home():
+        #links to other endpoints
+    airbnb_link = "<a href='/api/airbnbs'>Airbnb Data</a>"
+    crash_locations_link = "<a href='/api/crash_locations'>Crash Locations</a>"
+    crime_link = "<a href='/api/crime'>Crime Data</a>"
+
+    # message with links
+    message = f"Welcome to SD's Best Located Rentals!<br>{airbnb_link}<br>{crash_locations_link}<br>{crime_link}"
+
+    return message
 @app.route("/api/airbnbs", methods=["GET"])
-def get_airbnbs_data():
+def airbnbs():
     try:
-        conn = connect_db()
-        cursor = conn.cursor()
-
-        # SQL query for "airbnbs" table
-        query = "SELECT id, neighborhood, latitude, longitude, room_type, price FROM airbnbs"
-        cursor.execute(query)
-
-        # Fetch all rows
-        rows = cursor.fetchall()
-
-        # Convert rows to a list of dictionaries
-        data = []
-        for row in rows:
-            data.append({
-                "id": row[0],
-                "neighborhood": row[1],
-                "latitude": float(row[2]),
-                "longitude": float(row[3]),
-                "room_type": row[4],
-                "price": float(row[5]),
-            })
-
-        conn.close()
-        return jsonify(data)
-
+        data = session.query(Airbnb).all()
+        # Convert SQLAlchemy objects to dictionaries and jsonify
+        result = [
+            {
+                "id": entry.id,
+                "neighborhood": entry.neighborhood,
+                "latitude": entry.latitude,
+                "longitude": entry.longitude,
+                "room_type": entry.room_type,
+                "price": entry.price,
+            }
+            for entry in data
+        ]
+        return jsonify(result)
     except Exception as e:
         return jsonify({"error": str(e)})
 
 # API route to retrieve data from "crash_locations" table
 @app.route("/api/crash_locations", methods=["GET"])
-def get_crash_locations_data():
+def crash_locations():
     try:
-        conn = connect_db()
-        cursor = conn.cursor()
-
-        # SQL query for "crash_locations" table
-        query = "SELECT number, collision_date, collision_time, day_of_week, longitude, latitude FROM crash_locations"
-        cursor.execute(query)
-
-        # Fetch all rows
-        rows = cursor.fetchall()
-
-        # Convert rows to a list of dictionaries
-        data = []
-        for row in rows:
-            data.append({
-                "number": row[0],
-                "collision_date": str(row[1]),
-                "collision_time": str(row[2]),
-                "day_of_week": row[3],
-                "longitude": float(row[4]),
-                "latitude": float(row[5]),
-            })
-
-        conn.close()
-        return jsonify(data)
-
+        data = session.query(CrashLocation).all()
+        result = [
+            {
+                "number": entry.number,
+                "collision_date": str(entry.collision_date),
+                "collision_time": str(entry.collision_time),
+                "day_of_week": entry.day_of_week,
+                "longitude": float(entry.longitude),
+                "latitude": float(entry.latitude),
+            }
+            for entry in data
+        ]
+        return jsonify(result)
     except Exception as e:
         return jsonify({"error": str(e)})
 
 # API route to retrieve data from "crime" table
 @app.route("/api/crime", methods=["GET"])
-def get_crime_data():
+def crime_data():
     try:
-        conn = connect_db()
-        cursor = conn.cursor()
-
-        # SQL query for "crime" table
-        query = "SELECT neighborhood, crime_index, motor_vehicle_theft, total_violent_crime, total_burglary, total_thefts FROM crime"
-        cursor.execute(query)
-
-        # Fetch all rows
-        rows = cursor.fetchall()
-
-        # Convert rows to a list of dictionaries
-        data = []
-        for row in rows:
-            data.append({
-                "neighborhood": row[0],
-                "crime_index": int(row[1]),
-                "motor_vehicle_theft": int(row[2]),
-                "total_violent_crime": int(row[3]),
-                "total_burglary": int(row[4]),
-                "total_thefts": int(row[5]),
-            })
-
-        conn.close()
-        return jsonify(data)
-
+        data = session.query(Crime).all()
+        result = [
+            {
+                "neighborhood": entry.neighborhood,
+                "crime_index": int(entry.crime_index),
+                "motor_vehicle_theft": int(entry.motor_vehicle_theft),
+                "total_violent_crime": int(entry.total_violent_crime),
+                "total_burglary": int(entry.total_burglary),
+                "total_thefts": int(entry.total_thefts),
+            }
+            for entry in data
+        ]
+        return jsonify(result)
     except Exception as e:
         return jsonify({"error": str(e)})
 
 if __name__ == "__main__":
+    # Get the database connection parameters from config.ini
+    db_config = config()
+
+    # Create SQLAlchemy engine
+    db_uri = f"postgresql://{db_config['user']}:{db_config['password']}@{db_config['host']}:{db_config['port']}/{db_config['dbname']}"
+    engine = create_engine(db_uri)
+
     app.run(debug=True)
