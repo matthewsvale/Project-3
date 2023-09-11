@@ -77,44 +77,62 @@ function fetchCrimeDataAndCreateBarChart(selectedColumn) {
     });
 }
 
-// Define column we want to use for the pie chart
-const pieColumn = 'Day_of_week'
-
+// Function that fetches the data from the crime_data table
 function fetchPieDataCreatePieChart() {
   // Defines API endpoint for the Crash_Locations table data
   const piechartEndpoint = '/car_crash';
-
   fetch(piechartEndpoint)
     .then((response) => response.json())
     .then((data) => {
+
+      // Creates the headers for the pie chart
+      const chartData = [['Day', 'Count']];
+      // Needed for the sidebar to show what each number represents and to count the number of times the day is found in the column
+      const dayLabels = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+      const dayCounts = {
+        Monday: 0,
+        Tuesday: 0,
+        Wednesday: 0,
+        Thursday: 0,
+        Friday: 0,
+        Saturday: 0,
+        Sunday: 0,
+      };
       
-      const valueCounts = [0, 0, 0, 0, 0, 0, 0];
+      // Iterates through the column to count the amount of times the number that represents the day of the week appears 
       data.forEach((item) => {
-        const value = item.Day_of_week;
-        if (value >= 1 && value <= 7) {
-          valueCounts[value -1]++
-        }
+        const dayOfWeek = dayLabels[item.Day_of_week - 1];
+        dayCounts[dayOfWeek]++ 
       });
 
-      const labels = ['1: Monday', '2: Tuesday', '3: Wednesday', '4: Thursday', '5: Friday', '6: Saturday', '7: Sunday'];
+      // Turns dayCounts into an array and appends to chartData
+      Object.entries(dayCounts).forEach(([dayOfWeek, count]) => {
+        chartData.push([dayOfWeek, count]);
+      });
 
-      const values = valueCounts
-
-      const pieData = [{
-        labels: labels,
-        values: values,
-        type: 'pie',
-      }];
-
-      const layout = {
-        title: 'Pie Chart'
-      }
-      
-      // Use Plotly to make the pie chart
-      Plotly.newPlot('pie-chart', pieData, layout);
+      // Used to load Google Charts js library and calls the GooglePieChart function
+      google.charts.load('current', {'packages': ['corechart']});
+      google.charts.setOnLoadCallback(() => GooglePieChart(chartData));
     })
     .catch((error) => {
       console.error('Error fetching pie chart data:', error);
     });
+
 }
+
+// Function converting chartData into a DataTable
+function GooglePieChart(chartData) {
+  const data = google.visualization.arrayToDataTable(chartData);
+
+  const options = {
+    title: 'Pie Chart',
+  };
+
+  // Associates PieChart with google-pie-chart and draws it
+  const chart = new google.visualization.PieChart(document.getElementById('google-pie-chart'));
+  chart.draw(data, options);
+}
+
+// Loads the Google Charts js library and starts up the function
+google.charts.load('current', {'packages': ['corechart']});
 fetchPieDataCreatePieChart();

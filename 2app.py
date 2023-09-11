@@ -183,7 +183,7 @@ def airbnb_data():
     
         return jsonify(results)
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'error': str(e)}), 400
     
 # Defines a route to get the crime data
 @app.route('/crime')

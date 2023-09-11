@@ -6,8 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>San Diego Safety Trip</title>
-  <!-- Include Plotly.js library -->
+  <!-- For the Plotly.js library -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+  <!-- For the Google Chart.js library -->
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -26,6 +29,7 @@
 
   <!-- The div that holds our map -->
   <div id="map"></div>
+
   <!-- Div for Bar Chart -->
   <div id="bar-chart">
     <label for="column-select">Select Column:</label>
@@ -155,12 +159,10 @@
       <option value="WOODED_AREA">WOODED_AREA</option>
       <option value="Total">Total</option>
 
-
-      
     </select>
   </div>
   <!-- Div for Pie Chart -->
-  <div id="pie-chart"></div>
+  <div id="google-pie-chart"></div>
 
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

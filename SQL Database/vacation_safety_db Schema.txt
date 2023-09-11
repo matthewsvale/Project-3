@@ -1,5 +1,6 @@
 DROP TABLE "Crash_Locations";
 DROP TABLE "airbnbs";
+DROP TABLE "crime_data";
 
 CREATE TABLE "airbnbs" (
     "id" int   NOT NULL,
@@ -26,7 +27,7 @@ CREATE TABLE "Crash_Locations" (
      )
 );
 
-CREATE TABLE crime_data (
+CREATE TABLE "crime_data" (
     "SORT_ORDER" INT,
     "Crime" TEXT,
     "ADAMS_NORTH" INT,
@@ -177,11 +178,6 @@ ALTER TABLE "Crash_Locations"
 ALTER COLUMN "latitude" TYPE NUMERIC(10, 6); 
 
 
-SELECT * FROM airbnbs
 SELECT * FROM "Crash_Locations"
-
-
-
-SELECT column_name, data_type
-FROM information_schema.columns
-WHERE table_name = 'airbnbs' AND data_type = 'numeric';
+SELECT * FROM "airbnbs"
+SELECT * FROM "crime_data"
