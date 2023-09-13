@@ -161,7 +161,8 @@ class Crash_Locations(db.Model):
 
 # Intitializes the Flask app and then we connect to the Postgres SQL Database
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://mypostgres:postgres@localhost:5432/vacation_safety_db'
+default_url = 'postgresql://mypostgres:postgres@localhost:5432/vacation_safety_db'
+app.config['SQLALCHEMY_DATABASE_URI'] = default_url
 db.init_app(app)
 
 
