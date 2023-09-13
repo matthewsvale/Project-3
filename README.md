@@ -9,11 +9,11 @@
 
 
 # How To:
-1. Clone
-2. 
-3. 
-4. 
-5. 
+1. Clone repo to Desktop
+2. Use schema file in SQL Database folder to create a "vacation_safety_db" database in PostgreSQL
+3. Import each csv from the Resources folder into the database tables
+4. Use "SELECT * FROM" at the bottom of the schema text to make sure the data imported into each table
+5. Open the 2app.py filem, scroll down to the 
 
 
 # Sources
